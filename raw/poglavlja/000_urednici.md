@@ -1,0 +1,81 @@
+**O urednicima i autorima**
+
+Dr. sc. Nataša Šimić zaposlena je kao redovna profesorica na Odjelu za
+psihologiju Sveučilišta u Zadru. Nositeljica je većeg broja kolegija iz
+biološke psihologije. Njezini su znanstveni interesi primarno u području
+biološke psihologije, dijelom i evolucijske psihologije, i uključuju:
+psihofiziologiju stresa, endokrinologiju ponašanja te vršnjačko i
+partnersko nasilje. Sudjelovanjem u obilježavanju Tjedna mozga Odjela za
+psihologiju Sveučilišta u Zadru radi na popularizaciji neuroznanosti.
+
+Dr. sc. Pavle Valerjev bavi se eksperimentalnom i kognitivnom
+psihologijom i prvenstveno je zaokupljen istraživanjima mišljenja,
+rasuđivanja, donošenja odluka, rješavanja problema, metakognicije i
+perceptivnih iluzija. Zaposlen je na Odjelu za psihologiju Sveučilišta u
+Zadru gdje radi kao izvanredni profesor i drži više kolegija iz područja
+kognitivne psihologije i percepcije te je također voditelj Laboratorija
+za eksperimentalnu psihologiju. Često kao javni predavač popularizira
+psihologiju i kognitivnu znanost.
+
+Dr. sc. Matilda Nikolić Ivanišević članica je Odjela za psihologiju
+Sveučilišta u Zadru na kojem je zaposlena u zvanju docenta. Njezini
+istraživački interesi prvenstveno se odnose na psihofiziologiju, točnije
+na kardiovaskularnu i kortikalnu aktivnost za vrijeme različitih
+mentalnih i motoričkih radnji. Nastava koju izvodi vezana je uz
+metodologiju, mjerne tehnike u psihofiziologiji te stres u radu. Aktivna
+je u obilježavanju Tjedna mozga, ali i ostalih aktivnosti kojima je cilj
+popularizacija znanosti i Odjela, odnosno Sveučilišta u Zadru (Tjedan
+psihologije, Otvoreni dan Sveučilišta).
+
+Dr. sc. Igor Bajšanski izvanredni je profesor na Odsjeku za psihologiju
+Filozofskog fakulteta Sveučilišta u Rijeci. Nositelj je kolegija iz
+područja kognitivne psihologije i psihologije učenja, a predaje i
+izborni kolegij Psihologija svijesti. Njegovi su znanstveni interesi u
+području eksperimentalne kognitivne psihologije, posebno u području
+metakognicije, psihologije mišljenja i psihologije učenja. Održao je
+više popularnih predavanja o psihologiji mišljenja i o psihološkim
+miskoncepcijama.
+
+Benjamin Banai trenutno je zaposlen na Odjelu za psihologiju Sveučilišta
+u Zadru te je doktorand na Filozofskom fakultetu Sveučilišta u Zagrebu.
+Njegov primarni istraživački interes primjena je evolucijske psihologije
+u razumijevanju političkog ponašanja i organizacije ljudskih grupa. Osim
+toga, bavio se istraživanjem individualnih razlika u ličnosti,
+seksualnosti i ljubomori. Sudjeluje u izvođenju nastave na kolegijima iz
+biološke psihologije te metodologije znanstvenog rada.
+
+Dr. sc. Tanja Gulan istraživački se bavi kognitivnom psihologijom.
+Njezin je primarni istraživački interes psihologija jezika, prvenstveno
+istraživanja bilingvizma, a osim toga uključena je u istraživanja
+rasuđivanja i perceptivnih iluzija. Radila je na odsjecima za
+psihologiju riječkog i zadarskog sveučilišta, kao i na odjelu
+lingvistike. Trenutno radi kao školski psiholog te kao gostujući
+predavač u zvanju docenta drži nastavu iz kognitivne psihologije i
+inteligencije na Odsjeku za psihologiju Sveučilišta u Mostaru.
+
+Mr. sc. Lozena Ivanov viši je predavač na Odjelu za psihologiju
+Sveučilišta u Zadru gdje drži različite kolegije iz opće, kognitivne i
+edukacijske psihologije. Njezini interesi usmjereni su na procese
+pamćenja i učenja, ali i na različite motivacijske faktore povezane s
+njima. U okviru samoregulacije učenja posebno je interesira uloga
+osobnih uvjerenja o vlastitim sposobnostima organiziranja i izvršavanja
+akcija potrebnih za ostvarenje željenih ishoda te primjena tih spoznaja
+u obrazovanju i svakodnevnom životu.
+
+Dr. sc. Marina Nekić zaposlena je kao izvanredna profesorica na Odjelu
+za psihologiju Sveučilišta u Zadru. Nositeljica je većeg broja kolegija
+iz razvojne psihologije te kolegija iz područja psihologije
+seksualnosti, psihologije savjetovanja i osnova iz geštalt
+psihoterapije. Njezini znanstveni interesi vezani su za područje
+razvojne psihologije, seksualnosti i usredotočene svjesnosti. Često
+provodi radionice za studente u sklopu Studentskog savjetovališta i kao
+javna predavačica usmjerena je i na populariziranje psihologije.
+
+Dr. sc. Irena Pavela Banai docentica je na Odjelu za psihologiju
+Sveučilišta u Zadru. Sudjeluje u izvođenju nastave iz područja biološke
+i eksperimentalne psihologije. Njezini istraživački interesi uključuju
+područja evolucijske psihologije i psihoneuroendokrinologije. Bavi se
+istraživanjima ljudskog glasa i njegovom ulogom u privlačenju partnera
+kod žena te izražavanju dominacije kod muškaraca. Svake godine sudjeluje
+u obilježavanju Tjedna mozga s ciljem promoviranja i popularizacije
+spoznaja iz područja neuroznanosti.
