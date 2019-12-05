@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-05'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-05\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-05\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/6619552ec9092f965d0cce5b4c617ed4519e9989/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/6619552ec9092f965d0cce5b4c617ed4519e9989/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/6619552ec9092f965d0cce5b4c617ed4519e9989/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-05\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-05\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/3ebbb86d963f4f9fc28835b8241707ffafa5e712/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/3ebbb86d963f4f9fc28835b8241707ffafa5e712/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/3ebbb86d963f4f9fc28835b8241707ffafa5e712/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/6619552ec9092f965d0cce5b4c617ed4519e9989/))
+([permalink](https://fpehar.github.io/manupsy/v/3ebbb86d963f4f9fc28835b8241707ffafa5e712/))
 was automatically generated
-from [fpehar/manupsy@6619552](https://github.com/fpehar/manupsy/tree/6619552ec9092f965d0cce5b4c617ed4519e9989)
+from [fpehar/manupsy@3ebbb86](https://github.com/fpehar/manupsy/tree/3ebbb86d963f4f9fc28835b8241707ffafa5e712)
 on December 5, 2019.
 </em></small>
 
@@ -61,23 +61,21 @@ Knjiga je zamišljena kao dodatni udžbenik za veći broj kolegija na studiju ps
 
 Zahvaljujemo našim kolegama, autorima poglavlja na odabiru relevantnih tema i vrlo uspješnoj suradnji u svakoj fazi našeg zajedničkog rada. Također zahvaljujemo i našim kolegama recenzentima dr. sc. Draženu Domijanu, dr. sc. Ani Slišković i dr. sc. Ivani Hromatko na vrlo korisnim sugestijama i prijedlozima koji su utkani u sadržaj knjige. Toplo zahvaljujemo Tomislavu Grzunovu, diplomiranom restauratoru – konzervatoru na ilustracijama živčanog sustava i izradi naslovne stranice. Značajnu zahvalu dugujemo i lektorici Editi Medić, prof.
 
+* Studij psihologije (prema kolegijima):
 
+  * Biološka psihologija: cijela knjiga
+  * Osnove kognitivne neuroznanosti: cijela knjiga
+  *  Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
+  *  Osjeti i percepcija: poglavlja 2 i 5
+  *  Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
+  *  Edukacijska psihologija: poglavlja 4, 6, 7, 8
+  *  Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
 
-- Studij psihologije (prema kolegijima):
-
- -   Biološka psihologija: cijela knjiga
- -   Osnove kognitivne neuroznanosti: cijela knjiga
- -   Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
- -   Osjeti i percepcija: poglavlja 2 i 5
- -   Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
- -   Edukacijska psihologija: poglavlja 4, 6, 7, 8
- -   Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
-
-- Studij sociologije: poglavlja 1, 3, 7, 8, 9, 10
-- Studij pedagogije: poglavlja 1, 2, 4, 6, 7, 8
-- Studij lingvistike: poglavlja 1, 2, 3, 6, 7, 8, 10
-- Studij informacijskih znanosti: poglavlja 1, 2, 3, 5, 6, 7
-- Studij filozofije: poglavlja 1, 2, 3, 4, 7, 8, 9, 10.
+* Studij sociologije: poglavlja 1, 3, 7, 8, 9, 10
+* Studij pedagogije: poglavlja 1, 2, 4, 6, 7, 8
+* Studij lingvistike: poglavlja 1, 2, 3, 6, 7, 8, 10
+* Studij informacijskih znanosti: poglavlja 1, 2, 3, 5, 6, 7
+* Studij filozofije: poglavlja 1, 2, 3, 4, 7, 8, 9, 10.
 
 
 Konačno, željeli bismo napomenuti da se uredništvo, iako je tražilo od autora da udovolje udžbeničkim zahtjevima, također zauzelo za relativno prohodan stil pisanja. Korištena literatura navedena je u popisu referenci u skladu s APA-inim standardima, dok u samom tekstu nije primijenjen ovaj način citiranja koji je inače uobičajen u znanstvenim člancima. Time je prosječnom čitatelju olakšan kontinuitet čitanja. Također je od autora zatraženo da svoja poglavlja obogate adekvatnim primjerima i anegdotama i time ih učine manje suhoparnim. U komunikaciji s autorima, kao i vlastitim intervencijama u tekst, uredništvo je nastojalo pronaći ravnotežu u poglavljima, i to u gustoći iznesenih spoznaja i detalja, kao i usklađivanju općeg tona knjige. Pritom se ipak pazilo da svako poglavlje zadrži i dio osobnosti i stila pisanja svojeg autora. Na taj način dobili smo ujednačeni niz uzbudljivih priča o mozgu u kojem svaka epizoda o mozgu ima svojeg specifičnog pripovjedača. Nadamo se da smo tekst uspjeli učiniti zanimljivijim i prohodnijim, ne samo studentima psihologije već i širem zainteresiranom čitateljstvu. Vjerujemo da će knjiga ovakvog formata biti interesantna kako studentima drugih društvenih i humanističkih studija tako i širem čitateljstvu koje osjeća uzbuđenje svaki put kad čuje dobru znanstvenu priču. Također se nadamo da smo fleksibilnošću i prohodnošću uspjeli složiti knjigu koja se može čitati i kao popularno-znanstveni tekst. Za nas urednike i autore ove publikacije veliki uspjeh i osobno zadovoljstvo bilo bi ako bi naša knjiga privukla pažnju srednjoškolaca te ih zainteresirala za znanstvenu psihologiju i neuroznanost općenito. Mozak je mnogima od nas, a i nama samima, još uvijek velika nepoznanica. Nevjerojatne i nove spoznaje o načinu njegova funkcioniranja gotovo se svakodnevno otkrivaju. Vrijeme je da uskočimo na neurovlak i da se bolje upoznamo s mozgom i pričama koje ovaj najkompleksniji organ priča o sebi.
