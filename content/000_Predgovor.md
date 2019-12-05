@@ -6,23 +6,21 @@ Knjiga je zamišljena kao dodatni udžbenik za veći broj kolegija na studiju ps
 
 Zahvaljujemo našim kolegama, autorima poglavlja na odabiru relevantnih tema i vrlo uspješnoj suradnji u svakoj fazi našeg zajedničkog rada. Također zahvaljujemo i našim kolegama recenzentima dr. sc. Draženu Domijanu, dr. sc. Ani Slišković i dr. sc. Ivani Hromatko na vrlo korisnim sugestijama i prijedlozima koji su utkani u sadržaj knjige. Toplo zahvaljujemo Tomislavu Grzunovu, diplomiranom restauratoru – konzervatoru na ilustracijama živčanog sustava i izradi naslovne stranice. Značajnu zahvalu dugujemo i lektorici Editi Medić, prof.
 
+* Studij psihologije (prema kolegijima):
 
+  * Biološka psihologija: cijela knjiga
+  * Osnove kognitivne neuroznanosti: cijela knjiga
+  *  Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
+  *  Osjeti i percepcija: poglavlja 2 i 5
+  *  Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
+  *  Edukacijska psihologija: poglavlja 4, 6, 7, 8
+  *  Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
 
-- Studij psihologije (prema kolegijima):
-
- -   Biološka psihologija: cijela knjiga
- -   Osnove kognitivne neuroznanosti: cijela knjiga
- -   Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
- -   Osjeti i percepcija: poglavlja 2 i 5
- -   Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
- -   Edukacijska psihologija: poglavlja 4, 6, 7, 8
- -   Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
-
-- Studij sociologije: poglavlja 1, 3, 7, 8, 9, 10
-- Studij pedagogije: poglavlja 1, 2, 4, 6, 7, 8
-- Studij lingvistike: poglavlja 1, 2, 3, 6, 7, 8, 10
-- Studij informacijskih znanosti: poglavlja 1, 2, 3, 5, 6, 7
-- Studij filozofije: poglavlja 1, 2, 3, 4, 7, 8, 9, 10.
+* Studij sociologije: poglavlja 1, 3, 7, 8, 9, 10
+* Studij pedagogije: poglavlja 1, 2, 4, 6, 7, 8
+* Studij lingvistike: poglavlja 1, 2, 3, 6, 7, 8, 10
+* Studij informacijskih znanosti: poglavlja 1, 2, 3, 5, 6, 7
+* Studij filozofije: poglavlja 1, 2, 3, 4, 7, 8, 9, 10.
 
 
 Konačno, željeli bismo napomenuti da se uredništvo, iako je tražilo od autora da udovolje udžbeničkim zahtjevima, također zauzelo za relativno prohodan stil pisanja. Korištena literatura navedena je u popisu referenci u skladu s APA-inim standardima, dok u samom tekstu nije primijenjen ovaj način citiranja koji je inače uobičajen u znanstvenim člancima. Time je prosječnom čitatelju olakšan kontinuitet čitanja. Također je od autora zatraženo da svoja poglavlja obogate adekvatnim primjerima i anegdotama i time ih učine manje suhoparnim. U komunikaciji s autorima, kao i vlastitim intervencijama u tekst, uredništvo je nastojalo pronaći ravnotežu u poglavljima, i to u gustoći iznesenih spoznaja i detalja, kao i usklađivanju općeg tona knjige. Pritom se ipak pazilo da svako poglavlje zadrži i dio osobnosti i stila pisanja svojeg autora. Na taj način dobili smo ujednačeni niz uzbudljivih priča o mozgu u kojem svaka epizoda o mozgu ima svojeg specifičnog pripovjedača. Nadamo se da smo tekst uspjeli učiniti zanimljivijim i prohodnijim, ne samo studentima psihologije već i širem zainteresiranom čitateljstvu. Vjerujemo da će knjiga ovakvog formata biti interesantna kako studentima drugih društvenih i humanističkih studija tako i širem čitateljstvu koje osjeća uzbuđenje svaki put kad čuje dobru znanstvenu priču. Također se nadamo da smo fleksibilnošću i prohodnošću uspjeli složiti knjigu koja se može čitati i kao popularno-znanstveni tekst. Za nas urednike i autore ove publikacije veliki uspjeh i osobno zadovoljstvo bilo bi ako bi naša knjiga privukla pažnju srednjoškolaca te ih zainteresirala za znanstvenu psihologiju i neuroznanost općenito. Mozak je mnogima od nas, a i nama samima, još uvijek velika nepoznanica. Nevjerojatne i nove spoznaje o načinu njegova funkcioniranja gotovo se svakodnevno otkrivaju. Vrijeme je da uskočimo na neurovlak i da se bolje upoznamo s mozgom i pričama koje ovaj najkompleksniji organ priča o sebi.
