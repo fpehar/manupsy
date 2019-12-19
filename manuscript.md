@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/ee9588e5560f07ebb538a97d2e6eeccee9f1a364/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/ee9588e5560f07ebb538a97d2e6eeccee9f1a364/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/ee9588e5560f07ebb538a97d2e6eeccee9f1a364/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/fb480f7afd5970859bffebdc09c0987170d808e4/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/fb480f7afd5970859bffebdc09c0987170d808e4/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/fb480f7afd5970859bffebdc09c0987170d808e4/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/ee9588e5560f07ebb538a97d2e6eeccee9f1a364/))
+([permalink](https://fpehar.github.io/manupsy/v/fb480f7afd5970859bffebdc09c0987170d808e4/))
 was automatically generated
-from [fpehar/manupsy@ee9588e](https://github.com/fpehar/manupsy/tree/ee9588e5560f07ebb538a97d2e6eeccee9f1a364)
+from [fpehar/manupsy@fb480f7](https://github.com/fpehar/manupsy/tree/fb480f7afd5970859bffebdc09c0987170d808e4)
 on December 19, 2019.
 </em></small>
 
@@ -6746,11 +6746,11 @@ Slika 6.1. Područja mozga važna za pamćenje
 \[stranica namjerno ostavljena prazna\]
 
 
-# 8\. POGLAVLJE
+# 8. POGLAVLJE
 
 # SVIJEST I MOZAK
 
- *Igor Bajšanski*
+*Igor Bajšanski*
 
 U ovom poglavlju naučit ćemo:
 -   što su laki problemi svijesti i što je teški problem svijesti
@@ -6760,88 +6760,19 @@ U ovom poglavlju naučit ćemo:
 
 ## Laki problemi svijesti i teški problem svijesti
 
-Zamislimo sljedeći znanstveno-fantastični scenarij. U bliskoj budućnosti
-tehnologija je toliko napredovala da se ozljede mozga mogu liječiti tako
-da se oštećeni dio mozga zamijeni odgovarajućom elektroničkom zamjenom.
-Neuroimplantati se mogu složenom operacijom usaditi u mozak i povezati s
-ostatkom neoštećenog mozga. Jedan nesretni čovjek doživio je nesreću u
-kojoj mu je oštećeno Brocino područje te zbog toga nije mogao govoriti.
-Nakon operacije ugradnje implantata ponovno je govorio. Međutim,
-njegovim mukama tu nije bio kraj. Nedugo nakon toga imao je drugu
-nesreću u kojoj mu je oštećen vidni korteks. Nakon uspješne operacije
-ponovno je mogao vidjeti. I tako, zaredale su se nesreće i operacije.
-Nakon dvije godine nesretni je čovjek imao u potpunosti elektronički
-mozak. Ljudi koji ga poznaju nisu primjećivali nikakve promjene u
-njegovu ponašanju. Za njih, on je bio onaj stari. Ali filozofi su se
-pitali: Je li on i dalje svjestan? Jesu li njegovi doživljaji isti kao i
-prije operacija? Kada plače, doživljava li tugu? Kada kaže: „To je
-crvena jabuka", ima li on zaista doživljaj crvene boje? Postoji li i
-dalje njegov subjektivni unutarnji život ili je postao visoko
-sofisticirani, ali nesvjesni robot?
+Zamislimo sljedeći znanstveno-fantastični scenarij. U bliskoj budućnosti tehnologija je toliko napredovala da se ozljede mozga mogu liječiti tako da se oštećeni dio mozga zamijeni odgovarajućom elektroničkom zamjenom. Neuroimplantati se mogu složenom operacijom usaditi u mozak i povezati s ostatkom neoštećenog mozga. Jedan nesretni čovjek doživio je nesreću u kojoj mu je oštećeno Brocino područje te zbog toga nije mogao govoriti. Nakon operacije ugradnje implantata ponovno je govorio. Međutim, njegovim mukama tu nije bio kraj. Nedugo nakon toga imao je drugu nesreću u kojoj mu je oštećen vidni korteks. Nakon uspješne operacije ponovno je mogao vidjeti. I tako, zaredale su se nesreće i operacije. Nakon dvije godine nesretni je čovjek imao u potpunosti elektronički mozak. Ljudi koji ga poznaju nisu primjećivali nikakve promjene u njegovu ponašanju. Za njih, on je bio onaj stari. Ali filozofi su se pitali: Je li on i dalje svjestan? Jesu li njegovi doživljaji isti kao i prije operacija? Kada plače, doživljava li tugu? Kada kaže: „To je crvena jabuka", ima li on zaista doživljaj crvene boje? Postoji li i dalje njegov subjektivni unutarnji život ili je postao visoko sofisticirani, ali nesvjesni robot?
 
-Nećemo pokušati odgovoriti na te nedoumice budućih filozofa, ali takve
-su zagonetke predmet interesa i današnjih filozofa koji razmišljaju o
-problemu ljudske svijesti. U čemu se sastoji taj problem? Krenimo od
-dvije činjenice:
+Nećemo pokušati odgovoriti na te nedoumice budućih filozofa, ali takve su zagonetke predmet interesa i današnjih filozofa koji razmišljaju o problemu ljudske svijesti. U čemu se sastoji taj problem? Krenimo od dvije činjenice:
 
-**(1) Postoji mentalni život.** Ljudi percipiraju svijet oko sebe,
-razmišljaju, sjećaju se, donose odluke, procjenjuju, drže za sebe ono
-što ne žele da drugi znaju, osjećaju bol, tužni su, veseli, pospani,
-sumnjičavi, iznenađeni, uvrijeđeni, zbunjeni, razočarani, ljutiti. Sva
-stanja koja smo naveli praćena su određenim subjektivnim doživljajima.
-Osim toga, imamo osjećaj *selfa*, subjektivnog kontinuiteta sebe kao
-osobe, koja je ista osoba sada kao i prije tri godine. Znamo i da je naš
-unutarnji mentalni život samo naš: nitko ne može točno znati što mi
-mislimo i kako se osjećamo. Konačno, imamo dojam da sam *ja* taj koji
-odlučuje: ja biram hoću li ustati ili ću odustati, hoću li trpjeti ili
-ću se pobuniti, hoću li preskočiti večeru ili ću uživati u hrani. Imamo
-dojam da *ja* ima slobodu volje i da je *ja* odgovoran za svoje
-postupke.
+**(1) Postoji mentalni život.** Ljudi percipiraju svijet oko sebe, razmišljaju, sjećaju se, donose odluke, procjenjuju, drže za sebe ono što ne žele da drugi znaju, osjećaju bol, tužni su, veseli, pospani, sumnjičavi, iznenađeni, uvrijeđeni, zbunjeni, razočarani, ljutiti. Sva stanja koja smo naveli praćena su određenim subjektivnim doživljajima. Osim toga, imamo osjećaj *selfa*, subjektivnog kontinuiteta sebe kao osobe, koja je ista osoba sada kao i prije tri godine. Znamo i da je naš unutarnji mentalni život samo naš: nitko ne može točno znati što mi mislimo i kako se osjećamo. Konačno, imamo dojam da sam *ja* taj koji odlučuje: ja biram hoću li ustati ili ću odustati, hoću li trpjeti ili ću se pobuniti, hoću li preskočiti večeru ili ću uživati u hrani. Imamo dojam da *ja* ima slobodu volje i da je *ja* odgovoran za svoje postupke.
 
-**(2) *Mentalni život vezan je za funkcioniranje mozga*.** Jedno od
-velikih postignuća medicinskih znanosti uspostavljanje je sustavnih
-odnosa između različitih oštećenja mozga i različitih poremećaja
-ljudskog mentalnog života. Tako je, na primjer, oštećenje okcipitalnog
-režnja tipično povezano s oštećenjima vida. Ozljeda hipokampusa može
-rezultirati amnezijom. Isto tako, istraživanja tehnikama oslikavanja
-mozga, kao što je funkcionalna magnetska rezonancija, pokazuju da je
-aktivnost u određenim dijelovima mozga povezana s određenim mentalnim
-procesima.
+**(2) *Mentalni život vezan je za funkcioniranje mozga*.** Jedno od velikih postignuća medicinskih znanosti uspostavljanje je sustavnih odnosa između različitih oštećenja mozga i različitih poremećaja ljudskog mentalnog života. Tako je, na primjer, oštećenje okcipitalnog režnja tipično povezano s oštećenjima vida. Ozljeda hipokampusa može rezultirati amnezijom. Isto tako, istraživanja tehnikama oslikavanja mozga, kao što je funkcionalna magnetska rezonancija, pokazuju da je aktivnost u određenim dijelovima mozga povezana s određenim mentalnim procesima.
 
-Kakav je odnos između te dvije činjenice? To je osnovni filozofski
-problem svijesti. Zbog čega je to točno veliki filozofski problem i
-zašto na njega nije lako odgovoriti? Pogledajmo neke od formulacija toga
-problema.
+Kakav je odnos između te dvije činjenice? To je osnovni filozofski problem svijesti. Zbog čega je to točno veliki filozofski problem i zašto na njega nije lako odgovoriti? Pogledajmo neke od formulacija toga problema.
 
-Filozof David Chalmers razlikuje dvije vrste problema koje se odnose na
-ljudsku svijest. Prva grupa problema naziva se **laki problemi
-svijesti**. Laki problemi odnose se na istraživanje svijesti u onoj
-mjeri u kojoj je to moguće upotrebom objektivnih znanstvenih metoda, a
-takvi su problemi opsežno istraživani u psihologiji i neuroznanosti. Na
-primjer, istražuju se procesi koji ljudima omogućuju razlikovanje dvaju
-podražaja, koji im omogućuju prepoznavanje objekata, istražuju se
-procesi usmjeravanja pažnje, dosjećanja vlastitih iskustava, rješavanja
-složenih problema. Iako se nazivaju lakima, ti problemi uopće nisu laki
-u istraživačkom smislu: funkcioniranje vidne percepcije ili pamćenja
-veoma je složeno i na mnoga pitanja o tim ljudskim sposobnostima i dalje
-nemamo odgovora. Međutim, na njih je moguće odgovoriti pažljivim
-eksperimentiranjem, mjerenjem i izgradnjom modela i teorija.
+Filozof David Chalmers razlikuje dvije vrste problema koje se odnose na ljudsku svijest. Prva grupa problema naziva se **laki problemi svijesti**. Laki problemi odnose se na istraživanje svijesti u onoj mjeri u kojoj je to moguće upotrebom objektivnih znanstvenih metoda, a takvi su problemi opsežno istraživani u psihologiji i neuroznanosti. Na primjer, istražuju se procesi koji ljudima omogućuju razlikovanje dvaju podražaja, koji im omogućuju prepoznavanje objekata, istražuju se procesi usmjeravanja pažnje, dosjećanja vlastitih iskustava, rješavanja složenih problema. Iako se nazivaju lakima, ti problemi uopće nisu laki u istraživačkom smislu: funkcioniranje vidne percepcije ili pamćenja veoma je složeno i na mnoga pitanja o tim ljudskim sposobnostima i dalje nemamo odgovora. Međutim, na njih je moguće odgovoriti pažljivim eksperimentiranjem, mjerenjem i izgradnjom modela i teorija.
 
-S druge strane, **teški problem svijesti** odnosi se na pitanje kako
-subjektivna svjesna stanja izrastaju iz procesa u mozgu. Teški problem
-svijesti pojavljuje se u raznim varijantama. Tako, na primjer, filozof
-Colin McGinn postavlja pitanje: „Kako tehnikolor fenomenologija izrasta
-iz vlažne sive tvari?" pri čemu se tehnikolor fenomenologija odnosi na
-subjektivna iskustva, kao što je iskustvo viđenja boja, a vlažna siva
-tvar odnosi se na mozak. Mnogi filozofi smatraju da će bilo kakav
-pokušaj odgovora na to pitanje rezultirati procijepom u objašnjenju,
-koji znanost nikad neće moći prijeći. Drugim riječima, što god saznali
-iz psihologijskih eksperimenata i neuroznanstvenih istraživanja, nećemo
-se približiti rješavanju teškog problema. Velika je rasprava o tom
-filozofskom gledištu, mnogi se s njim ne slažu. Ono s čime se većina
-ipak slaže jest to da će psihologijsko i neuroznanstveno istraživanje
-lakih problema uvelike unaprijediti naše znanje o svijesti. U nastavku
-će biti riječi o takvom pristupu.
+S druge strane, **teški problem svijesti** odnosi se na pitanje kako subjektivna svjesna stanja izrastaju iz procesa u mozgu. Teški problem svijesti pojavljuje se u raznim varijantama. Tako, na primjer, filozof Colin McGinn postavlja pitanje: „Kako tehnikolor fenomenologija izrasta iz vlažne sive tvari?" pri čemu se tehnikolor fenomenologija odnosi na subjektivna iskustva, kao što je iskustvo viđenja boja, a vlažna siva tvar odnosi se na mozak. Mnogi filozofi smatraju da će bilo kakav pokušaj odgovora na to pitanje rezultirati procijepom u objašnjenju, koji znanost nikad neće moći prijeći. Drugim riječima, što god saznali iz psihologijskih eksperimenata i neuroznanstvenih istraživanja, nećemo se približiti rješavanju teškog problema. Velika je rasprava o tom filozofskom gledištu, mnogi se s njim ne slažu. Ono s čime se većina ipak slaže jest to da će psihologijsko i neuroznanstveno istraživanje lakih problema uvelike unaprijediti naše znanje o svijesti. U nastavku će biti riječi o takvom pristupu.
 
 ## **Kako istraživati svijest?**
 
