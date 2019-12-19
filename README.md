@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/fpehar/manupsy/tree/gh-pages) branch hosts the contents of this directory at https://fpehar.github.io/manupsy/.
-The permalink for this webpage version is https://fpehar.github.io/manupsy/v/b38c234939eea059b9f8d9b2a24ce9ccf6e3f087/.
+The permalink for this webpage version is https://fpehar.github.io/manupsy/v/6e27adb798dd2d14b435399bd5d38042932b6e9d/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://fpehar.github.io/manupsy/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b38c234939eea059b9f8d9b2a24ce9ccf6e3f087`](https://github.com/fpehar/manupsy/commit/b38c234939eea059b9f8d9b2a24ce9ccf6e3f087).
+[`6e27adb798dd2d14b435399bd5d38042932b6e9d`](https://github.com/fpehar/manupsy/commit/6e27adb798dd2d14b435399bd5d38042932b6e9d).
