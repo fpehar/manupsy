@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/af70131b3fe57914f8f5f73919dcbe77312cac4d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/af70131b3fe57914f8f5f73919dcbe77312cac4d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/af70131b3fe57914f8f5f73919dcbe77312cac4d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/f71c5fe22286db49e02b669937e7d48965e7c389/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/f71c5fe22286db49e02b669937e7d48965e7c389/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/f71c5fe22286db49e02b669937e7d48965e7c389/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/af70131b3fe57914f8f5f73919dcbe77312cac4d/))
+([permalink](https://fpehar.github.io/manupsy/v/f71c5fe22286db49e02b669937e7d48965e7c389/))
 was automatically generated
-from [fpehar/manupsy@af70131](https://github.com/fpehar/manupsy/tree/af70131b3fe57914f8f5f73919dcbe77312cac4d)
+from [fpehar/manupsy@f71c5fe](https://github.com/fpehar/manupsy/tree/f71c5fe22286db49e02b669937e7d48965e7c389)
 on December 19, 2019.
 </em></small>
 
@@ -324,7 +324,7 @@ to su **moždano deblo** (*truncus cerebri*), **mali mozak**
 putovanja (veliki mozak) vratit ćemo se kasnije, a sada ćemo zaviriti u
 druge dijelove središnjeg živčanog sustava.
 
-![SLIKA 1.2.]()
+![SLIKA 1.2. Središnji i periferni živčani sustav](images/1.2.jpg)
 
 Kralježnička moždina i moždano deblo 
 =====================================
@@ -491,7 +491,7 @@ ljubav mogli „smjestiti" u stražnji putamen i ranije spomenuto ventralno
 tegmentalno područje, tj. u regije mozga koje ne upravljaju emocijama
 (više o tome u devetom poglavlju).
 
-![SLIKA 1.3.]() 
+![SLIKA 1.3.Bazalni gangliji i talamus](images/1.3..jpg) 
 
 Limbički sustav
 ---------------
@@ -639,7 +639,8 @@ neuroznanstvenim temama. Nešto više o specifičnijoj funkciji amigdala u
 procesiranju politički relevantnih informacija pročitajte u desetom
 poglavlju.
 
-![SLIKA 1.4.]()
+![SLIKA 1.4.Limbički sustav (dio), hipotalamus, hipofiza i velika
+komisura](images/1.4.jpg)
 
 Kora velikog mozga
 ------------------
@@ -869,9 +870,9 @@ prefrontalna kora dugo smatrala sjedištem ljudske naravi. Još je uvijek
 zagonetno pitanje kako tako maleni komad mozga uspijeva orkestrirati
 sofisticiranim i kompleksnim skupom izvršnih funkcija.
 
-![SLIKA 1.5.]()
+![SLIKA 1.5.Kora velikog mozga](images/1.5.jpg)
 
-![SLIKA 1.6.]()
+![SLIKA 1.6.Prikaz inzule](images/1.6.jpg)
 
 Kora velikog mozga složeno je okruženje za obradu informacija. Unutar
 nekih njezinih područja povezanih s motoričkim radnjama, percepcijom,
