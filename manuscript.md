@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/e7df15798905ff74c4c9153ce4d1cad8667d360a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/e7df15798905ff74c4c9153ce4d1cad8667d360a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/e7df15798905ff74c4c9153ce4d1cad8667d360a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/1a7f7dac571fbe0979f27eeb2a597d08a83384c1/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/1a7f7dac571fbe0979f27eeb2a597d08a83384c1/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/1a7f7dac571fbe0979f27eeb2a597d08a83384c1/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/e7df15798905ff74c4c9153ce4d1cad8667d360a/))
+([permalink](https://fpehar.github.io/manupsy/v/1a7f7dac571fbe0979f27eeb2a597d08a83384c1/))
 was automatically generated
-from [fpehar/manupsy@e7df157](https://github.com/fpehar/manupsy/tree/e7df15798905ff74c4c9153ce4d1cad8667d360a)
+from [fpehar/manupsy@1a7f7da](https://github.com/fpehar/manupsy/tree/1a7f7dac571fbe0979f27eeb2a597d08a83384c1)
 on December 19, 2019.
 </em></small>
 
@@ -4033,7 +4033,7 @@ reflektira elektromagnetsko zračenje koje se zove vidljiva svjetlost.
 Svjetlost se širi u obliku elektromagnetnih valova i ima raspon valnih
 duljina od otprilike 400 do 700 nanometara. Različite valne duljine
 subjektivno se doživljavaju tako da čine kontinuirani spektar boja u
-kojem primjećujemo neke istaknute boje za koje imamo posebna imena -- od
+kojem primjećujemo neke istaknute boje za koje imamo posebna imena – od
 ljubičaste, preko plave, zelene, žute i narančaste do crvene.
 
 Svjetlost kao medij za doživljavanje prostora ima višestruke prednosti.
@@ -4049,7 +4049,7 @@ vidjeli tek za otprilike 8 minuta, a kad na noćnom nebu opažamo
 galaktiku Andromeda, vidimo ju onako kako je izgledala prije 2,5
 milijuna godina. Toliko treba svjetlosti da doputuje do retine našeg
 oka. Podsjetimo se, retina ili mrežnica sloj je stanica unutar oka koji
-sadrži receptorske stanice za vid -- fotoreceptore. Za svakodnevne
+sadrži receptorske stanice za vid – fotoreceptore. Za svakodnevne
 udaljenosti koje opažamo, od nekoliko centimetara do nekoliko
 kilometara, svjetlosno zakašnjenje je toliko malo da je neprimjetno
 našem mozgu. Ono je kraće nego što je mozgu potrebno da nakon toga
@@ -4059,7 +4059,7 @@ od nekoliko desetaka milisekundi pa do otprilike 500 milisekundi da
 procesira jedinstvenu vidnu informaciju. To su i dalje vrlo kratki
 intervali i stoga imamo jak dojam da opažamo svijet upravo onda kad se
 stvari i događaju. To su prva dva važna svojstva korištenja svjetlosne
-informacije -- informacija se dobiva o udaljenim objektima i događajima,
+informacije – informacija se dobiva o udaljenim objektima i događajima,
 i to praktički u istom trenutku kad se oni dogode.
 
 Sljedeće važno svojstvo svjetlosti jest da se kreće linearno. Dakle,
@@ -4142,7 +4142,7 @@ Biolozi Michael Land i Dan-Eric Nilsson opisuju kako je evolucija očiju
 omogućila postupno rješavanje četiriju klasa sve složenijih osjetilnih
 problema vezanih za svjetlost. Rana vidna osjetila bila su jednostavni
 sloj fotoreceptorskih stanica na površini organizma (epitel osjetljiv na
-svjetlost). Takve „oči" mogu riješiti najjednostavniji zadatak --
+svjetlost). Takve „oči" mogu riješiti najjednostavniji zadatak –
 neusmjerenu fotorecepciju. Postupnim udubljivanjem **fotoreceptorske
 površine**, specijalizacijom fotoreceptora te uvođenjem sloja pigmenta
 koji sprječava refleksiju svjetlosti unutar oka, nastaje precizniji vid
@@ -4333,7 +4333,7 @@ malo čudno? Meni i mojim prijateljima vršnjacima je još kao djeci bilo
 čudno da se u filmovima i stripovima slika koja je gledana kroz dvogled
 prikazuje kao slika unutar dva spojena kruga, a u stvari, kad sami
 pogledate kroz dvogled, vidite da je unutar kruga samo jedna slika. Tako
-je i kad gledamo samo očima - imamo samo jednu konačnu sliku. Takva
+je i kad gledamo samo očima – imamo samo jednu konačnu sliku. Takva
 jedinstvena mentalna slika zove se **kiklopska slika,** prema mitološkim
 monokularnim divovima kiklopima koje je Odisej susreo na svojim
 lutanjima i koji su imali samo jedno oko na sredini glave. Kiklopska
@@ -4365,7 +4365,7 @@ je moguć čak i onda kad u monokularnoj slici ne vidimo nikakav smislen
 objekt omeđen obrisima. Bela Julesz to je dokazao u svojem najpoznatijem
 stereoskopskom eksperimentu u kojem je koristio tzv.
 **nasumično-točkaste stereograme**. Julesz je ispitanicima dao
-stereogram -- u svako pojedino oko dvije slične slike koje su se
+stereogram – u svako pojedino oko dvije slične slike koje su se
 razlikovale za odgovarajući retinalni disparitet (slično kao što u 3D
 kinu svako oko dobije svoju sliku). Već smo spomenuli da su statični
 slikovni stereogrami bili pomodni u 19. stoljeću. Međutim, Juleszov
@@ -4375,7 +4375,7 @@ objekt, čak ni ikakvu liniju. Slika sadrži samo „šum" od sitnih točkica.
 Drugim riječima, slike za nasumično-točkasti stereogram činile su gusto
 i nasumično raspoređene crne i bijele točkice, bez da tvore ikakav
 oblik. Slike namijenjene lijevom i desnom oku bile su gotovo identične
--- razlikovale su se u tome što je jedan komadić površine na desnoj
+– razlikovale su se u tome što je jedan komadić površine na desnoj
 slici bio pomaknut ulijevo za vrijednost retinalnog dispariteta. Vidnom
 mozgu to je bilo dovoljno da uspješno odradi svoj posao. Budući da je
 djelić istočkane površine na jednoj slici bio malo pomaknut, ispitanici
@@ -4448,7 +4448,7 @@ polja završava u obje hemisfere. Nakon optičke hijazme vlakna se dijele
 u dva vidna puta: primarni i sekundarni. Primarni (genikulostrijarni)
 put je evolucijski mlađi te sadrži više vlakana, gotovo 90 %. Taj vidni
 put imaju isključivo primati (uključujući i ljude). Vlakna primarnog
-puta protežu se do talamusa - glavne centrale u velikom mozgu u kojoj
+puta protežu se do talamusa – glavne centrale u velikom mozgu u kojoj
 se prekapča većina osjetilnih i motoričkih vlakana te koji je uključen u
 regulaciju pobuđenosti i budnosti. Jezgra u talamusu koja je dio
 primarnog vidnog puta, zove se lateralna koljenasta jezgra jer je
@@ -4482,7 +4482,7 @@ refleksno opažanje i reagiranje na pokretne podražaje u vidnom polju.
 Takvi refleksni pokreti najvažniji su za mišiće očiju koji tada
 refleksno pokreću oči prema smjeru gibanja pokretne mete u vidnom polju.
 Sekundarni vidni put, nakon optičke hijazme, prvo doseže dvije kvržice
-- kolikule superior koje se nalaze u području filogenetski starijeg,
+– kolikule superior koje se nalaze u području filogenetski starijeg,
 srednjeg mozga, na moždanom deblu, koje se zove tektum. Nakon kolikula
 superior živčani impulsi dolaze do jedne od jezgri u talamusu koja se
 zove pulvinarna jezgra ili, jednostavno, pulvinar. Ta je jezgra važna u
@@ -4597,7 +4597,7 @@ područja. Tu su također i ventralna područja koja su važna za
 prepoznavanje objekata, lica i specifičnih lokacija u okolini sadržanih
 u VOT području mozga (ventralno okcipito-temporalno područje). U
 prepoznavanju objekata i lica važna je fuziforma vijuga, tj. fuzifornmo
-područje za lica (FFA -- *fusiform face* a*rea*), specijalizirano za
+područje za lica (FFA – *fusiform face* a*rea*), specijalizirano za
 percepciju lica. Za prepoznavanje specifičnih okolinskih lokacija važno
 je područje PPA (parahipokampalno područje za mjesta).
 
@@ -4680,7 +4680,7 @@ se temelji na varijacijama u svjetlini.
 Među vidnim agnozijama treba spomenuti i **simultanagnoziju**. Ona se
 načelno odnosi na nemogućnost pacijenta da istovremeno percipira više od
 jednog objekta. Međutim, situacija je ponešto složenija zato što postoje
-dva tipa simultanagnozije -- ventralna i dorsalna, ovisno o mjestu gdje
+dva tipa simultanagnozije – ventralna i dorsalna, ovisno o mjestu gdje
 je nastala lezija, tako da svaki od tipova pripada svojem vidnom toku.
 Ventralna simultanagnozija nastaje oštećenjem na inferiornoj poveznici
 okcipitalnog i temporalnog režnja. Pacijenti mogu opaziti više objekata
@@ -4723,7 +4723,7 @@ kamena niz kosinu) i biološko gibanje (mačka koja trči ili riba koja
 pliva). Očito je evolucija kao poseban problem percepcije izdvojila
 percepciju biološkog gibanja, koje opažamo na sasvim drukčiji način. Za
 obradu vidnih informacija o biološkom gibanju zaduženo je specifično
-područje -- superiorna temporalna brazda (STS) čije stanice pokazuju
+područje – superiorna temporalna brazda (STS) čije stanice pokazuju
 povećanu aktivnost prilikom promatranja hodanja, trčanja i drugog
 biološkog gibanja ljudi i životinja, ali ne i za slučajno gibanje u
 vidnom polju (npr. nasumično gibanje točkica na ekranu). Čini se da je
@@ -4871,7 +4871,7 @@ okvira. Ono što još dodatno povećava složenost zadatka jest to što je
 parijetalni korteks multimodalno (nekad zvano i multisenzorno) područje,
 što znači da se u prostornom procesiranju ne koristi samo vidna
 informacija, već i informacija o dodiru, tijelu (kinestezija) i zvuku.
-Tu nastaje problem -- kako se sve te multisenzorne informacije
+Tu nastaje problem – kako se sve te multisenzorne informacije
 uspijevaju integrirati? Pretpostavka je da svaki od osjetilnih
 modaliteta konstruira svoju prostornu mapu. Tada se načinom koji još
 nije do kraja objašnjen te mape preklapaju i integriraju. Proučavanje
@@ -4880,7 +4880,7 @@ dodirne mape integriraju u superiorom parijetalnom malom režnju prilikom
 zadatka „glavocentrične" orijentacije. Klinička istraživanja na
 pacijentima s unilateralnim zanemarivanjem pokazuju da lezije desnog
 parijetalnog režnja vode zanemarivanju i pogreškama u lijevom vidnom
-polju (preciznije govoreći -- lijevo od fiksacije očiju), ali isto tako
+polju (preciznije govoreći – lijevo od fiksacije očiju), ali isto tako
 na lijevoj strani tijela. Dakle, ozljeda parijetalnog režnja može
 dovesti do multisenzornog deficita vidne i tjelesne percepcije.
 Pacijenti s poremećajem unilateralnog zanemarivanja ne opažaju lijevu
@@ -5010,7 +5010,7 @@ stolicu, možemo sjesti na nju ili se pak možemo nekome obratiti i
 kazati: „Ovdje imaš jednu stolicu. Slobodno sjedi." Te akcije ne bi bile
 moguće da ventralni sustav nije odradio svoj posao. Kako vidimo, u
 zadatku identificiranja ključno je da se naš percept poveže sa
-semantičkim pamćenjem -- našim dugoročno pohranjenim činjeničnim
+semantičkim pamćenjem – našim dugoročno pohranjenim činjeničnim
 znanjem. Veza s dugoročnim pamćenjem ostvaruje se preko hipokampusa,
 vijuge koja se nalazi na donjem djelu velikog mozga i koja je dio
 temporalnog režnja. Također je važno da se percepcija kategorizira,
@@ -5035,7 +5035,7 @@ upravo je složena organizacija vidnog sustava.
 
 **Zaključci**
 
-1\. Vidljiva svjetlost u rasponu oko 400 -- 700 nm valne duljine
+1\. Vidljiva svjetlost u rasponu oko 400 – 700 nm valne duljine
 predstavlja idealan izvor informacija za doživljavanje prostora oko nas.
 Za to postoji više razloga. Među njima su brzina i pravocrtnost širenja
 svjetlosti, prozirnost atmosfere za navedeni pojas, kao i bogatstvo
@@ -5045,7 +5045,7 @@ informacija o prostoru kod drugih vrsta, na primjer zvučni eholokacijski
 sustavi.
 
 2\. Binokularni vid odnosi se na gledanje s pomoću dva oka. On omogućuje
-stereopsis -- trodimenzionalni doživljaj prostora i objekata u prostoru.
+stereopsis – trodimenzionalni doživljaj prostora i objekata u prostoru.
 Mozak stapa dvije monokularne slike dvaju oka, koje se razlikuju u tzv.
 retinalnim disparitetima, a pritom izvlači informaciju o relativnim
 udaljenostima objekata i detalja objekata u prostoru. Stereopsis se može
@@ -5092,12 +5092,12 @@ po svojoj prirodi može biti egocentričan ili alocentričan.
 
 Dehaene, S., & Brannon, E. M. (Eds.). (2011). *Space, time and number in
 the brain: Searching for the foundations of mathematical thought*.
-Amsterdam: Academic Press. -- Knjiga koja opisuje kako mozak,
+Amsterdam: Academic Press. – Knjiga koja opisuje kako mozak,
 rješavajući temeljne probleme vezane za prostor, vrijeme i brojnost,
 omogućuje intuicije koje su u osnovi matematičkih sposobnosti.
 
 Groh, J. M. (2014). *Making Space: How the Brain Knows Where Things
-Are*. Cambridge, MA: Belknap Press. -- Razumljivo pisana knjiga o tome
+Are*. Cambridge, MA: Belknap Press. – Razumljivo pisana knjiga o tome
 kako mozak integrira multisenzornu informaciju i time omogućuje
 navigaciju u trodimenzionalnom prostoru.
 
@@ -5205,7 +5205,7 @@ istovremeno percipira dva ili više objekata. Dijeli se na dva podtipa,
 ovisno o mjestu gdje je nastalo oštećenje: ventralnu i dorsalnu.
 
 **Stereogram** Trodimenzionalna projekcija koja se prokazuje kroz uređaj
-za binokularno gledanje -- stereoskop.
+za binokularno gledanje – stereoskop.
 
 **Stereopsis** Trodimenzionalna prostorna vidna percepcija koja se
 temelji na binokularnom gledanju.
