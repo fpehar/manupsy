@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/5ffe4a4a3c10ce1c11b1a750aa9d0c99c1035de5/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/5ffe4a4a3c10ce1c11b1a750aa9d0c99c1035de5/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/5ffe4a4a3c10ce1c11b1a750aa9d0c99c1035de5/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/8ee760960f4e90e17acab34374f0805da28e7e64/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/8ee760960f4e90e17acab34374f0805da28e7e64/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/8ee760960f4e90e17acab34374f0805da28e7e64/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/5ffe4a4a3c10ce1c11b1a750aa9d0c99c1035de5/))
+([permalink](https://fpehar.github.io/manupsy/v/8ee760960f4e90e17acab34374f0805da28e7e64/))
 was automatically generated
-from [fpehar/manupsy@5ffe4a4](https://github.com/fpehar/manupsy/tree/5ffe4a4a3c10ce1c11b1a750aa9d0c99c1035de5)
+from [fpehar/manupsy@8ee7609](https://github.com/fpehar/manupsy/tree/8ee760960f4e90e17acab34374f0805da28e7e64)
 on December 19, 2019.
 </em></small>
 
@@ -4204,7 +4204,8 @@ odgovarala fotografskom filmu ili, ako je riječ o suvremenijim
 digitalnim kamerama, slikovnom senzoru sastavljenom od fotodioda. Na
 slici 5.1. vidi se struktura i građa ljudskog oka.
 
-[Slika 5.1](#)
+
+![Ljudsko oko](images/5.1.jpg)
 
 Ljudi imaju dva oka, kao i drugi kralježnjaci. To im omogućuje
 **binokularno gledanje** koje je važno za prostorni vid i doživljaj
@@ -4409,7 +4410,9 @@ odgovarajuće sitne djeliće slika dvaju oka na odgovarajući način služeći
 se elementarnim informacijama kao što su dispariteti. Ilustracija
 nasumično točkastog stereograma nalazi se na slici 5.2.
 
-[SLIKA 5.2. OVDJE](#)
+![Ilustracija nasumično-točkastog stereograma. Svaka se od
+prikazanih dviju slika s pomoću stereoskopa prezentira u zasebno oko](images/5.2.jpg)
+
 
 Postoji više računalnih neuronskih modela koji pokušavaju riješiti
 problem korespondencije, tj. pokušavaju objasniti kako to neuroni
@@ -4430,7 +4433,8 @@ odvija u više raznih dijelova vidne kore i da aktivnost doseže čak do
 inferotemporalnog korteksa (IT) koji predstavlja krajnji dio ventralnog
 vidnog toka (više o vidnim tokovima uskoro slijedi).
 
-[SLIKA 5.3. OVDJE](#)
+![Optička hijazma i vidni putovi. Lijevo vidno polje
+reprezentirano je u desnoj hemisferi mozga i obratno](images/5.3.jpg)
 
 # Građa vidnog živčanog sustava
 
@@ -4619,7 +4623,8 @@ zahvaća tzv. prekuneus te superiorni parijetalni mali režanj). Prikaz
 „što" i „gdje" sustava (dorsalnog i ventralnog vidnog toka) nalazi se na
 Slici 5.4.
 
-[SLIKA 5.4. OVDJE](#)
+![Prikaz dorsalnog vidnog toka („gdje sustav") i ventralnog
+vidnog toka („što sustav")](images/5.4.jpg)
 
 # Vidne agnozije
 
@@ -5325,25 +5330,25 @@ Three-Dimensional Objects. *Science, 171*, 3972, 701-703.
 
 **Popis slika:**
 
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.1.oko.jpg](media/image1.jpeg){width="6.3in"
+![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.1.oko.jpg](images/5.1.jpg){width="6.3in"
 height="4.202050524934383in"}
 
 [Slika 5.1.](Ljudsko oko)
 
 ![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.2.
-stereogram.jpg](media/image2.jpeg){width="6.3in"
+stereogram.jpg](images/5.2.jpg){width="6.3in"
 height="4.35154636920385in"}
 
 [Slika 5.2.](Ilustracija nasumično-točkastog stereograma. Svaka se od
 prikazanih dviju slika s pomoću stereoskopa prezentira u zasebno oko)
 
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.3.hijazma.jpg](media/image3.jpeg){width="5.03125in"
+![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.3.hijazma.jpg](images/5.3.jpg){width="5.03125in"
 height="4.0in"}
 
 [Slika 5.3.](Optička hijazma i vidni putovi. Lijevo vidno polje
 reprezentirano je u desnoj hemisferi mozga i obratno)
 
-![](media/image4.jpeg){width="6.5in" height="4.284722222222222in"}
+![](images/5.4.jpg){width="6.5in" height="4.284722222222222in"}
 
 [Slika 5.4.](Prikaz dorsalnog vidnog toka („gdje sustav") i ventralnog
 vidnog toka („što sustav"))
