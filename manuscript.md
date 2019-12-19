@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/c9f84527264d8dc27da33576750f8771186f6e80/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/c9f84527264d8dc27da33576750f8771186f6e80/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/c9f84527264d8dc27da33576750f8771186f6e80/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/421a3ff98f8f006056c960577c163a36c01acf75/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/421a3ff98f8f006056c960577c163a36c01acf75/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/421a3ff98f8f006056c960577c163a36c01acf75/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/c9f84527264d8dc27da33576750f8771186f6e80/))
+([permalink](https://fpehar.github.io/manupsy/v/421a3ff98f8f006056c960577c163a36c01acf75/))
 was automatically generated
-from [fpehar/manupsy@c9f8452](https://github.com/fpehar/manupsy/tree/c9f84527264d8dc27da33576750f8771186f6e80)
+from [fpehar/manupsy@421a3ff](https://github.com/fpehar/manupsy/tree/421a3ff98f8f006056c960577c163a36c01acf75)
 on December 19, 2019.
 </em></small>
 
@@ -2927,9 +2927,7 @@ U ovom poglavlju naučit ćemo:
 -   o tome zašto ljudi vjeruju u taj mit
 -   o argumentima koji pobijaju mit o 10 % iskorištenog mozga
 
-\[stranica namjerno ostavljena prazna\]
-
-##### Dekada mozga i nove spoznaje o mozgu
+#### Dekada mozga i nove spoznaje o mozgu
 
 Godine 1990. američki je Kongres na prijedlog vodećih stručnjaka iz
 neuroznanstvene zajednice odlučio da će devedesete godine dvadesetog
@@ -3284,7 +3282,7 @@ pozivaju poznata je američka kulturalna antropologinja Margaret Mead
 mozga, no i za tu nepotvrđenu izjavu vrijedi sve isto što i za
 Einsteinovu.
 
-##### Podrijetlo mita o 10 % iskorištenog mozga
+#### Podrijetlo mita o 10 % iskorištenog mozga
 
 U nastavku ćemo pokušati odgonetnuti podrijetlo ovog mita. Kako ćemo
 uskoro vidjeti, postoji nekoliko mogućih izvora iz kojih je proistekao.
@@ -3489,7 +3487,7 @@ neuroznanstvenici nakon njega, govore nam upravo suprotno -- da svi
 dijelovi mozga imaju neku specifičnu funkciju te da nema suvišnih ili
 neaktivnih dijelova.
 
-##### Mogući uzroci za nastanak mita o 10 % iskorištenog mozga
+#### Mogući uzroci za nastanak mita o 10 % iskorištenog mozga
 
 Ovdje možemo raspravljati o tome zašto značajan postotak ljudi vjeruje u
 taj mit. Međutim, prvo bismo se mogli zapitati zašto ljudi vjeruju u
@@ -3598,7 +3596,7 @@ pilule ili posebne mentalne tehnike u ostvarivanju takvih rezultata.
 Ipak, takvog prečaca, koliko je poznato, nema. Do vrhunskih se rezultata
 u pravilu dolazi dugotrajnim i mukotrpnim radom.
 
-##### Raskrinkavanje mita o 10 % korištenog mozga
+#### Raskrinkavanje mita o 10 % korištenog mozga
 
 Do sada smo objasnili nastanak mita o 10 % iskorištenog mozga te smo
 nabrojili glave uzroke njegova nastanka. U nastavku će biti izloženo
@@ -3791,7 +3789,7 @@ da se lako skrene u besmislice. Kvalitetnim obrazovanjem i kritičnošću
 možda možemo ograničiti širenje pseudoznanosti koja može učiniti znatnu
 štetu pojedincu i društvu.
 
-##### Zaključci
+#### Zaključci
 
 1\. Mozak je iznimno teško istraživati i zbog toga su brojna pitanja o
 načinu njegova funkcioniranja bila bez potpunih odgovora. U posljednjih
@@ -3830,7 +3828,7 @@ temeljen na energetskoj cijeni mozga, argument temeljen na porodiljskoj
 dilemi, argument temeljen na lokalizaciji moždanih funkcija i argument
 temeljen na sinaptičkom obrezivanju.
 
-##### Testirajte se
+#### Testirajte se
 
 1\. Objasnite zašto je došlo do potrebe za proglašavanjem desetljeća
 mozga i koje su posljedice te proklamacije.
@@ -3848,7 +3846,7 @@ ispravna.
 korištenju 10 % mozga. Ako se možete sjetiti još nekog argumenta,
 navedite ga.
 
-##### Preporučena dodatna literatura
+#### Preporučena dodatna literatura
 
 *List of common misconceprions* -- Dobro potkrijepljen i uređen članak
 na Wikipediji koji daje dugačak popis miskoncepcija u različitim
@@ -3862,7 +3860,7 @@ Separating fact from Fiction*. Oxford: Oxford University Press. --
 Knjiga u kojoj razni autori obrađuju široki popis miskoncepcija o mozgu
 i psihološkim procesima poput učenja, pamćenja, jezičnog procesiranja.
 
-##### Važni pojmovi
+#### Važni pojmovi
 
 **Dekada mozga** Razdoblje od 1990. do 1999. američki je Kongres
 proglasio dekadom ili desetljećem mozga u nastojanju da potakne
@@ -3960,7 +3958,7 @@ hiperaktivnost kod djece."
 ovisnosti, otkrivanje gena povezanih s demencijama i mentalnim bolestima
 i poremećajima.
 
-##### Literatura
+#### Literatura
 
 Banich, M. T. (2004). *Cognitive Neuroscience and Neuropsychology*.
 Boston: Houghton Mifflin Company.
