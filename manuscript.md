@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-19'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/c1ac90d3329f7d3eb8ff6877453e08c890b5e2f9/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/c1ac90d3329f7d3eb8ff6877453e08c890b5e2f9/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/c1ac90d3329f7d3eb8ff6877453e08c890b5e2f9/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-19\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-19\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/5588f5f2f92a230fc69806a5376255d792b04e19/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/5588f5f2f92a230fc69806a5376255d792b04e19/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/5588f5f2f92a230fc69806a5376255d792b04e19/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/c1ac90d3329f7d3eb8ff6877453e08c890b5e2f9/))
+([permalink](https://fpehar.github.io/manupsy/v/5588f5f2f92a230fc69806a5376255d792b04e19/))
 was automatically generated
-from [fpehar/manupsy@c1ac90d](https://github.com/fpehar/manupsy/tree/c1ac90d3329f7d3eb8ff6877453e08c890b5e2f9)
+from [fpehar/manupsy@5588f5f](https://github.com/fpehar/manupsy/tree/5588f5f2f92a230fc69806a5376255d792b04e19)
 on December 19, 2019.
 </em></small>
 
@@ -1968,66 +1968,66 @@ bismo dobili optimalnu kombinaciju za mjerenje moždane aktivnosti.
 Zaključci
 ---------
 
-1\. Moždana aktivnost može se mjeriti na različite načine i s pomoću
+1. Moždana aktivnost može se mjeriti na različite načine i s pomoću
 različitih uređaja. Jedan od tih načina mjerenje je električne
 aktivnosti mozga. Električna aktivnost mozga proizlazi iz zajedničke
 aktivnosti velikog broja neurona.
 
-2\. Dvije glavne tehnike kojima se bilježi električna aktivnost mozga su
+2. Dvije glavne tehnike kojima se bilježi električna aktivnost mozga su
 elektroencefalografija (EEG) i potencijali povezani za događaj (ERP).
 Elektroencefalografija mjeri kontinuiranu i spontanu moždanu aktivnost,
 dok potencijali povezani za događaj prikazuju promjene u moždanoj
 aktivnosti koje nastaju zbog nekog specifičnog osjetilnog ili motoričkog
 događaja.
 
-3\. Električna moždana aktivnost sačinjena je od komponenti koje čine
+3. Električna moždana aktivnost sačinjena je od komponenti koje čine
 moždani valovi različitih frekvencija i amplituda. Najpoznatiji među
 njima su alfa, beta, delta i theta-valovi.
 
-4\. Potencijali ERP komponenti jako su malih voltaža, a da bi bili
+4. Potencijali ERP komponenti jako su malih voltaža, a da bi bili
 uočljivi, potrebno je uzastopno zadavanje podražaja kako bi se izdvojili
 iz pozadinskog EEG-šuma.
 
-5\. Potencijali vezani za događaj mogu se podijeliti u dvije kategorije:
+5. Potencijali vezani za događaj mogu se podijeliti u dvije kategorije:
 promjene, tj. valovi koji se javljaju rano (točnije unutar 100 ms nakon
 podražaja), a nazivaju se evocirani, odnosno osjetni ili egzogeni
 potencijali i promjene koje se javljaju kasnije te odražavaju način na
 koji subjekt evaluira podražaj, a nazivaju se i kognitivni ili endogeni
 potencijali.
 
-6\. Osim za istraživačke svrhe, bilježenje električne aktivnosti mozga
+6. Osim za istraživačke svrhe, bilježenje električne aktivnosti mozga
 ima važnu primjenu i u dijagnostici. Primjerice, epilepsija se može
 dijagnosticirati iz specifičnih obrazaca moždanih valova.
 
 **Testirajte se**
 
-1\. Jedna od mogućih podjela tehnika za oslikavanje mozga je podjela na
+1. Jedna od mogućih podjela tehnika za oslikavanje mozga je podjela na
 anatomske i funkcionalne. Saznajte koje sve tehnike za oslikavanje mozga
 postoje. Koje i zbog čega spadaju u anatomske, a koje u funkcionalne
 tehnike? Gdje spadaju EEG i ERP?
 
-2\. Nabrojite sve tipove moždanih valova koji se navode u ovom poglavlju
+2. Nabrojite sve tipove moždanih valova koji se navode u ovom poglavlju
 te se pokušajte sjetiti koje raspone frekvencija zauzimaju i za kakva su
 stanja tipični. U vanjskim izvorima potražite i ostale tipove moždanih
 valova te proučite njihova imena, karakteristične frekvencije te u kojim
 se stanjima javljaju.
 
-3\. Što je to epilepsija? Navedite što sve karakterizira tu bolest.
+3. Što je to epilepsija? Navedite što sve karakterizira tu bolest.
 Pronađite u dodatnim izvorima informacije o epilepsiji koje smatrate
 zanimljivima.
 
-4\. Što je to ADHD? Navedite što ga sve karakterizira i pronađite u
+4. Što je to ADHD? Navedite što ga sve karakterizira i pronađite u
 vanjskim izvorima dodatne informacije vezane za taj poremećaj koje
 smatrate zanimljivima.
 
-5\. Koji je najčešće korišteni način dobivanja ERP-a iz EEG-a?
+5. Koji je najčešće korišteni način dobivanja ERP-a iz EEG-a?
 
-6\. Koja se endogena ERP komponenta najčešće istražuje? Na što ona
+6. Koja se endogena ERP komponenta najčešće istražuje? Na što ona
 ukazuje?
 
-7\. Koji se ERP valovi koriste u proučavanju procesiranja jezika?
+7. Koji se ERP valovi koriste u proučavanju procesiranja jezika?
 
-**Preporučena dodatna literatura**
+### Preporučena dodatna literatura
 
 Cacioppo, J. T., Tassinary, L. G., & Berntson, G. G. (2007).
 Psychophysiological Science: Interdisciplinary Approaches to Classic
@@ -2039,8 +2039,7 @@ Infantolino, Z., & Miller, G. A. (2017). Psychophysiological methods in
 neuroscience. In R. Biswas-Diener, & E. Diener (Eds.), *Noba Textbook
 Series: Psychology*. Champaign, IL: DEF publishers.
 
-Važni pojmovi
--------------
+### Važni pojmovi
 
 **Akcijski potencijal** Nagla depolarizacija i repolarizacija membrane
 živčane stanice do koje dolazi kad promjena u membranskom potencijalu
@@ -2101,7 +2100,7 @@ ili endogeni potencijali.
 **Theta-valovi** Moždani valovi u rasponu frekvencija od 4 do 7 Hz,
 karakteristični za pospanost, plitki san i meditaciju.
 
-**Literatura**
+## Literatura
 
 Akay, A. (2012). Evoked Potentials. In S. Oraii (Ed.),
 *Electrophysiology -- From Plants to Heart*. Saeed Oraii. InTech. URL:
@@ -2173,7 +2172,7 @@ Yucha, C., & Gilbert, C. (2004). Evidence-Based Practise in Biofeedback
 and Neurofeedback. Association for Applied Psychophysiology and
 Biofeedback. Colorado Springs, CO.
 
-**Popis slika**
+## Popis slika
 
 ![C:\\Users\\Pavle\\Desktop\\Ilustracije\\Pog2\_fin\\2.1\\2.1..jpg](media/image1.jpeg){width="6.5in"
 height="4.577957130358705in"}
