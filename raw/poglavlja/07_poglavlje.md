@@ -2,9 +2,9 @@
 
 JEZIK I MOZAK
 
-*Tanja Gulan*
-
-U ovom poglavlju naučit ćemo:
+>*Tanja Gulan*
+>
+>U ovom poglavlju naučit ćemo:
 
 -   o građi i funkcijama onih dijelova mozga koji procesiraju jezičnu
     informaciju
@@ -17,7 +17,7 @@ U ovom poglavlju naučit ćemo:
 
 \[stranica namjerno ostavljena prazna\]
 
-Živčani sustav, posebice njegov središnji dio -- mozak, predstavlja
+Živčani sustav, posebice njegov središnji dio - mozak, predstavlja
 osnovu našeg doživljavanja i ponašanja. Krajem 18. stoljeća pojavila se
 jedna od ključnih hipoteza u istraživanju mozga. Tu hipotezu postavio je
 Franz Gall, psiholog i pionir u istraživanju **lateralizacije** moždanih
@@ -35,14 +35,14 @@ specijalizirane za određene funkcije. Grubo govoreći, kod većine je
 dešnjaka lijeva hemisfera uglavnom zadužena za analitičko i vremenski
 bazirano procesiranje, dok je desna zadužena za holističko i prostorno
 bazirano procesiranje. Ako je neka funkcija lokalizirana u jednoj
-polutki, za tu polutku kažemo da je *dominantna* za tu funkciju. Koncept
+polutki, za tu polutku kažemo da je dominantna za tu funkciju. Koncept
 mozgovne dominantnosti se, dakle, odnosi na to da jedna polutka preuzima
 dominantnu ulogu u kontroli složenih ponašanja i kognitivnih procesa,
 dok druga igra sporednu ulogu te se naziva subdominantna polutka.
 Zanimljiva je posljedica toga da su jezične funkcije kod većine dešnjaka
 (njih 96 %) smještene pretežno u lijevoj polutki, dok nešto manje
 ljevaka (njih 70 %) ima jezične funkcije smještene također u lijevoj
-polutki. Stoga, za lijevu polutku kažemo da je *dominantna* za jezične
+polutki. Stoga, za lijevu polutku kažemo da je dominantna za jezične
 funkcije. Osjeti iz osjetilnih organa (npr. za dodir, bol, temperaturu)
 koji se nalaze na lijevoj strani tijela, reprezentirani su u desnoj
 moždanoj polutki, a osjeti iz osjetilnih organa koji se nalaze na desnoj
@@ -108,8 +108,8 @@ kao „pacijent Tan". Nakon njegove smrt Broca je napravio pregled
 govornih organa i autopsiju njegova mozga. Govorni organi bili su
 netaknuti i potpuno zdravi, no u mozgu je našao šupljinu veličine manjeg
 jajeta ispunjenu tekućinom u području koje se danas zove Brocino
-područje. Gubitak Tanova artikuliranog govora nazvao je ***ekspresivna
-afazija***. Nedugo nakon Tana, Broca upoznaje 84-godišnjeg pacijenta
+područje. Gubitak Tanova artikuliranog govora nazvao je **ekspresivna
+afazija**. Nedugo nakon Tana, Broca upoznaje 84-godišnjeg pacijenta
 zvanog LeLong koji je naglo izgubio sposobnost govora. Nakon LeLongove
 smrti Broca je ponovno napravio seciranje mozga te utvrdio postojanje
 ozljede frontalnog režnja koja je bila nešto manja, ali u istom području
@@ -172,7 +172,7 @@ pravila. Druga je zabluda da postoji jedan znakovni jezik kojim se
 koriste sve gluhe i gluhonijeme osobe. Na svijetu postoji više od tristo
 znakovnih jezika i svaki od njih ima svoja pravila i geste. Govorni,
 odnosno verbalni jezik i znakovni jezik razlikuju se po svojem izlaznom
-obliku -- zvukovi ili geste. Karakteristike govornog jezika odnose se na
+obliku - zvukovi ili geste. Karakteristike govornog jezika odnose se na
 zvučne promjene koje traju neko vrijeme i „zahvaćaju" se uhom, dok su
 karakteristike znakovnog jezika pokreti i geste koje se trebaju opaziti
 okom. Ta bi razlika mogla utjecati na to gdje se znakovni jezik
@@ -226,7 +226,7 @@ metafore i jezik. Postoji mnogo vrsta zrcalnih neurona, no posebno su
 nam važni tzv. audio-vizualni zrcalni neuroni koji se aktiviraju ne samo
 kada majmun opaža radnju koju netko obavlja nego i kada čuje zvuk te
 radnje. Ti neuroni imaju jedinstveni akustični odgovor za svaki određeni
-zvuk -- npr. pucanje kore kikirikija, i u skladu s tim aktiviraju se i
+zvuk - npr. pucanje kore kikirikija, i u skladu s tim aktiviraju se i
 kada majmun izvodi neku radnju koja proizvodi taj zvuk. Druga su vrsta
 neurona komunikacijski usni zrcalni neuroni koji se aktiviraju kada se
 opažaju komunikacijske geste ustima koje pripadaju gestikulacijskom
@@ -270,7 +270,7 @@ jezika. Razlika između neljudskih primata i ljudi je u tome da sustav
 zrcalnih neurona može biti aktiviran jezičnim materijalom koji je
 povezan s radnjom. Štoviše, čitanje ili slušanje riječi ili rečenica
 koje opisuju neku radnju aktivira dio kore mozga koji je zadužen za
-upravljanje mišićima i Brocino područje (npr. čitanje riječi *trčati*
+upravljanje mišićima i Brocino područje (npr. čitanje riječi _trčati_
 aktivirat će područja u mozgu koja se aktiviraju kada zbilja trčimo, ali
 će ta aktivacija biti slabija pri čitanju nego pri stvarnom pokretu).
 
@@ -296,12 +296,12 @@ postoji razlika u vrsti afazije i stupnju teškoća izazvanih afazijom.
 Prethodno smo u tekstu spomenuli **Brocinu afaziju**, a sada ćemo je
 pobliže opisati. Taj oblik afazije nastaje kao posljedica oštećenja kore
 velikog mozga u stražnjem donjem predjelu lijevog frontalnog režnja, u
-tzv. Brocinu području, a naziva se i ***motorna afazija***. Za Brocinu
+tzv. Brocinu području, a naziva se i **motorna afazija**. Za Brocinu
 afaziju karakterističan je govor koji nije tečan, koji se sastoji od
 nekoliko kratkih izjava sa značajnim smanjenjem vokabulara, a ponekad je
 i naglašavanje riječi (prozodija) narušeno. Razumijevanje govora i
 pisanog teksta je očuvano. Brocinu afaziju često prati i **agrafija**
-ili **disgrafija** -- potpuno ili djelomično narušena sposobnost
+ili **disgrafija** - potpuno ili djelomično narušena sposobnost
 pisanja.
 
 Suprotno tome, **Wernickeovu afaziju** karakterizira tečan, ali
@@ -316,17 +316,17 @@ u predjelu temporalnog režnja nazvanog Wernickeovo područje. Pojedinac
 ima narušeno razumijevanje govora iako je sluh neoštećen. Kod lakših
 oštećenja osoba može na globalnom planu razumjeti o čemu je riječ, ali
 ne može razumjeti pojedine riječi. Često je uz razumijevanje oštećeno i
-čitanje -- ***aleksija*** (nesposobnost da se pročitaju riječi).
+čitanje - **aleksija** (nesposobnost da se pročitaju riječi).
 
 Brocina (motorna) i Wernickeova (senzorna) afazija dvije su najčešće
 vrste afazija, no postoje i druge vrste. Sam Wernicke opisao je još
-jednu vrstu afazije -- tzv. **konduktivnu afaziju**. Kako i samo ime
+jednu vrstu afazije - tzv. **konduktivnu afaziju**. Kako i samo ime
 kaže, oštećena je provodnost signala između dviju regija mozga. U ovom
 slučaju to je oštećenje bijele tvari koja povezuje Wernickeovo i Brocino
 područje. Ta je lezija najčešće smještena u područje supramarginalne
 vijuge ili u donjem parijetalnom režnju. Karakterizira ju fluentan, ali
 parafazičan govor, npr. riječi se mijenjaju s drugima koje su im slične
-(npr. *glad* umjesto *glas*, *kotač* umjesno *kolač*), što izgleda kao
+(npr. _glad_ umjesto _glas_, _kotač_ umjesno _kolač_), što izgleda kao
 omaška, ali je zapravo posljedica mnogo ozbiljnijeg stanja. Pojedinci su
 svjesni poteškoća i pogrešaka u govoru te se često samoispravljaju i
 zastajkuju, što ih onda usporava u komunikaciji. Oštećeno je i
@@ -335,13 +335,13 @@ nastanka oštećenja, no ono se s vremenom poboljšava te je razumijevanje
 jezika relativno dobro. Pisanje je oštećeno, dok je prepisivanje zadanog
 teksta očuvano. Čitanje u sebi, tj. razumijevanje pročitanog očuvano je.
 Govor nije dobar, ali nije ni potpuno narušen. Uz to, tu vrstu afazije
-uvijek prati i ***akalkulija***, odnosno nemogućnost računanja. Budući
+uvijek prati i **akalkulija**, odnosno nemogućnost računanja. Budući
 da je oštećeno i razumijevanje i produkcija, ta afazija spada u
 senzorno-motoričku vrstu afazije. Vrsta i obim teškoća ovise o vrsti i
 veličini mozgovnog oštećenja.
 
 **Amnestička afazija** smatra se najblažim oblikom afazije, a
-karakterizira je ***disnomija*** ili ***anomija,*** tj. smanjena
+karakterizira je **disnomija** ili **anomija**, tj. smanjena
 sposobnost ili nemogućnost pronalaženja prave riječi u pamćenju. To se
 najviše manifestira u spontanom govoru i u zadatcima imenovanja (npr.
 osobi se pokazuju slike objekata, a ona treba imenovati što je na
@@ -353,7 +353,7 @@ Amnestička afazija može se pojaviti kao posljedica višestrukih oštećenja
 dijelova mozga, zadnjeg dijela gornje temporalne vijuge (Wernickeovo
 područje) i angularne vijuge u parijetalnom režnju, a najčešće kao
 posljedica oštećenja snopa bijele tvari koja povezuje Brocino i
-Wernickeovo područje (*fasciculus arcuatus*). Često je narušeno
+Wernickeovo područje (_fasciculus arcuatus_). Često je narušeno
 dosjećanje jedne vrste riječi, uglavnom imenica, dok su glagoli i
 pridjevi bolje očuvani. Dosjećanje može biti oštećeno samo za specifičnu
 kategoriju imenica, npr. samo imenice koje označavaju živa bića, a ne i
@@ -369,7 +369,7 @@ samo u nekim aspektima. Amnestička (nekad se naziva i anomička) afazija
 može se pojaviti u razdoblju oporavka od Wernickeove afazije, a često ju
 nalazimo i kod starijih osoba.
 
-Najteži je oblik afazije ***globalna** **afazija*** koja obuhvaća sva
+Najteži je oblik afazije **globalna afazija** koja obuhvaća sva
 četiri jezična modaliteta: govor, slušanje, čitanje i pisanje, što znači
 da pogađa i jezičnu produkciju i jezično razumijevanje. Pacijenti s
 globalnom afazijom ne mogu govoriti mnogo, najčešće izgovore nekoliko
@@ -457,7 +457,7 @@ normalne te iako osoba ima motivaciju i adekvatnu obuku za čitanje. Osim
 što disleksija može nastati uslijed ozljede mozga ili kao posljedica
 moždanog udara, ona može biti i urođena. Tim istraživača s Yalea
 izolirao je gen DCDC2 i utvrdio da je on povezan s poteškoćama u
-čitanju. Trenutačne procjene izvještavaju o 5 -- 17 % djece u SAD-u koja
+čitanju. Trenutačne procjene izvještavaju o 5 - 17 % djece u SAD-u koja
 pate od disleksije. Konačnog lijeka za disleksiju nema, ali ako se rano
 dijagnosticira i ako se dijete uključi u logopedski tretman, ono može
 efikasno savladati vještinu čitanja. Postoje i prilagođeni fontovi slova
@@ -485,15 +485,15 @@ pročitale, osobe subvokaliziraju („čitaju ispod glasa"), pri čemu usnama
 oblikuju riječ, ali bez zvuka. Prisjetimo se, Brocino područje zaduženo
 je upravo za kontrolu mišića uključenih u govor. Razlika je također
 uočena i u angularnoj vijugi gdje se jedna informacija „prevodi" u drugu
--- vidna informacija (slova) u jezičnu informaciju (riječi). Razlika
-između loših i dobrih čitača počinje na razini fonologije -- svjesnosti
+- vidna informacija (slova) u jezičnu informaciju (riječi). Razlika
+između loših i dobrih čitača počinje na razini fonologije - svjesnosti
 da jednom slovu pripada jedan glas (u jezicima kao što je npr.
 hrvatski). Da bi se umanjili problemi sa savladavanjem vještine čitanja
 kod djece, već u predškolskoj dobi treba raditi na osvješćivanju veze
-slovo-glas te na razumijevanju da se riječi sastoje od glasova --
+slovo-glas te na razumijevanju da se riječi sastoje od glasova -
 jezična analiza i jezična sinteza. U jezicima u kojima ne postoji
 dosljedno mapiranje slova i glasa, djeca imaju više problema s
-usvajanjem vještine čitanja. Za usporedbu -- djetetu je teže savladati
+usvajanjem vještine čitanja. Za usporedbu - djetetu je teže savladati
 čitanje na engleskom nego na hrvatskom jeziku.
 
 **Kapacitet za usvajanje jezika**
@@ -512,7 +512,7 @@ jezik potakla je istraživače da pretpostave kako postoje određene
 mozgovne strukture koje djetetu to omogućavaju. Najistaknutije ime koje
 se veže za tvrdnje o urođenim mehanizmima za usvajanje jezika jest Noam
 Chomsky. On je pretpostavio postojanje tzv. **sredstva za usvajanje
-jezika** (**LAD** -- *Language Acquisition Device*) koje se ne odnosi na
+jezika** (**LAD** - *Language Acquisition Device*) koje se ne odnosi na
 određenu moždanu strukturu, već na urođenu sposobnost djeteta da može
 usvojiti jezik. Chomsky je tvrdio da je ljudski jezik posebna sposobnost
 neovisna o drugim kognitivnim procesima, koja ima posebnu biološku
@@ -685,7 +685,7 @@ Da bi ispitali utjecaj učenja stranog jezika na mozak, Li i suradnici
 uzeli su 39 dobrovoljaca kojima je materinski jezik bio engleski te su
 ih uključili na tečaj mandarinskog jezika. Tečaj je trajao 6 tjedana, a
 svim je sudionicima dva puta snimljen mozak s pomoću funkcionalne
-magnetske rezonancije (fMRI) -- jednom na početku tečaja i jednom na
+magnetske rezonancije (fMRI) - jednom na početku tečaja i jednom na
 kraju. Istraživači su utvrdili da su oni sudionici koji su bili
 uspješniji u usvajanju mandarinskih riječi imali bolje povezanu mrežu
 neurona nego oni sudionici koji su bili manje uspješni ili pak kontrolna
@@ -745,8 +745,8 @@ pojavila konfliktna ili neodgovarajuća riječ i traje čak pola sekunde.
 Taj nam nalaz govori da postoji odvojeno procesiranje sintakse i
 semantike.
 
-*Još jedna neinvazivna metoda ispitivanja lateralizacije jezičnih
-funkcija jest i tehnika podijeljenog vidnog polja. Ona se* koristi na
+Još jedna neinvazivna metoda ispitivanja lateralizacije jezičnih
+funkcija jest i tehnika podijeljenog vidnog polja. Ona se koristi na
 zdravim pojedincima da bi se utvrdila superiornost lijeve polutke pri
 obradi jezičnih informacija u eksperimentalnim zadatcima, ali i na
 osobama koje su se podvrgle komisurotomiji, tj. prerezivanju velike
@@ -858,10 +858,10 @@ Harper Perennial Modern Classics.
 Sacks, O. (1998). *Čovjek koju je zamijenio ženu šeširom*. Zagreb:
 Kruzak.
 
-Sacks, O. (1989). *Seeing Voices: **A Journey Into the World of the
-Deaf*** (1989/2011). USA: University of California Press.
+Sacks, O. (1989). *Seeing Voices: *A Journey Into the World of the
+Deaf* (1989/2011). USA: University of California Press.
 
-\"Secret of the Wild Child\" -- Video Transcript
+\"Secret of the Wild Child\" - Video Transcript
 <https://ocw.uma.es/humanidades/linguistica-aplicada-al-ingles/exprojycasos/Psycholinguistic_activity-answers.pdf>
 
 **Važni pojmovi**
@@ -915,7 +915,7 @@ Govor se često sastoji samo od jednostavnih riječi. Osobe s Brocinom
 afazijom imaju sačuvano razumijevanje govora i pisanog teksta, ali je
 produkcija jezika narušena.
 
-**Globalna** **afazija** Oštećenje koje obuhvaća sva četiri jezična
+**Globalna afazija** Oštećenje koje obuhvaća sva četiri jezična
 modaliteta: govor, slušanje, čitanje i pisanje. Oštećene su i jezična
 produkcija i jezično razumijevanje. Stupanj smetnji ovisi o veličini
 mozgovnog oštećenja. Osoba često ne može razumjeti govor, ne može
@@ -929,7 +929,7 @@ semantičkih zadataka. Naziva se još i poprečna temporalna vijuga.
 
 **Jezična izvedba** Način na koji se jezik koristi u komunikaciji.
 Razlikuje se od jezične kompetencije koja predstavlja idealizirani
-kapacitet mentalnih funkcija -- odnosi se na znanje jezika, dok se
+kapacitet mentalnih funkcija - odnosi se na znanje jezika, dok se
 izvedba odnosi na samu upotrebu jezika.
 
 **Konduktivna afazija** Poremećaj govora koji nastaje uslijed oštećenja
@@ -960,7 +960,7 @@ oštećenja Wernickeova područja. Manifestira se u tečnom govoru koji
 smanjeno. Osobe s ovim oštećenjem mogu razumjeti o čemu se govori iz
 konteksta, ali ne mogu razumjeti izolirane riječi.
 
-**Sredstvo za usvajanje jezika** (**LAD --** *Langauge Aquisition
+**Sredstvo za usvajanje jezika** (**LAD** - *Langauge Aquisition
 Device*) Hipotetski modul ljudskog uma koji objašnjava urođene
 predispozicije dječjeg uma da s lakoćom usvaja jezik. Odnosi se na
 instinktivni mentalni kapacitet djetetova uma.
@@ -1022,7 +1022,7 @@ and language*, *98*(2), 150-158.
 
 Craig. A, Tran, Y., Craig, M., & Peters, K. (2002). Epidemiology of
 stuttering in the communication across the entire life span. *Journal of
-Speech, Language, and Hearing Research, 45*, 1097-1105.
+Speech, Language, and Hearing Research, *45*, 1097-1105.
 
 D\'Arcangelo, M., & Shaywitz, S. (1999). Learning about learning to
 read. *Educational Leadership*, *57*(3), 26-31.
@@ -1076,7 +1076,7 @@ in the lateralization of language. *Neuroscience research*, *41*(4),
 
 Kansaku, K., Yamaura, A., & Kitazawa, S. (2000). Sex differences in
 lateralization revealed in the posterior language areas. *Cerebral
-Cortex*,*10*(9), 866-872.
+Cortex*, *10*(9), 866-872.
 
 Kimura D. (1999). *Sex and Cognition*. Cambridge, Massachusetts: The MIT
 Press.
@@ -1084,7 +1084,7 @@ Press.
 Kulynych J. J., Vladar K., Jones D. W., & Weinberger D. R. (1994).
 Gender differences in the normal lateralization of the supratemporal
 cortex: MRI surface-rendering morphometry of HeschL\'s gyrus and the
-planum temporale. *Cereb Cortex,* ***4*,** 107-108.
+planum temporale. *Cereb Cortex,* *4*, 107-108.
 
 Kutas, M., & Hillyard, S. A. (1980). Event-related brain potentials to
 semantically inappropriate and surprisingly large words. *Biological
@@ -1114,7 +1114,7 @@ Osterhout, L., & Nicol, J. (1999). On the distinctiveness, independence,
 and time course of the brain responses to syntactic and semantic
 anomalies.*Language and cognitive processes*, *14*(3), 283-317.
 
-**Pinel** J. P. J. (**2002**). ***Biološka** psihologija*. Jastrebarsko:
+Pinel J. P. J. (2002). *Biološka* psihologija*. Jastrebarsko:
 Naklada Slap.
 
 Phillips, M. D., Lowe, M. J., Lurito, J. T., Dzemidzic, M., & Mathews,
@@ -1123,7 +1123,7 @@ Differences during Passive Listening 1. *Radiology*, *220*(1), 202-207.
 
 Pugh K. R., Shaywitz, B. A., Shaywitz, S. E., Constable, R. T.,
 Skudlarski, P., & Fulbright, R. K. (1996)*.* Cerebral organization of
-component processes in reading. *Brain,* ***119***: 1221-38.
+component processes in reading. *Brain,* *119*: 1221-38.
 
 Pulvermüller, F., Huss, M., Kheri, F., de Martin, F. M. P., Hauk, O., &
 Shtyrov, Y. (2006). Motor cortex maps articulatory features of speech
@@ -1140,7 +1140,7 @@ psycholinguistics*. Routledge.
 
 Steinmetz, H., Jancke, L., Kleinschmidt, A., Schlaug, G., Volkmann, J.,
 & Huang, Y. (1992). Sex but no hand difference in the isthmus of the
-corpus callosum. *Neurology,* ***42***, 749-52.
+corpus callosum. *Neurology,* *42*, 749-52.
 
 Tettamanti, M., Alkadhi, H., Moro, A., Perani, D., Kollias, S., &
 Weniger, D. (2002). Neural correlates for the acquisition of natural
@@ -1155,7 +1155,7 @@ Listening to speech activates motor areas involved in speech
 production. *Nature neuroscience*, *7*(7), 701-702.
 
 Witelson S.F. (1989). Hand and sex differences in the isthmus and genu
-of the human corpus callosum. *Brain*, ***112***, 799-835
+of the human corpus callosum. *Brain*, *112*, 799-835
 
 Yairi, E., & Ambrose, N. (2005). *Early childhood stuttering*. Austin,
 TX: Pro-Ed, Inc.
