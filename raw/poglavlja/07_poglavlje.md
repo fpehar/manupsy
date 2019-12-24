@@ -65,21 +65,20 @@ Transkortikalna afazija javlja se u dva glavna oblika, kao motorička i kao senz
 
 *Tablica 7.1.* Vrste afazija i njihove bihevioralne karakteristike
 
-+-------------+-------------+-------------+-------------+------------+
 | Vrsta       | Fluentnost  | Slušno      | Ponavljanje | Imenovanje |
 | afazije     |             | ra          |             |            |
 |             |             | zumijevanje |             |            |
-+=============+=============+=============+=============+============+
+|--------------------------------------------------------------------|
 | Brocina ili | n           | relativno   | narušeno    | narušeno   |
 | motorička   | efluentnost | dobro       |             |            |
-+-------------+-------------+-------------+-------------+------------+
+|--------------------------------------------------------------------|
 | Wernickeova | fluentnost  | narušeno    | narušeno    | narušeno   |
 | ili         |             |             |             |            |
 | senzorna    |             |             |             |            |
-+-------------+-------------+-------------+-------------+------------+
+|--------------------------------------------------------------------|
 | Globalna    | n           | narušeno    | narušeno    | narušeno   |
 |             | efluentnost |             |             |            |
-+-------------+-------------+-------------+-------------+------------+
+|--------------------------------------------------------------------|
 | Tran        | n           | motorna --  | dobro       | narušeno   |
 | skortikalna | efluentnost | relativno   |             |            |
 | (može biti  |             | dobro       |             |            |
@@ -87,14 +86,13 @@ Transkortikalna afazija javlja se u dva glavna oblika, kao motorička i kao senz
 | motorička   |             | senzorna -- |             |            |
 | ili         |             | narušeno    |             |            |
 | miješana)   |             |             |             |            |
-+-------------+-------------+-------------+-------------+------------+
+|--------------------------------------------------------------------|
 | Konduktivna | fluentnost  | dobro       | narušeno    | narušeno   |
-+-------------+-------------+-------------+-------------+------------+
+|--------------------------------------------------------------------|
 | Amnestička  | fluentnost  | dobro       | dobro       | narušeno   |
 | ili         |             |             |             |            |
 | nominalna   |             |             |             |            |
 | (anomija)   |             |             |             |            |
-+-------------+-------------+-------------+-------------+------------+
 
 Brocinu afaziju često prati potpuna (agrafija) ili djelomična nemogućnost pisanja (disgrafija). Agrafija je stečena nesposobnost pisanja (potpuna), ali uz očuvanu motornu snagu i koordinaciju mišića ruku. Najčešće nastaje uslijed ozljede asocijativnih područja lijevog parijetalnog režnja mozga. Kada je sposobnost pisanja djelomično narušena, a pisanje karakteriziraju brojne, trajne i tipične pogreške, govori se o disgrafiji. Te pogreške nisu povezane s (ne)znanjem pravopisa i jezičnim sposobnostima osobe i uglavnom su trajne. Intelektualne i jezične sposobnosti osoba s agrafijom ili disgrafijom najčešće nisu narušene. Agrafija je zapravo najteži oblik disgrafije. Kada je agrafija nastala zbog paralize ili poremećaja koordinacije mišića, a centri u mozgu nisu oštećeni, govori se o motornoj agrafiji. S druge strane, Wernickeovu afaziju često prati i disleksija, ali ona se može pojaviti i samostalno. Disleksija se manifestira kao problem čitanja unatoč tome što su intelektualne i osjetilne sposobnosti normalne te iako osoba ima motivaciju i adekvatnu obuku za čitanje. Osim što disleksija može nastati uslijed ozljede mozga ili kao posljedica moždanog udara, ona može biti i urođena. Tim istraživača s Yalea izolirao je gen DCDC2 i utvrdio da je on povezan s poteškoćama u čitanju. Trenutačne procjene izvještavaju o 5 - 17 % djece u SAD-u koja pate od disleksije. Konačnog lijeka za disleksiju nema, ali ako se rano dijagnosticira i ako se dijete uključi u logopedski tretman, ono može efikasno savladati vještinu čitanja. Postoje i prilagođeni fontovi slova koji osobama s disleksijom omogućuju lakše čitanje, npr. preporučuje se upotreba *Arial* i *Comic Sans* fonta koji su ugrađeni u većinu programa za pisanje teksta.
 
