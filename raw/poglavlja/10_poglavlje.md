@@ -1,22 +1,15 @@
-10\. POGLAVLJE
+# 10. POGLAVLJE
 
-POLITIČKA NEUROZNANOST:
-
-ŠTO NAM MOZAK MOŽE REĆI O POLITICI?
+# POLITIČKA NEUROZNANOST: ŠTO NAM MOZAK MOŽE REĆI O POLITICI?
 
 *Benjamin Banai*
 
 U ovom poglavlju naučit ćemo:
 
 -   o istraživanjima iz područja političke neuroznanosti
-
 -   o ispitivanjima političkih stavova
-
 -   o istraživanjima preferencija prema nekim političkim kandidatima
-
 -   o ulozi amigdale u istraživanjima političkih pitanja
-
-\[stranica namjerno ostavljena prazna\]
 
 *Za mene, vlada je zapravo roditelj za odrasle.*
 
