@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-26'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-26\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-26\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/1664012040b2e97d2686823e898e9d62db0f1970/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/1664012040b2e97d2686823e898e9d62db0f1970/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/1664012040b2e97d2686823e898e9d62db0f1970/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-26\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-26\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/9eff8ea9c75ed84aba1d01874661c85bbca7dde6/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/9eff8ea9c75ed84aba1d01874661c85bbca7dde6/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/9eff8ea9c75ed84aba1d01874661c85bbca7dde6/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/1664012040b2e97d2686823e898e9d62db0f1970/))
+([permalink](https://fpehar.github.io/manupsy/v/9eff8ea9c75ed84aba1d01874661c85bbca7dde6/))
 was automatically generated
-from [fpehar/manupsy@1664012](https://github.com/fpehar/manupsy/tree/1664012040b2e97d2686823e898e9d62db0f1970)
+from [fpehar/manupsy@9eff8ea](https://github.com/fpehar/manupsy/tree/9eff8ea9c75ed84aba1d01874661c85bbca7dde6)
 on December 26, 2019.
 </em></small>
 
@@ -114,7 +114,7 @@ Zadar, veljača 2019.
 
 # 1. POGLAVLJE
 
-## PUTOVANJE LJUDSKIM MOZGOM
+# PUTOVANJE LJUDSKIM MOZGOM
 
 *Nataša Šimić*
 
@@ -133,17 +133,17 @@ U ovom poglavlju naučit ćemo:
 > ugodno od neugodnog.
 Hipokrat, 5. stoljeće prije Krista
 
-### Mozak
+## Mozak
 
 Posljednjih je dvadesetak godina neuroznanost napredovala zapanjujućom brzinom, otvarajući svoja vrata brojnim spoznajama o mozgu kao najkompleksnijem ljudskom organu. Mozak funkcionira kao kontrolno središte u tijelu koje upravlja svim motoričkim radnjama te filtrira brojne informacije koje svakodnevno bombardiraju naša osjetila. Upravlja vitalnim funkcijama disanja, rada srca, regulacije krvnog tlaka, gutanja, znojenja i brojnim drugim refleksnim reakcijama bez kojih život nije moguć. Pod njegovim nadzorom je i kontrola gladi, žeđi, spolnog nagona i spavanja. Mozak generira emocije, oblikuje misli, stvara „pretince" dugoročnog pamćenja pohranjujući mnoštvo informacija. Mozak nam omogućava učenje, mišljenje, a pritom oblikuje i našu osobnost, moralnost, suosjećanje i brojne druge aspekte ponašanja koji nas čine onim što zapravo jesmo, tj. ljudskim bićima. Vjerojatno o njemu i njegovim funkcijama i ne razmišljamo baš previše. Međutim, tijekom stoljeća čovjek je pokušao objasniti funkcije tog zagonetnog organa uz pomoć modela zasnovanih na najnovijim tehničkim otkrićima tog doba. Tako se mozak opisivao kao sveobuhvatna knjiga, teatar u glavi, mašina, telefonska centrala, a najčešće usporedbe iz novijeg doba su s računalom i svemirom. Mozak je znatno složeniji od bilo koje od tih naprava, iako je njegov izgled daleko od impresivnog. Naborana, sluzava i gnjecava masa veličine cvjetače, po sastavu nalik dobro ohlađenoj hladetini. U njega možemo gurnuti prst, narezati ga na mikrotomu, umetnuti elektrode i/ili gledati kako krv pulsira kroz njega. Moždana kora čovjeka je naborana, a zahvaljujući naboranosti mozak zauzima mnogo manje prostora. Nemaju sve životinjske vrste naborane mozgove, a nekada se smatralo da broj i veličina moždanih vijuga određuju intelektualni kapacitet vrste. Danas se zna da su broj i veličina vijuga u vezi s veličinom tijela, a svaki veliki sisavac ima izuzetno naboran mozak, u čemu najviše prednjači dupin. Koliko teži najkompleksniji organ u našem tijelu? Prosječna težina odraslog ljudskog mozga iznosi oko 1,5 kg, a zdravi mozgovi teže između 1 i 2 kg. Kada je Albert Einstein davne 1955. godine umro u sedamdeset šestoj godini života, mnogi su željeli saznati nešto više o najpoznatijem mozgu dvadesetog stoljeća. Pod pretpostavkom da je nešto fizičke prirode moralo stvoriti takvoga genija, na njegovu je mozgu izvedena obdukcija i utvrđeno je da je težio 10 % manje od prosječnog mozga. Suvremeni čovjek, za kojeg se misli da je najinteligentnije živo biće, nema najteži mozak. Mozgovi slonova teže oko 5 kg, dok mozak kita ulješure, težine oko 8 kg, spada u najteže mozgove. Veće životinje uglavnom imaju i veće mozgove, vjerojatno zato što njihova veća tijela zahtijevaju više mozgovnog tkiva koje će tim tijelima upravljati. Zbog toga činjenica da viši muškarci imaju veće mozgove od nižih muškaraca, muškarci imaju veće mozgove od žena, a slonovi veće od ljudi, ništa ne govori o njihovoj inteligenciji. Težina mozga izražena kao postotak ukupne tjelesne mase ipak dopušta čovjeku da zauzme svoje opravdano mjesto ispred slona. O usporedbama veličine mozgova različitih vrsta čitatelj može više doznati u trećem poglavlju.
 
 Čime se hrani najzagonetniji organ našeg tijela? Njegovo glavno stanično gorivo je glukoza. Iako na mozak otpada svega 2 % tjelesne težine, on troši oko 20 % ukupnih zaliha glukoze, a dnevno mu je potrebno oko 120 g glukoze, tj. oko 420 kcal, što iznosi oko devet Jaffa keksa. Mozak nema skladišta glukoze, a opskrba ovim gorivom vrši se putem krvi. Osim glukoze troši i kisik, i potrebno mu je oko 20 % kisika iz tijela, čak i u vrijeme spavanja. Što više radi, troši više kisika, glukoze i drugih hranjivih tvari. Na tome se zasnivaju mnoge tehnike snimanja kojima je cilj mjeriti neke aspekte rada mozga. Iako slovi kao „najgladniji" organ u našem tijelu, od napornog razmišljanja ipak ne možemo smršavjeti. Njegova energetska potrošnja odgovara potrošnji jedne žarulje od 15 W. Michel A. Hofman s Instituta za istraživanje mozga u Amsterdamu izračunao je da ukupni troškovi energije mozga jedne osobe za cijeli njezin životni vijek od 80 godina ne iznose više od 1200 eura. Zvuči pomalo razočaravajuće za taj čudesan i najsloženiji organ našeg tijela!
 
-### Neuroni i glija-stanice 
+## Neuroni i glija-stanice 
 
 Kako bismo mogli nastaviti s našom pričom o mozgu, trebamo bolje upoznati glavne likove, živčane stanice (neurone) koje grade mozak i cijeli živčani sustav. Mozak sadrži oko 100 milijardi neurona, što je oko 15 puta više nego što ima ljudi na svijetu. Svaki neuron povezuje se sa stotinama i tisućama drugih neurona tvoreći komunikacijsku mrežu koja je daleko složenija i razvijenija od bilo kojeg računala. Neuroni se sastoje od staničnog tijela i izdanaka. Kraći su izdanci neurona dendriti koji primaju signale, a duži je izdanak akson (neurit) koji prenosi signale na druge neurone. Nobelovac Ramón y Cajal (1852. -- 1934.) opisuje neuron kao „Aristokrata među strukturama tijela, s orijaškim rukama ispruženim poput krakova hobotnice prema granicama vanjskog svijeta, u očekivanju stalnih zasjeda fizikalnih i kemijskih sila". Na trenutak zastanite i zamislite 100 milijardi neurona koji jedan na drugog ispaljuju električne signale odgovorne za svaku našu misao i svako naše djelo. Zvuči nevjerojatno! Mozak odraslog čovjeka sadrži više od 100 tisuća kilometara vlakana, a neka vlakna mogu postići brzinu provodljivosti električnih signala od čak 100 metara u sekundi. Spoj na kojem se jedan neuron susreće s drugim je sinapsa, a za prijenos signala na sinapsama koriste se različiti neuroprijenosnici (neurotransmiteri). Postoji više od 100 različitih neuroprijenosnika koji se različito dijele, pa tako razlikujemo klasične neurotransmitore i neuropeptide. Njihovi učinci u živčanom sustavu mogu biti ekscitacijski i/ili inhibicijski, što omogućava raznolikost naših reakcija i širok repertoar ponašanja. Američki biolog i nobelovac Gerald M. Edelman (1929. -- 2014.) rekao je da se broj mogućih neuronskih krugova u mozgu bilježi brojkom 10 nakon koje slijedi milijun nula. Imajte na umu da se broj čestica u poznatom svemiru procjenjuje brojkom 10 nakog koje slijedi sedamdeset devet nula. Impresivno, zar ne? Još jednom zastanite i zamislite 100 milijardi neurona, kilometre i kilometre vlakana i sve to upakirano u paket volumena 1,5 litre, zvanog mozak. Razmislite na trenutak i o neuronskim krugovima svojeg vlastitog mozga. Zamislite u svojim glavama milijarde neurona u složenom nizu, otprilike 100 bilijuna veza među njima, te gotovo beskonačan broj putova kojima se ispaljuju električni signali. Među tim mnoštvom, koje vjerojatno nalikuje velikoj prašumi, ipak vlada savršeni red. Neki neuroni reguliraju vaše disanje, dok drugi kontroliraju glad ili žeđ, a neki su odgovorni za vaše emocije ili trenutne misli. U ovoj priči nemojmo zaboraviti i glija-stanice koje su u mozgu brojnije od neurona i nalaze se u omjeru 3 : 1. One su učinkovita potpora koja pomaže neuronima u opskrbi hranjivim tvarima, izgradnji ovojnica na njihovim vlaknima, a posjeduju i druge funkcije. U nekim se regijama mozga glija-stanice ponašaju poput matičnih stanica potičući ponovni rast oštećenih neurona. Istraživanja potvrđuju i njihovu ulogu u procesima pamćenja i učenja, a Einsteinov mozak, u usporedbi s drugim mozgovima, skrivao je mnogo više glija-stanica, posebice u područjima velikog mozga zaduženim za vizualnospacijalne i matematičke sposobnosti. 
 
-### Ravnine i presjeci u anatomiji živčanog sustava 
+## Ravnine i presjeci u anatomiji živčanog sustava 
 
 Kako bismo se snašli u svijetu neurona, potrebno je poznavati neke latinske izraze kojima se opisuje smještaj i međusobni odnosi pojedinih dijelova živčanog sustava. U anatomiji se koriste tri zamišljene ravnine koje prolaze kroz tijelo u anatomskom položaju koji je kod životinja četveronožan, a kod ljudi uspravan posturalan stav. Te tri ravnine su sagitalna, frontalna i transverzalna (Slika 1.1.). Sagitalna ili središnja ravnina prolazi kroz tijelo tako da ga dijeli na dvije jednake polovice, desnu i lijevu. U toj ravnini medijalno označava bliže središnjoj osi, a lateralno je pozicionirano udaljenije od središnje osi, prema stranama tijela. Sagitalni presjek kroz sredinu mozga, između polutki, naziva se medijalni presjek. Frontalna ili koronalna ravnina okomita je na sagitalnu ravninu, paralelna s čelom, i dijeli tijelo na ventralni i dorsalni dio. Ventralno označava prema površini trbuha ili donjem dijelu glave. Dorsalno je pozicionirano prema površini leđa ili prema vrhu glave. Transverzalne ili horizontalne ravnine postavljene su vodoravno i dijele tijelo na prednji dio, koji se još zove *anterior* i stražnji dio, za koji se upotrebljava latinski izraz *posterior*. Pojmovi istog značenja su i rostralno, od lat. riječi *rostrum* što znači ՙkljun՚ i kaudalno, od lat. *cauda* što znači ՙrep՚. Kada je riječ o čovjeku, iz navedenog slijedi da se za vrh glave i stražnji dio tijela upotrebljava termin dorsalno, dok se za donji dio glave i prednji dio tijela koristi termin ventralno. Kako bi se zaobišla ta komplikacija, za vrh glave kod primata obično se upotrebljava termin *superior*, a za donji dio glave *inferior*. Ukratko, prilikom opisa živčanog sustava kralježnjaka koristimo se trima zamišljenim osovinama koje su opisane u odnosu na položaj njihova središnjeg živčanog sustava: medijalno-lateralno, ventralno-dorsalno i anteriorno-posteriorno. Medijalno označava ՙprema središnjoj liniji tijela՚, dok lateralno označava ՙod središnje linije prema stranama tijela՚. Ventralno znači ՙprema površini trbuha i prsa՚ ili, kao što je već kazano, ՙdonjem dijelu glave՚, dok dorsalno označava ՙprema površini leđa ili vrhu glave՚. Anteriorno ili kaudalno je ՙprema naprijed, prema nosu՚, a posteriorno ili rostralno ՙprema otraga, prema repu՚ (Slika 1.1.).
 
@@ -162,7 +162,7 @@ nazvana prema svojoj svijetloj boji koja je posljedica lipidnog sustava
 mijelina. Sada, kada smo razriješili te osnovne termine, krenimo na put
 kroz živčani sustav.
 
-### Podjela živčanog sustava
+## Podjela živčanog sustava
 
 Krajnje je odredište našeg putovanja veliki mozak. Dosad smo govorili o
 mozgu kao o jednoj jedinstvenoj nakupini tkiva, međutim taj se organ
@@ -190,7 +190,7 @@ druge dijelove središnjeg živčanog sustava.
 
 ![Slika 1.2. Središnji i periferni živčani sustav](images/1.2.jpg)
 
-### Kralježnička moždina i moždano deblo
+## Kralježnička moždina i moždano deblo
 
 Poznati kognitivni neuroznanstvenici Tom Stafford i Matt Webb usporedili
 su središnji živčani sustav s gljivom kojoj je kralježnička moždina
@@ -235,7 +235,7 @@ mišića. Budimo pažljivi na putu kroz moždano deblo, jer krvarenje čak iz
 najmanje arterije koja opskrbljuje to područje može značiti trenutačnu
 smrt.
 
-### Mali mozak
+## Mali mozak
 
 Jasno označeni putovi dovest će nas do sljedeće velike postaje koja se
 zove mali mozak (Slika 1.2.). Ta postaja, iako čini samo 10 % mase
@@ -259,9 +259,9 @@ prilagođavanja pokreta promjenjivim uvjetima, poremećaje u koordinaciji
 trupa i udova (zbog kojih možemo teturati poput pijanca). Ostavimo mali
 mozak da obavlja svoj posao i uputimo se dalje prema velikom mozgu.
 
-### Veliki mozak
+## Veliki mozak
 
-#### Talamus i hipotalamus 
+### Talamus i hipotalamus 
 
 Veliki je mozak prema medijalnom presjeku podijeljen u dvije polutke
 (hemisfere). Nadalje, možemo ga podijeliti i na **međumozak**
@@ -306,7 +306,7 @@ devetom poglavlju. Ukratko, funkcije hipotalamusa najbolje odražava
 neuroznanstveni vic koji kaže da taj dio mozga regulira sva četiri bitna
 sastojka života: tučnjavu, bježanje, hranjenje i parenje.
 
-#### Bazalni gangliji 
+### Bazalni gangliji 
 
 Ostavimo hipotalamus da nadzire „glavne sastojke naših života" i
 zavirimo malo u prednji mozak koji je najveći dio ljudskog mozga i
@@ -352,7 +352,7 @@ tegmentalno područje, tj. u regije mozga koje ne upravljaju emocijama
 
 ![Slika 1.3. Bazalni gangliji i talamus]() 
 
-#### Limbički sustav
+### Limbički sustav
 
 Krenimo dalje prema još jednom dijelu prednjeg mozga koji se naziva
 **limbičkim sustavom**, a točnu lokaciju te postaje pogledajte na
@@ -500,7 +500,7 @@ poglavlju.
 ![Slika 1.4. Limbički sustav (dio), hipotalamus, hipofiza i velika
 komisura](images/1.4.jpg)
 
-#### Kora velikog mozga
+### Kora velikog mozga
 
 U našoj priči došli smo i do kore velikog mozga (Slika 1.5.), posljednjepostaje i krajnjeg odredišta našeg putovanja velikim mozgom. Ako se zabilo koji dio mozga može reći da je odgovoran za ljudsku posebnost i jedinstvenost, onda je to zasigurno kora velikog mozga, koja je sjedište viših misaonih procesa, mjesto gdje se odvijaju najviše mentalne funkcije. Površina moždane kore čovjeka iznosi oko 2200 cm^2^, a debljina varira od 2 do 4,5 mm. Kad bismo razvukli moždanu koru čimpanze, uspjeli bismo njome prekriti jedan papir A4 formata, dok bi moždana kora čovjeka mogla prekriti četiri puta veću površinu. Putujući korom velikog mozga susrest ćemo brojne brazde (*sulci*) i pukotine (*fissurae*). Vijuge (*gyri*) su dijelovi kore koji su omeđeni pukotinama i brazdama. Na površini svake polutke najuočljivije su centralna brazda (*sulcus centralis*) i lateralna pukotina (*fissura lateralis*) (Slika 1.5.). Kora velikog mozga zaista je posebna sa svojim mnoštvom neurona organiziranim u različitim slojevima, zvanim još i lamine, i stupcima, tj. kolumnama. Nedostatak jasnih anatomsko-funkcionalnih granica pojedinih dijelova rezultirao je različitim njezinim podjelama. Najveći dio moždane kore čovjeka (oko 90 %) sastoji se od šest slojeva neurona. Ta su područja filogenetski mlađa i nazivaju se neokorteksom. Preostali je dio kore (oko 10 %) filogenetski stariji, pripada alokorteksu i jednostavnije je građe, koja uključuje dva, tri ili pet slojeva neurona. Najčešće se upotrebljava podjela njemačkog neurologa Korbiniana Brodmanna (1868. -- 1918.), koja uključuje 52 citoarhitektonska polja utemeljena na razlikama u mikroskopskom izgledu slojeva u pojedinim dijelovima neokorteksa i alokorteksa. Ukratko ćemo se upoznati i s funkcionalnom organizacijom kore velikog mozga, pritom ne ulazeći detaljno u različite njezine podjele te prednosti i/ili nedostatke pojedinih podjela. Tradicionalno, kortikalne regije dijele se na osjetilna (senzorna), motorička i asocijativna područja. Pritom unutar osjetilnih i motoričkih područja možemo razlikovati *primarna* i *sekundarna* područja. Svakako treba kazati da je takva podjela pojednostavljena i pruža uvid u osnovne funkcije pojedinih područja korteksa, ali pritom ne odražava kompleksnost kortikalnih veza u regulaciji različitih složenijih aspekata ponašanja. Za početak, upoznajmo se s osnovnim funkcijama tih kortikalnih područja. Osjetilna područja obrađuju signale koji pristižu iz osjetila. U primarnim senzornim područjima nastaju osjeti, s tim da tri osnovna modaliteta (vid, sluh i tjelesni senzibilitet) imaju svoja jasno definirana primarna područja. U sekundarnim senzornim područjima, koja su smještena uglavnom oko primarnih područja, odvija se integracija osjetilnih podataka koja rezultira doživljajima koje karakterizira strukturiranost osjeta u cjeline. Kada je riječ o motoričkim regijama, primarno područje ima ključnu ulogu u samom izvođenju motoričkih radnji. Ono (o točnoj lokaciji bit će riječi poslije u tekstu) postupno prelazi u sekundarno motoričko (premotorno) područje, čija je osnovna funkcija koordinacija motoričkih kretnji, tj. vremenska i prostorna integracija elementarnih pokreta u predmetne radnje. Tradicionalno, asocijativnim (ili nekada zvanim tercijarnim) se područjima nazivaju kortikalne regije koje nisu ni osjetilne ni motoričke. Ta područja ne ostvaruju direktnu komunikaciju s vanjskim svijetom (primanjem informacije direktno iz osjetnih organa ili realiziranjem motorne akcije), već su odgovorna za složenu obradu koja se odvija od dolaska živčanih impulsa u primarna senzorna kortikalna područja pa sve do generiranja ponašanja. Asocijativna kora, koja obuhvaća najveći dio površine moždane kore, također se dijeli na unimodalna i multimodalna područja. Unimodalna se područja koriste informacijama iz jednog osjetilnog modaliteta te uključuju i prethodno opisane dijelove sekundarnih senzornih područja. Za multimodalne regije karakterističan je input iz više osjetilnih modaliteta. Najsloženiji aspekti našeg ponašanja, kao što su npr. planiranje, rješavanje problema, hotimična motorička aktivnost, bihevioralna kontrola, temelje se na integraciji informacija koje osigurava multimodalni asocijativni korteks.
 
@@ -529,7 +529,7 @@ neurona omogućuje imitaciju i učenje, empatiju i otkrivanje namjera
 drugih osoba. O sustavu zrcalnih neurona bit će više riječi u sedmom
 poglavlju.
 
-### Velika komisura
+## Velika komisura
 
 Priča o mozgu ne bi bila potpuna bez priče o **velikoj komisuri** ili
 žuljevitom tijelu (*corpus callosum*) (vidjeti Sliku 1.4.), tj. o
@@ -558,7 +558,7 @@ laboratorijskim istraživanjima potvrdili neovisno funkcioniranje
 njihovih dviju polutki. Više informacija o provedenim eksperimentima
 pružit će se u sedmom poglavlju.
 
-### Mozgovna asimetrija 
+## Mozgovna asimetrija 
 
 Na prvi pogled dvije moždane polutke izgledaju potpuno identično.
 Međutim, jedna polutka nije zrcalni odraz druge. Među polutkama nađene
@@ -599,7 +599,7 @@ različitih načina. Pitanje organizacije mozgovnih sustava u produkciji
 integriranog ponašanja svakako je jedno od najizazovnijih pitanja koja
 se mogu postaviti.
 
-### Razvoj mozga 
+## Razvoj mozga 
 
 Prije nego što krenete na sadržaje drugih poglavlja ove knjige, osvrnut
 ćemo se kratko na razvoj mozga tijekom života. Kao prvo, razvoj mozga
@@ -647,7 +647,7 @@ djelić onoga što bismo trebali saznati o ljudskom mozgu. Ali skromna
 količina onoga što smo otkrili čini priču o mozgu uzbudljivijom od bilo
 kojeg romana o Sherlocku Holmesu."
 
-**Zaključci**
+## Zaključci
 
 1. Mozak je znatno složeniji od bilo koje naprave s kojom se
 uspoređivao tijekom povijesti premda je njegov izgled daleko od
@@ -751,7 +751,7 @@ ponašanja.
 10. Veliku komisuru gradi oko 200 milijuna aksona koji omogućuju
 komunikaciju dviju polutki velikog mozga.
 
-**Testirajte se**
+## Testirajte se
 
 1. Promislite o sličnostima i razlikama u funkcioniranju ljudskog mozga i računala. 
 2. Prisjetite se osnovne podjele središnjeg živčanog sustava. 
@@ -765,7 +765,7 @@ komunikaciju dviju polutki velikog mozga.
 10. Gdje se nalazi POT područje? 
 11. Navedite barem jedan primjer mozgovnog područja koji sudjeluje u regulaciji različitih formi ponašanja. Raspravite kako je navedeno moguće.
 
-**Preporučena dodatna literatura**
+## Preporučena dodatna literatura
 
 Postoji mnogo izvrsnih knjiga o neuroznanosti. Ljubiteljima znanstvenog
 štiva preporučujemo udžbenike iz neuroznanosti ili biološke psihologije
@@ -786,9 +786,7 @@ Zagreb: TIM press. - Priče o mozgu ne bi bile potpune bez
 potraga
 
 neuroznanstenika za onim što nas čini ljudima. U tom kontekstu
-preporučujemo ovu
-
-knjigu.
+preporučujemo ovu knjigu.
 
 Sacks, O. (1998). *Čovjek koji je ženu zamijenio šeširom*. Zagreb:
 KruZak. - „Pričati o
@@ -803,7 +801,7 @@ stvarnost koju zamjećujete. *Doživite izvantjelesno iskustvo, Prevarite
 si pola mozga* i još 98 drugih hakerskih trikova svojeg mozga možete
 pronaći u ovoj knjizi.
 
-**Važni pojmovi**
+## Važni pojmovi
 
 **Asocijativna kora** Dijelovi kore velikog mozga koji nisu uključeni u
 primarnu senzoričku i motoričku obradu te reguliraju složenije aspekte
@@ -872,7 +870,7 @@ na međumozak i prednji mozak.
 **Okcipitalni režanj** Režanj kore velikog mozga koji obrađuje vidne
 informacije.
 
-**Literatura**
+## Literatura
 
 Banich, M. T., & Compton, R.J. (2011). *Cognitive Neuroscience*.
 Wadsworth: Cengage Learning.
@@ -983,41 +981,6 @@ URL: http://dementia.hiim.hr/ustroj.htm. Preuzeto 20. travnja 2018.
 
 Walker, R. (2003). *Mozak. Kako funkcionira siva tvar?* Zagreb: Profil
 International.
-
-**\
-**
-
-**Popis slika.**
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\Pog1\_fin\\1.1\\1.1.jpg](media/image1.jpeg){width="6.5in"
-height="4.58844050743657in"}
-
-Slika 1.1. Smjerovi u živčanom sustavu
-
-![1](media/image2.jpeg){width="6.567361111111111in"
-height="4.447916666666667in"}
-
-Slika 1.2. Središnji i periferni živčani sustav
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\Pog1\_fin\\1.3\\1.3..jpg](media/image3.jpeg){width="6.5in"
-height="4.333333333333333in"}
-
-Slika 1.3. Bazalni gangliji i talamus
-
-![](media/image4.jpeg){width="6.5in" height="4.335416666666666in"}
-
-Slika 1.4. Limbički sustav (dio), hipotalamus, hipofiza i velika
-komisura
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\Pog1\_fin\\1.5\\1.5.jpg](media/image5.jpeg){width="6.5in"
-height="4.333333333333333in"}
-
-Slika 1.5. Kora velikog mozga
-
-![1](media/image6.jpeg){width="6.238888888888889in"
-height="4.163888888888889in"}
-
-Slika 1.6. Prikaz inzule
 
 
 # 2. POGLAVLJE
