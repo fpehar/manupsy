@@ -8,21 +8,55 @@ keywords:
 lang: hr-HR
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    name: Nataša Šimić
+    initials: NŠ
+    email: nsimic@unizd.hr
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
+      - University of Zadar, Department of Psychology
   -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    name: Pavle Valerjev
+    initials: PV
+    email: valerjev@unizd.hr
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - University of Zadar, Department of Psychology
+  -
+    name: Matilda Nikolić Ivanišević
+    initials: MNI
+    email: mnikolic@unizd.hr
+    affiliations:
+      - University of Zadar, Department of Psychology
+  -
+    name: Irena Pavela Banai
+    initials: IPB
+    affiliations:
+      - University of Zadar, Department of Psychology
+  -
+    name: Lozena Ivanov
+    initials: LI
+    affiliations:
+      - University of Zadar, Department of Psychology
+  -
+    name: Tanja Gulan
+    initials: TG
+    affiliations:
+      - University of Zadar, Department of Psychology
+  -
+    name: Tanja Gulan
+    initials: TG
+    affiliations:
+  -
+    name: Igor Bajšanski
+    initials: IB
+    affiliations:
+      - University of Rijeka, Department of Psychology
+  -
+    name: Marina Nekić
+    initials: MN
+    affiliations:
+      - University of Zadar, Department of Psychology
+  -
+    name: Benjamin Banai
+    initials: BB
+    affiliations:
+      - University of Zadar, Department of Psychology
+  -
