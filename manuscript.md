@@ -1,9 +1,7 @@
 ---
-author-meta:
-- John Doe
-- Jane Roe
+author-meta: []
 date-meta: '2019-12-27'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-27\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-27\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-27\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-27\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,36 +18,15 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/))
+([permalink](https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/))
 was automatically generated
-from [fpehar/manupsy@0e1cca4](https://github.com/fpehar/manupsy/tree/0e1cca43c90432962c616eae81e0ddad924adbad)
+from [fpehar/manupsy@94dc20c](https://github.com/fpehar/manupsy/tree/94dc20c365ca68b6cf2e878f02352e51fc6294ca)
 on December 27, 2019.
 </em></small>
 
 ## Authors
 
 
-
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
-  </small>
 
 
 
@@ -119,9 +96,9 @@ Riječ je o moderno koncipiranom udžbeniku u kojem su odabrane teme iz područj
 
 **Dr. sc. Irena Pavela Banai** docentica je na Odjelu za psihologiju Sveučilišta u Zadru. Sudjeluje u izvođenju nastave iz područja biološke i eksperimentalne psihologije. Njezini istraživački interesi uključuju područja evolucijske psihologije i psihoneuroendokrinologije. Bavi se istraživanjima ljudskog glasa i njegovom ulogom u privlačenju partnera kod žena te izražavanju dominacije kod muškaraca. Svake godine sudjeluje u obilježavanju Tjedna mozga s ciljem promoviranja i popularizacije spoznaja iz područja neuroznanosti.
 
-# 1. PUTOVANJE LJUDSKIM MOZGOM
-
-*Nataša Šimić*
+% 1. PUTOVANJE LJUDSKIM MOZGOM
+% Nataša Šimić
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -132,9 +109,7 @@ U ovom poglavlju naučit ćemo:
 -   o podjeli živčanog sustava
 -   o osnovnim dijelovima ljudskog mozga i njihovim funkcijama
 
-> Ljudi bi trebali znati da u mozgu, i samo u mozgu, nastaju naša radost, veselje, smijeh i šala, kao i naša tuga, bol, žalost i strah. On nam omogućuje da čujemo i razlikujemo ružno od prelijepog, dobro od lošeg, ugodno od neugodnog.
-
-Hipokrat, 5. stoljeće prije Krista
+> Ljudi bi trebali znati da u mozgu, i samo u mozgu, nastaju naša radost, veselje, smijeh i šala, kao i naša tuga, bol, žalost i strah. On nam omogućuje da čujemo i razlikujemo ružno od prelijepog, dobro od lošeg, ugodno od neugodnog. (Hipokrat, 5. stoljeće prije Krista)
 
 ## Mozak
 
@@ -180,7 +155,7 @@ Veliki je mozak prema medijalnom presjeku podijeljen u dvije polutke (hemisfere)
 
 Ostavimo hipotalamus da nadzire „glavne sastojke naših života" i zavirimo malo u prednji mozak koji je najveći dio ljudskog mozga i upravlja njegovim najsloženijim funkcijama. Taj dio velikog mozga započinje voljne pokrete, tumači osjetilne podatke te posreduje u složenim kognitivnim funkcijama poput pamćenja, učenja, govora i rješavanja problema. U dubinama telencefalona čeka nas neobično oblikovana nakupina jezgara koja se naziva **bazalnim ganglijima**. Glavni njihov dio čini strijarni sustav (*corpus striatum*) koji se sastoji od ukupno tri jezgre: kaudalna jezgra (*nucleus caudatus*), *putamen* i *globus pallidus*. Kaudalna jezgra dobila je naziv zbog svog karakterističnog izgleda (*caudatus* znači ՙrepat՚) (Slika 1.3.). Važan dio bazalnih ganglija čine još dvije jezgre: crna jezgra (*substantia nigra*) i subtalamička jezgra koja se smjestila ispod talamusa. Svakodnevno, u regulaciji motoričke kontrole i donošenju odluka, bazalni gangliji komuniciraju s korom velikog mozga i moždanim deblom, kao i sa svojim susjedom talamusom. Zahvaljujući tom dijelu velikog mozga održava se tonus muskulature pri izvođenju automatskih, a donekle i voljnih pokreta. To nije sve, tj. njegova uloga u kognitivnim funkcijama poput pamćenja i učenja danas se intenzivno proučava. Oboljenja bazalnih ganglija očituju se u tremoru, nekoordiniranim pokretima i neželjenim suvišnim pokretima. Manjak dopamina u nekim njihovim dijelovima (točnije u neuronima crne jezgre čija se vlakna projiciraju u kaudalnu jezgru i putamen) dovodi do Parkinsonove bolesti sa simptomima koji uključuju izražen tremor u mirovanju, ukočenost mišića, teškoće u započinjanju pokreta, lice poput maske. Parkinsonova bolest druga je najčešća degenerativna bolest središnjeg živčanog sustava (na prvom je mjestu Alzheimerova bolest), a danas se intenzivno proučavaju novi terapijski pristupi za nju. Do 90-ih godina prošlog stoljeća liječenje je bilo primarno ograničeno na farmakoterapiju kojom se podizala razina dopamina u bazalnim ganglijima. Dubokom stimulacijom mozga, u kombinaciji s farmakoterapijom, postiže se značajno poboljšanje zdravstvenog stanja oboljelih od Parkinsonove bolesti i drugih motoričkih poremećaja. Dva najčešća mjesta za implantaciju elektroda kod duboke stimulacije mozga jesu jezgre globus pallidus i subtalamička jezgra. Budući da su područja bazalnih ganglija bogata dopaminergičnim sinapsama, funkcije tih regija (prvenstveno putamena i ventralnog paliduma) povezuju se s nagrađivanjem, potkrepljivanjem i ovisničkim ponašanjem. Istraživanja oslikavanja mozga funkcijskom magnetskom rezonancijom pokazuju da bismo ljubav mogli „smjestiti" u stražnji putamen i ranije spomenuto ventralno tegmentalno područje, tj. u regije mozga koje ne upravljaju emocijama (više o tome u devetom poglavlju).
 
-![Slika 1.3. Bazalni gangliji i talamus]()
+![Slika 1.3. Bazalni gangliji i talamus](images/1.3.jpg)
 
 ### Limbički sustav
 
@@ -383,9 +358,9 @@ Preuzeto 20. travnja 2018.
 
 Walker, R. (2003). *Mozak. Kako funkcionira siva tvar?* Zagreb: Profil International.
 
-# 2. SNIMANJE ELEKTRIČNE AKTIVNOSTI MOZGA: ELEKTROENCEFALOGRAFIJA (EEG) I POTENCIJALI VEZANI UZ DOGAĐAJ (ERP)
-
-*Matilda Nikolić Ivanišević*
+% 2. SNIMANJE ELEKTRIČNE AKTIVNOSTI MOZGA: ELEKTROENCEFALOGRAFIJA (EEG) I POTENCIJALI VEZANI UZ DOGAĐAJ (ERP)
+% Matilda Nikolić Ivanišević
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -410,11 +385,12 @@ Prvi koji je uspio napraviti EEG zapis dobiven s površine ljudskog mozga bio je
 
 Kako izgleda klasični EEG zapis? Evo jednog primjera na Slici 2.1.
 
-![SLIKA 2.1. OVDJE](#)
+![Slika 2.1. Primjer elektroencefalograma za vrijeme obavljanja *tapping*
+motornog zadatka. Slika je dio arhive autoričinih istraživanja](images/2.1.jpg)
 
 Na njemu je moguće vidjeti više neobičnih linija u obliku valova. Svaka od linija može predstavljati zapis s pojedine elektrode (kao u našem primjeru) ili pak razliku potencijala između dviju aktivnih elektroda. Točnije rečeno, svaki zapis predstavlja razliku potencijala dobivenih na dvije elektrode, samo što se ponekad druga elektroda (prva je uvijek postavljena na lubanji) postavlja na neaktivnom području, npr. na kosti iza uha (mastoidna kost), a takav se način snimanja naziva monopolarno snimanje. Ako je riječ o razlici između dviju aktivnih elektroda, onda govorimo o bipolarnom snimanju. Broj linija, odnosno korištenih elektroda bira liječnik ili istraživač ovisno o postavljenim ciljevima i o tome koje funkcije želi ispitati (npr. vidne, slušne, motorne ili pak želi zahvatiti sve regije). Cijelo vrijeme govorimo da se elektrode postavljaju na površinu lubanje, ali taj je podatak poprilično neprecizan, odnosno trebali bismo znati točnu lokaciju svake elektrode, pogotovo ako želimo svoje rezultate usporediti s rezultatima do koji su došli neki drugi istraživači (a to uvijek želimo!). U tu je svrhu Jaspers razvio nomenklaturu elektroda, što znači da su različite pozicije na površini lubanje, odnosno elektrode koje se na njih postavljaju, dobile svoje ime i prezime. Svaka pojedina pozicija u svojem nazivu ima jedno slovo i broj. Slova se odnose na različite regije. Već ste u prvom poglavlju mogli pročitati da se mozak dijeli na pet režnjeva: frontalni, temporalni, parijetalni, okcipitalni i inzulu. Za nomenklaturu (površinskih) elektroda važna su nam prva četiri režnja. Ne zbog toga što su funkcije inzule nebitne, već zbog činjenice da je inzula podvučena ispod temporalnog režnja. Slova koja se koriste su F (frontalna regija), T (temporalna regija), C (centralna regija), P (parietalna regija) i O (okcipitalna regija). U nazivlju imamo i jedno slovo „viška“ (slovo C), tj. imamo četiri režnja, a pet slova koja označavaju pet različitih regija. Brojevi se odnose na moždanu hemisferu. Parni označavaju desnu, a neparni lijevu hemisferu. Neke elektrode umjesto broja pored oznake regije imaju slovo „z“ (od engl. *zero*), i to su one elektrode koje su smještene u sredini, dakle ni lijevo ni desno. Takav sustav imenovanja elektroda naziva se 10/20 sustav, a ime je dobio po tome što su elektrode smještene na 10 ili 20 % udaljenosti između lijevog i desnog mastoidnog nastavka, odnosno vrha nosa (*nasion*) i zatiljka (*inion*). Radi jasnoće pogledajte Sliku 2.2.
 
-![SLIKA 2.2. OVDJE](#)
+![Slika 2.2. Prikaz rasporeda elektroda kod internacionalnog 10/20 sustava](images/2.2.jpg)
 
 Ovakav raspored elektroda uključuje 21 elektrodu. Previše? Premalo? Možemo reći da nije previše jer se osnovna zamjerka vezana za EEG odnosi na to da ne omogućuje precizno određivanje izvora signala što, između ostalog, proizlazi iz činjenice da je još uvijek ostalo jako mnogo prostora nepokrivenog elektrodama. Stoga se može zaključiti da ova metoda ima relativno lošu prostornu rezoluciju. Ovdje bismo se mogli ograditi pa reći da noviji EEG uređaji imaju integrirane sofisticirane programe koji omogućuju korištenje velikog broja elektroda (i do 256) te preciznije određivanje izvora signala. Što se pak tiče vremenske rezolucije ove tehnike, ona je jako dobra, što zapravo znači da se promjene koje su vidljive na EEG-u odvijaju u realnom vremenu, a ne sa zakašnjenjem. Ako se možda pitate je li komplicirano postaviti sve te silne elektrode, odgovor je da baš i nije, a razlog je jednostavan: sve su elektrode obično integrirane u kapu, a kape se, kao i odjeća, izrađuju u različitim veličinama.
 
@@ -428,7 +404,8 @@ EEG aktivnost može se svesti na nekoliko osnovnih valova, odnosno ritmova, a po
 
 _**Alfa-ritam**_ **(alfa-valovi)** ima frekvenciju između 8 i 12 Hz te amplitudu obično između 10 i 45µV, s tim da u amplitudi postoje velike razlike od pojedinca do pojedinca. Upravo su alfa-valovi dominantni kod odraslih ljudi u opuštenom budnom stanju, a najzastupljeniji su u okcipitalnom dijelu mozga. Koliko će alfa-ritam dominirati EEG zapisom ovisi i o tome drži li osoba zatvorene (veća zastupljenost alfa-ritma) ili otvorene oči (manja zastupljenost alfa-ritma). U trenutku kada se oči otvore, dolazi do naglog smanjenja prisutnosti alfa-valova. _**Beta-ritam**_ (beta-valovi)** ima frekvenciju u rasponu od oko 12 – 30 Hz, sa znatno nižim oscilacijama u amplitudi u odnosu na alfa-ritam (10 – 20 µV). Veća zastupljenost beta-ritma odražava stanje povećane budnosti i upravo su beta-valovi najviše zastupljeni u budnom stanju dok držimo oči otvorene. _**Delta-ritam**_ **(delta-valovi)** je niskofrekventna aktivnost (1 – 4 Hz) koja je najzastupljenija u duboku spavanju. Upravo je zastupljenost delta-valova jedan od kriterija za određivanje stadija spavanja. Ta sporovalna aktivnost dominantna je kod novorođenčadi, no poslije je zamjenjuju alfa i beta-ritam. **Theta-ritam (theta-valovi)** (4 – 8 Hz) ima nešto veću frekvenciju od delta-ritma i obično se javlja u stanjima pospanosti, meditacije te u nekim stadijima spavanja, točnije onima koji se odnose na „plitki“ san.
 
-![SLIKA 2.3. OVDJE](#)
+![Slika. 2.3. Ilustracija komponenti moždanih valova: beta, alfa, theta i
+delta](images/2.3.jpg)
 
 Liječnik i/ili istraživač može analizirati EEG zapis na dva moguća načina: vidnim pregledavanjem zapisa (kvalitativna analiza) ili upotrebom različitih programa koji omogućuju kvantitativnu analizu, najčešće baziranu na ispitivanju zastupljenosti pojedinih vrsta valova. Prije same analize potrebno je zapis očistiti od različitih smetnji koje su nažalost neizbježne. One mogu nastati zbog odvijanja paralelnih fizioloških procesa (npr. srčana i mišićna aktivnost), ali i zbog niza tehničkih smetnji (interferencija s uređajima iz okoline, loše uzemljenje ispitanika, prevelik otpor na elektrodama i sl.).
 
@@ -450,7 +427,8 @@ biti korisna. EEG se može koristiti prilikom:
 
 Jeste li znali da se i u Hrvatskoj, točnije na KBC-u Rebro, provode operacije pacijenata kojima je svakodnevno normalno funkcioniranje gotovo pa onemogućeno zbog čestih i intenzivnih epileptičnih napada? **Epilepsija** predstavlja jedan od najčešćih poremećaja u neurologiji koji nastaje kada stanice moždane kore postanu „prepodražljive“ i reagiraju izbijanjem pojačanih električnih impulsa uslijed čega nastaju epileptični napadaji. Ponekad su napadaji praćeni blagom simptomatologijom i za promatrača su gotovo neprimjetni. Nazivamo ih malim napadajima, češći su kod djece, a manifestiraju se kratkotrajnom odsutnošću ili prestankom započete aktivnosti. Veliki napadaji karakterizirani su poremećajima svijesti, grčenjem mišića (zbog čega se nerijetko dogodi da se osoba ugrize za jezik ili se pomokri), a mogu se javiti i smetnje vezane za osjete vida, sluha, njuha, ovisno o tome koja je regija mozga zahvaćena. Na Slici 2.4. može se vidjeti kako izgleda EEG zapis za vrijeme epileptičkog napada, tj. neposredno prije napada (lijevi dio na kojem se vidi da amplitude valova nisu tako velike) i za vrijeme samog napada (desni dio). Ovakve snimke mogu nam pomoći u lokaciji izbijanja neuobičajene električne aktivnosti.
 
-![SLIKA 2.4. OVDJE](#)
+![Slika 2.4. Ilustracija EEG-a neposredno prije i za vrijeme epileptičkog
+napada](images/2.4.jpg)
 
 Epilepsija se obično liječi lijekovima, ali kod nekih pacijenata oni ne pomažu, a kvaliteta života može im biti znatno narušena jer neki od njih imaju i po 20-ak napadaja dnevno! U takvim slučajevima moguće je odlučiti se za kiruršku terapiju kojoj je cilj eliminirati regiju u kojoj nastaje nepravilno izbijanje impulsa (ako je to moguće zbog niza drugih faktora, npr. veličina regije, funkcija koje su zahvaćene itd.). Ponekad se za žarištem epileptičkog napada traga postavljanjem elektroda ispod lubanje, na površinu korteksa. Nakon postavljanja elektroda obično se provodi višednevno snimanje kako bi se što bolje odredila zona izbijanja nepravilnih impulsa.
 
@@ -462,7 +440,7 @@ Od navedenih mogućih primjena EEG-a, još bismo posebno istaknuli primjenu u sk
 
 Na samom početku poglavlja navedeno je da se potencijali vezani za događaj (ERP) baziraju na EEG-u, pa evo nekih osnovnih informacija i o toj tehnici. Kada naš mozak započne neku novu aktivnost, npr. nakon što osobu izložimo podražaju (svjetlo, zvuk, miris, električni podražaj i sl.), živčana se aktivnost mijenja. Upravo ta promjena predstavlja evocirani, odnosno izazvani potencijal koji je vremenski vezan (_time-locked_) odgovor ljudskog mozga za zadani podražaj ili događaj. On se nastoji detektirati u smislu veličine promjene i vremena kada je promjena nastala u odnosu na trenutak zadavanja podražaja. Veličina novonastale promjene odmjerava se u odnosu na bazični EEG zapis. Na taj se način, kao i kod EEG-a, ispituje funkcionalno stanje živčanog sustava. Razlika između EEG-a i ERP-a jest ta što je prva tehnika usmjerena na spontane ritmičke oscilacije u voltaži, dok se ERP veže uz specifičnu i vremenski ograničenu promjenu aktivnosti vezanu za pojavu nekog događaja, senzornog, kognitivnog ili motornog. Potencijali vezani za događaj mogu se podijeliti u dvije kategorije. Prvu kategoriju čine promjene, tj. valovi koji se javljaju rano, točnije unutar 100 ms nakon podražaja. Te se promjene još nazivaju evocirani, odnosno osjetni ili egzogeni potencijali. Naziv egzogeni vezan je za činjenicu da ti valovi prvenstveno ovise o objektivnim karakteristikama samog podražaja. Promjene koje se javljaju poslije, odražavaju način na koji subjekt evaluira podražaj. Stoga se te promjene u potencijalu još nazivaju i kognitivne ili endogene (Slika 2.5.).
 
-![SLIKA 2.5. OVDJE](#)
+![Slika 2.5. Ilustracija ERP komponenti nakon zadavanja slušnog podražaja](images/2.5.jpg)
 
 Primjenom ERP-a moguće je dobiti odgovore na pitanja je li odgovor na podražaj došao na vrijeme do određene destinacije, pokazuje li odgovor pad u intenzitetu te ako postoji neki problem u neurološkom putu, gdje je točno sporna lokacija. U usporedbi s nekim drugim tehnikama (pozitronska emisijska tomografija i magnetska rezonancija) kojima se također može pratiti povećanje neuronske aktivnosti uslijed određenog procesa, tehnika ERP-a omogućuje preciznije detektiranje vremenskog nastanka promjena, što je u skladu s već navedenom dobrom vremenskom rezolucijom EEG-a. Potencijali vezani za događaj također su polifazični valovi čije su amplitude male (obično se kreću u rasponu od 0,1 do 20 µV), a javljaju se u periodu od 2 do 500 milisekundi nakon zadavanja podražaja. S obzirom na to da su ERP amplitude znatno manje od amplituda koje karakteriziraju spontanu EEG aktivnost, nemoguće ih je razaznati u sklopu klasičnog EEG zapisa. Kako bi nastale promjene bile vidljivije, istraživači se najčešće služe uprosječivanjem. Uprosječivanje općenito znači superponiranje, odnosno preklapanje valova jednog preko drugog kako bi se dobila sumativna vrijednost, tj. oblik vala. Npr. ako uprosječujemo spontanu EEG aktivnost uz preklapanje jako velikog broja zapisa, u konačnici bi „val“ koji bismo dobili na taj način bio ravna crta, odnosno vala više ne bi bilo. To proizlazi iz činjenice da je EEG odraz spontane i nasumične ritmične aktivnosti pa se valovi koji je opisuju u različitim vremenskim točkama snimanja međusobno jednostavno ponište. Kod ERP-a je upravo suprotno. Promjene koje nastaju izlaganjem nekom događaju dobro su definirane, očekivane i uvijek jednake. U tom smislu kada preklapamo EEG zapis koji sadrži promjene nastale uslijed djelovanja nekog događaja, višekratnim ponavljanjem tog procesa upravo nam se željeni val iskristalizira i postaje vidljiv, dok pozadinska aktivnost, odnosno bazični EEG, kao što je već i ranije rečeno, nestaje. Postavlja se pitanje koliko zapisa moramo imati da bismo uprosječivanjem izvukli dovoljno jasan val promjene potencijala vezanog uz neki događaj? U praktičnom smislu to pitanje zapravo znači koliko puta osoba treba biti izložena nekom događaju (npr. svjetlosni podražaj) da bismo detektirali promjenu u električnoj aktivnosti mozga koju taj događaj izaziva. Odgovor na to pitanje vezan je za vrstu potencijala o kojem se radi. U osnovi treba uzeti u obzir veličinu promjene koju izaziva neki događaj u odnosu na bazičnu EEG aktivnost. Za primjer uzmimo da je prosječna amplituda EEG valova oko 50 µV, a da izloženost nekom događaju dovodi do promjene te amplitude za 5 µV. Ovaj teoretski primjer istovjetan je promjenama koje izazivaju vidni podražaji (VEP – _Visualy Evoked Potentials_). Ako 50 podijelimo s 5, dobit ćemo 10 te nakon što taj broj kvadriramo (100), doći ćemo do odgovora koliko nam je zapisa potrebno. Dakle, općeniti je princip da amplitudu pozadinskog EEG-a (koju možemo promatrati kao šum) podijelimo s amplitudom promjene izazvane nekim događajem (koju možemo promatrati kao signal) te dobivenu vrijednost kvadriramo. Iz toga proizlazi da što neki događaj izaziva veću promjenu potencijala, to je potrebno uprosječiti manji broj zapisa kako bismo izdvojili željeni val, i obrnuto. Na primjer, rane promjene izazvane slušnim podražajem (BAEP - _Brainstem Auditory Evoked Potential_) iznose svega 0,25 µV te su znatno manje od onih izazvanih vidnim podražajem. Zbog toga je kod snimanja slušnih potencijala potreban znatno veći broj ponavljanja podražaja, čak 4000. Najčešće korišteni podražaji za ispitivanje ERP-a upravo su slušni i vidni podražaji.
 
@@ -577,24 +555,9 @@ Teplan, M. (2002). Fundamentals of EEG measurement. *Measurement Science Review,
 Yucha, C., & Gilbert, C. (2004). Evidence-Based Practise in Biofeedback and Neurofeedback. Association for Applied Psychophysiology and Biofeedback. Colorado Springs, CO.
 
 
-
-![Slika 2.1. Primjer elektroencefalograma za vrijeme obavljanja *tapping*
-motornog zadatka. Slika je dio arhive autoričinih istraživanja](images/2.1..jpg)
-
-![Slika 2.2. Prikaz rasporeda elektroda kod internacionalnog 10/20 sustava](images/2.2.jpg)
-
-![Slika. 2.3. Ilustracija komponenti moždanih valova: beta, alfa, theta i
-delta](images/2.3.jpg)
-
-![Slika 2.4. Ilustracija EEG-a neposredno prije i za vrijeme epileptičkog
-napada](images/2.4.jpg)
-
-![Slika 2.5. Ilustracija ERP komponenti nakon zadavanja slušnog podražaja](images/2.5.jpg)
-
-
-# 3. EVOLUCIJA MOZGA
-
-Irena Pavela Banai
+% 3. EVOLUCIJA MOZGA
+% Irena Pavela Banai
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -603,9 +566,7 @@ U ovom poglavlju naučit ćemo:
 -   o usporedbi mozga čovjeka i drugih vrsta kralježnjaka**
 -   o veličini mozga modernog čovjeka
 
-> Ništa u biologiji nema smisla, osim u svjetlu evolucije.
-
-Theodosius Dobzhansky
+> Ništa u biologiji nema smisla, osim u svjetlu evolucije. (Theodosius Dobzhansky)
 
 Evolucijski biolog Dobzhansky bio je u pravu – biologiju čovjeka i
 funkcioniranje mozga uistinu ćemo lakše objasniti i razumjeti ako znamo
@@ -627,11 +588,11 @@ Sve su ove tvrdnje netočne, a u ostatku ovog poglavlja možete saznati zašto. 
 
 Proučavanjem fosilnih ostataka, usporedbom živih vrsta te genetičkim analizama ljudi i drugih vrsta istraživači su otkrili kako je tekla evolucija čovjeka. Evoluciju se može prikazati kao razgranato stablo (iako će neki reći da više nalikuje na grm zbog gustoće grančica) na kojem najmanja grančica predstavlja jednu vrstu. Zajednička grana na kojoj je više manjih grančica predstavlja zajedničkog pretka. Dakle, sve su vrste međusobno povezane, iako mogu biti vremenski udaljene milijunima godina. Pojednostavljeno na Slici 3.1., vrste A, B i C imaju zajedničkog pretka P. Možemo tako zamisliti da A predstavlja današnjeg čovjeka, a B čimpanzu. Dakle, ljudi nisu potekli od majmuna i čimpanzi, nego imaju zajedničkog pretka, zbog čega dijele gotovo 99 % DNA.
 
-(SLIKA 3.1. OVDJE)
+![Slika. 3.1. Ilustracija evolucijskog stabla](images/3.1.jpg)
 
 U evolucijskom su se stablu, unutar skupine kralježnjaka, pojavili prvi sisavci otprilike prije 180 milijuna godina. Sisavci se dalje dijele na redove, kao što je red primata. Primati su pak podijeljeni u porodice, od kojih jednu čine hominidi, a oni su podijeljeni u dva roda: *Australopitecus* i *Homo*. Čovjek, *Homo* *sapiens*, spada u rod *Homo*, a smatra se da se razvio iz jedne vrste *Australopitecusa* (Slika 3.2.).
 
-(SLIKA 3.2. OTPRILIKE OVDJE)
+![Slika 3.2. Biološka kvalifikacija današnjeg čovjeka](images/3.2.jpg)
 
 ## Evolucija mozga hominida
 
@@ -641,7 +602,7 @@ Na Slici 3.3. prikazan je pretpostavljeni slijed pojave različitih hominida tij
 
 Istraživač David Geary sa Sveučilišta u Missouriju sažeo je prikupljene informacije o povećanju mozga prikazanih vrsta hominida. Uočio je da se mozak malo povećavao svaki put kad bi se pojavila nova vrsta, s tim da je prvo veće povećanje volumena mozga utvrđeno kod pojave roda *Homo* (*Homo habilis*), otprilike prije 2,5 milijuna godina. Primjerice, *Australopitecus africanus* je imao volumen mozga od oko 500 cm^3^, dok je prosječni volumen mozga *Homo habilisa* bio oko 650 cm^3^. Osim što je rod *Homo* u usporedbi s rodom *Australopitecus* imao veći mozak, smatra se da je imao i više vijuga i brazdi, što znači da je površina moždane kore bila veća. Mozak se dalje značajno povećao kada se pojavila vrsta *Homo erectus*, s prosječnim volumenom mozga od oko 900 cm^3^. *Homo erectus* je izrazito važna vrsta za proučavanje evolucije čovjeka jer je to prva vrsta hominida čiji su ostatci pronađeni izvan Afrike (u Kini i Indoneziji). Također se smatra da je to prva vrsta hominida koja je kontrolirala vatru.
 
-(SLIKA 3.3. OVDJE)
+![Slika 3.3. Pojednostavljen prikaz evolucije današnjeg čovjeka](images/3.3.jpg)
 
 Daljnje povećanje mozga, čak do 1500 cm^3^, uočeno je kod našeg bliskog srodnika, *Homo neandertalensisa*, poznatog kao neandertalac. Neandertalac je imao nešto veći mozak od mozga *Homo sapiensa*. Zvuči nevjerojatno, ali nije pogrešno – neandertalac je uistinu imao veći mozak od nas! Kako je to moguće? Ti su hominidi bili teži i imali su više mišićnog tkiva od čovjeka. Osim toga, živjeli su za vrijeme ledenih doba, a vrste koje žive u hladnijim uvjetima, imaju i veći mozak. Zapravo, neandertalci su uspjeli preživjeti u nekim od najgorih uvjeta poznatih čovjeku. Uspjeli su jer su živjeli u spiljama, kontrolirali vatru i odijevali životinjsku kožu.
 
@@ -654,7 +615,7 @@ Usporedbe mozga čovjeka i drugih vrsta kralježnjaka
 
 Bilo bi logično da se evolucijskim razvojem mozak kralježnjaka (Slika 3.4.) sve više i više povećavao. Tako bi ribe koje su se pojavile ranije, trebale imati manji mozak od gmazova koji se pojavljuju nakon njih. Slično, gmazovi bi trebali imati manji mozak od sisavaca jer su se sisavci pojavili kasnije. Istom bismo logikom očekivali da sisavci imaju nešto manji ili jednak mozak kao i današnje ptice jer su se obje vrste pojavile približno u isto vrijeme. Međutim, ptice imaju daleko manji mozak od sisavaca kao što je čovjek. Iz toga proizlazi da evolucijski razvoj nije linearan, odnosno ne može se opisati jednostavnom linijom. Inače, današnje su ptice jedini „živući dinosauri". One su se razvile od teropoda – vrste dinosaura s kojima dijele brojne zajedničke karakteristike. Najpoznatiji i najstariji blizak srodnik pretku današnjih ptica je **Archaeopteryx**. Najcjelovitiji fosilni primjerak *Archaeopteryxa* nalazi se u Prirodoslovnom muzeju u Berlinu. Pronašao ga je 1874. godine njemački farmer Jakob Niemeyer koji ga je, možda i ne znajući njegovu znanstvenu vrijednost, prodao kako bi mogao kupiti kravu za svoju farmu. Nakon nekoliko različitih vlasnika, taj je dragocjeni fosil dospio do muzeja.
 
-(SLIKA 3.4. OTPRILIKE OVDJE)
+![Slika 3.4. Pojednostavljen prikaz evolucije kralježnjaka](images/3.4.jpg)
 
 Kako naglašava neuroznanstvenik Stephen Marc Breedlove i njegovi suradnici sa sveučilišta u Michiganu, razvoj mozga različitih životinjskih vrsta nije imao linearan slijed jer je evolucija kralježnjaka tekla odvojeno i simultano tijekom više od 200 milijuna godina, baš poput razgranatog evolucijskog stabla. Za demonstraciju odvojenog i simultanog razvoja Breedlove i suradnici daju primjer mozga morskog psa, koji spada u grupu riba. Današnji morski pas ima veći mozak od primitivnih morskih pasa iz evolucijske povijesti. Međutim, povećanje mozga današnjeg morskog psa nije povezano s povećanjem mozga današnjeg čovjeka koji spada u grupu sisavaca – razvoj morskog psa i čovjeka zapravo su dvije odvojene grane na evolucijskom stablu. Dakle, njihove su evolucijske promjene neovisne iako imaju davnog zajedničkog pretka iz kojeg su se razvili svi kralježnjaci.
 
@@ -773,31 +734,9 @@ Stone, V. E., Cosmides, L., Tooby, J., Kroll, N. i Knight, R. T. (2002). Selecti
 Stringer, C. Why Have Our Brains Started to Shrink? URL: https://www.scientificamerican.com/article/why-have-our-brains-started-to-shrink/
 
 
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\3.1.jpg](media/image1.jpeg){width="5.604724409448819in"
-height="8.402985564304462in"}
-
-Slika. 3.1. Ilustracija evolucijskog stabla
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\3.2.jpg](media/image2.jpeg){width="5.179104330708661in"
-height="7.764864391951006in"}
-
-Slika 3.2. Biološka kvalifikacija današnjeg čovjeka.
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\3.3.jpg](media/image3.jpeg){width="6.510416666666667in"
-height="4.346894138232721in"}
-
-Slika 3.3. Pojednostavljen prikaz evolucije današnjeg čovjeka
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\Pog3\_fin\\3.4\\3.4.jpg](media/image4.jpeg){width="6.5in"
-height="4.333333333333333in"}
-
-Slika 3.4. Pojednostavljen prikaz evolucije kralježnjaka
-
-
-# 4. KORISTIMO LI SAMO 10 % MOZGA? RASKRINKAVANJE NAJPOZNATIJEG MITA O MOZGU
-
-*Pavle Valerjev*
+% 4. KORISTIMO LI SAMO 10 % MOZGA? RASKRINKAVANJE NAJPOZNATIJEG MITA O MOZGU
+% Pavle Valerjev
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 -   o znanstvenim mitovima
@@ -993,9 +932,9 @@ Stroke Statistics. The internet stroke center. [http://www.strokecenter.org/pati
 
 Weisberg, D. S., Keil, F. C., Goodstein, J., Rawson, E., & Gray, J. R. (2008). The seductive allure of neuroscience explanations. *Journal of Cognitive Neuroscience 20*, 470-477.
 
-# 5. PROSTORNI VID I MOZAK
-
-*Pavle Valerjev*
+% 5. PROSTORNI VID I MOZAK
+% Pavle Valerjev
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -1026,7 +965,7 @@ Evolucijski biolog Richard Dawkins navodi da je oko neovisno evoluiralo kod broj
 
 Zdravo ljudsko oko izvrsno je adaptirano i funkcionira bolje i od najsofisticiranije kamere. Ima jako visoku rezoluciju, a kad je potrebno, i visoku osjetljivost u mraku, omogućuje bogatu percepciju boja, ima izvrstan fokusirajući mehanizam s lećom i nevjerojatno se dobro prilagođava na promjene u razini osvjetljenja, od noćnog gledanja u gotovo potpunom mraku, samo pod svjetlošću zvijezda, pa do gledanja po blještavom sunčanom danu u ljetno podne. Ljudsko je oko i građeno slično kameri. Ima prilagodljivu leću, prilagodljiv uski otvor za propuštanje svjetlosti (zjenicu), tamnu komoru u kojoj se svjetlost distribuira, ali ne odbija zbog sloja pigmenta i iznad njega sloj retine na kojem se svjetlost pravilno raspoređuje u sliku koja podražuje fotoreceptore čime nastaje živčana aktivnost. Retina bi u ovoj usporedbi s fotokamerom odgovarala fotografskom filmu ili, ako je riječ o suvremenijim digitalnim kamerama, slikovnom senzoru sastavljenom od fotodioda. Na slici 5.1. vidi se struktura i građa ljudskog oka.
 
-[Slika 5.1. Ljudsko oko](images/5.1.jpg)
+![Slika 5.1. Ljudsko oko](images/5.1.jpg)
 
 
 Ljudi imaju dva oka, kao i drugi kralježnjaci. To im omogućuje **binokularno gledanje** koje je važno za prostorni vid i doživljaj trodimenzionalnosti. Naime, slika koja pada u svako pojedino oko je dvodimenzionalna, ali kombiniranjem slika iz dvaju oka, mozak stvara trodimenzionalnu predodžbu. To nije bilo oduvijek jasno čak ni najvećim misliocima tijekom antike, renesanse i novog vijeka. Harvardski psiholog Steven Pinker navodi da se do 19. stoljeća uglavnom mislilo da ljudi i životinje posjeduju dva oka iz istog razloga kao što imaju dva bubrega. Svakako, dobro je imati rezervno oko ako jedno zataji. No ipak, glavni razlog binokularnosti je trodimenzionalna percepcija. Očito se nekad percepciji olako pristupalo, no naknadno se pokazalo da je trodimenzionalna percepcija izuzetno važna te da nastaje pomoću složenih kompjutacijskih procesa u mozgu koji se odvijaju u mreži neurona vidnog korteksa.
@@ -1068,7 +1007,7 @@ Oko primarnog vidnog područja u okcipitalnom režnju raspoređeno je više seku
 „Gdje sustav“ grana se prema parijetalnom režnju i nakon područja V3 obuhvaća područja MT (srednje temporalno, koje se još zove i V5 područje) i MST (medijalno superiorno temporalno područje). Ta dva područja smatraju se ključnima za percepciju gibanja. Tu je još i područje V7, važno u analizi simetričnosti. Tok se dalje proteže u posteriorni dio parijetalnog režnja korteksa gdje važnu ulogu igra lateralno intraparijetalno područje (LIP) i Broadmanovo područje 7 (koje zahvaća tzv. prekuneus te superiorni parijetalni mali režanj). Prikaz „što“ i „gdje“ sustava (dorsalnog i ventralnog vidnog toka) nalazi se na Slici 5.4.
 
 ![Slika 5.4. Prikaz dorsalnog vidnog toka „gdje sustav“ i ventralnog
-vidnog toka „što sustav“](images/5.4..jpg)
+vidnog toka „što sustav“](images/5.4.jpg)
 
 ## Vidne agnozije
 
@@ -1247,34 +1186,13 @@ Posinn, K. L. (2014). Cognition, Spatial. U M. J. Aminoff, & R. B. Daroff (Eds.)
 
 Sheppard, R. N., & Metzler, J. (1971). Mental Rotation of Three-Dimensional Objects. *Science, 171*, 3972, 701-703.
 
-**Popis slika:**
 
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.1.oko.jpg](images/5.1.jpg)
-
-[Slika 5.1.](Ljudsko oko)
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.2.
-stereogram.jpg](images/5.2.jpg)
-
-[Slika 5.2.](Ilustracija nasumično-točkastog stereograma. Svaka se od
-prikazanih dviju slika s pomoću stereoskopa prezentira u zasebno oko)
-
-![C:\\Users\\Pavle\\Desktop\\Ilustracije\\5.3.hijazma.jpg](images/5.3.jpg)
-
-[Slika 5.3.](Optička hijazma i vidni putovi. Lijevo vidno polje
-reprezentirano je u desnoj hemisferi mozga i obratno)
-
-![](images/5.4..jpg)
-
-[Slika 5.4.](Prikaz dorsalnog vidnog toka („gdje sustav“) i ventralnog
-vidnog toka („što sustav“))
-
-
-# 6. DEKLARATIVNO PAMĆENJE I MOZAK
-
-*Lorena Ivanov*
+% 6. DEKLARATIVNO PAMĆENJE I MOZAK
+% Lorena Ivanov
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
+
 -   o podjeli dugoročnog pamćenja
 -   o poznatim modelima pamćenja
 -   o biološkoj osnovi pamćenja
@@ -1306,14 +1224,7 @@ Zbog toga što je količina informacija koju privremeno zadržavamo u kratkoroč
 
 Ako smo informacije uspješno kodirali, one se pohranjuju u dugoročnom pamćenju (DTP). O podjeli dugoročnog pamćenja na deklarativno i nedeklarativno već je bilo riječi ranije u tekstu. Bitna karakteristika dugoročnog pamćenja jest da je ono neograničenog kapaciteta. Stoga mora biti jako dobro organizirano kako bismo mogli pristupiti informacijama onda kada nam zatrebaju. Osim neograničenog kapaciteta, važna karakteristika ove vrste pamćenja, kao što samo ime sugerira, jest da je dugotrajno. Poznato je da neka svoja iskustva ili sadržaje koje smo učili pamtimo cijeli život, osobito one koje, iz različitih razloga, češće ponavljamo. Ipak, dio sadržaja tijekom vremena zaboravimo. Prije više od 100 godina Hermann Ebbinghaus (1850. – 1909.) istraživao je procese pamćenja na samom sebi. Među još nekim drugim stvarima zbog kojih će njegovo ime ostati trajno zabilježeno u povijesti istraživanja pamćenja, opisao je i poznatu krivulju zaboravljanja. Prema toj krivulji zaboravljanje sadržaja koje smo učili jako je brzo i veliko na početku nakon učenja, ali zatim se postupno usporava. Slični rezultati dobivaju se i danas, kako u laboratorijskim uvjetima pri učenju besmislenih slogova, kao što je to radio Ebbinghaus, tako i na mnogo realističnijim sadržajima. Rezultati istraživanja zapamćenosti španjolskog jezika u rasponu do čak 50 godina nakon učenja koje je 1984. godine objavio profesor Harry Bahrick s Ohio Wesleyan sveučilišta, pokazali su da se velika količina sadržaja španjolskog zaboravila u prve 3-4 godine nakon prestanka učenja. Međutim, u narednih 30-ak godina nakon toga zaboravljanje onog što je preostalo bilo je vrlo malo. Tek nakon tog razdoblja uslijedilo je ponovno izraženije zaboravljanje. Važno je naglasiti da je zaboravljanje bilo manje kod onih koji su u vrijeme kad su učili, dobro naučili te sadržaje u odnosu na one čije je znanje i na početku bilo lošije. Znači da je vrlo važno, kad neke sadržaje učimo, dobro ih naučiti kako bi zaboravljanje bilo manje. Krivulja zaboravljanja razlikuje se i s obzirom na to na koji se način ispituje pamćenje. Redovito se pokazuje da je zaboravljanje veće ako se zapamćenost provjerava zadatcima dosjećanja u odnosu na zadatke prepoznavanja. Dosjećanje, naime, zahtijeva svjesno pretraživanje pamćenja da bismo došli do odgovora. Kao kad nas netko pita koji je glavni grad Čilea, što je teži zadatak za naše pamćenje u odnosu na situacije u kojima se od nas traži prepoznavanje. Zadatak prepoznavanja bismo imali da nam netko ponudi nekoliko odgovora među kojima bismo mi prepoznali Santiago kao glavni grad Čilea. Ako znamo između više ponuđenih odgovora odabrati pravi, znači da ta informacija postoji u našem pamćenju, ali nije, barem trenutačno, dostupna našem svjesnom pretraživanju. Ponekad je razlog tome što u određenom trenutku nismo našli prave znakove za dosjećanje koji bi nam pomogli da do nje dođemo. Kao primjer privremenih teškoća u pronalaženju navest ćemo fenomen „na vrhu jezika“. Svi smo doživjeli situaciju u kojoj smo bili sigurni da nešto znamo, ali se u ključnom trenutku nikako nismo mogli sjetiti. Ako nam u takvoj situaciji netko pomogne, na primjer, s početnim slovom tražene riječi, obično se odmah sjetimo nastavka. Općenito, što su bolji znakovi za dosjećanje, i što ih više imamo, to se lakše i brže dosjećamo. Zato je, kako smo već naglasili, važno koristiti više kodova pri kodiranju. Pomoći će i korištenje strategije elaboracije, jer ćemo time osigurati više znakova za dosjećanje, odnosno više putova do tražene informacije. Iako za kodiranje informacija koje namjeravamo pohraniti u dugoročno pamćenje koristimo sve vrste kodova, ipak najveću važnost ima semantički kod, odnosno značenje. Ako ste čuli rečenicu: „Sutra nema nastave zbog blagdana.“, nakon nekog vremena nećete se moći sjetiti kako je točno glasila. Je li bilo ovako kako smo naveli ili je možda bilo rečeno: „Zbog blagdana sutra nema nastave.“ Međutim, zapamtit ćete da sutra nema nastave i zbog čega je nema. Sasvim je logično da u dugotrajnom pamćenju zadržavamo značenje onoga što je rečeno ili nekih svojih iskustava, a ne na primjer redoslijed riječi u rečenici. Bilo bi jako teško pretraživati dugoročno pamćenje kada bi u njemu bilo toliko mnogo detalja koji nam u osnovi nisu nimalo korisni za svakodnevno funkcioniranje.
 
-Atkinsonov i Shiffrinov model organizacije pamćenja na senzorno,
-kratkoročno i dugoročno vrlo je utjecajan i općeprihvaćen. To, naravno,
-ne znači da njegovi pojedini dijelovi nisu dovedeni u pitanje ili da
-nisu možda dodatno i na nešto drukčiji način razrađeni u nekim drugim
-modelima. Recimo, Atkinson i Shiffrin pretpostavljali su da kratkoročno
-pamćenje ujedno služi i kao radni prostor za manipulaciju i spremanje
-informacija. Međutim, tom se idejom nisu ozbiljnije bavili, dok je u
-nekim drugim modelima upravo to bio središnji interes.
+Atkinsonov i Shiffrinov model organizacije pamćenja na senzorno, kratkoročno i dugoročno vrlo je utjecajan i općeprihvaćen. To, naravno, ne znači da njegovi pojedini dijelovi nisu dovedeni u pitanje ili da nisu možda dodatno i na nešto drukčiji način razrađeni u nekim drugim modelima. Recimo, Atkinson i Shiffrin pretpostavljali su da kratkoročno pamćenje ujedno služi i kao radni prostor za manipulaciju i spremanje informacija. Međutim, tom se idejom nisu ozbiljnije bavili, dok je u nekim drugim modelima upravo to bio središnji interes.
 
 ### Model radnog pamćenja
 
@@ -1339,7 +1250,7 @@ Proučavanjem ovog i drugih slučajeva s oštećenjima mozga saznalo se ponešto
 
 **Medijalno temporalno područje**, osim spomenutog hipokampusa, uključuje amigdalu, entorinalni, peririnalni i parahipokampalni dio mozga (Slika 6.1.). Dosadašnja istraživanja ukazuju na važnu ulogu cijelog ovog područja mozga u pamćenju.
 
-(SLIKA 6.1. OVDJE)
+![Slika 6.1. Područja mozga važna za pamćenje](images/6.1.jpg)
 
 Vidjeli smo da je slučaj H. M.-a prvi ukazao na bitnu ulogu hipokampusa. Samo jednostrano oštećenje medijalno temporalnog područja također vodi teškoćama u epizodičkom pamćenju, ali one su manjeg obima u odnosu na obostrana oštećenja kao što je bio slučaj kod H. M.-a. Pokazuje se da one osobe koje imaju oštećenja desnog hipokampusa, imaju više problema s neverbalnim informacijama, a one s oštećenjima lijevog hipokampusa, s verbalnim informacijama. Slični nalazi o ulozi hipokampusa za verbalne i neverbalne sadržaje dobiveni su praćenjem aktivnosti mozga zdravih ljudi. Naime, kod zdravih osoba tijekom kodiranja riječi aktivnije je lijevo medijalno temporalno područje, dok kodiranje objekata i lica više aktivira obostrano medijalno temporalno područje. Slično kao i kod ljudi, oštećenja hipokampalnog područja dovode do poteškoća pri pamćenju i kod životinja. Životinje s takvom vrstom oštećenja imaju poteškoće u učenju novih informacija, posebno onih koje se odnose na specifične događaje. Na primjer, neke ptice spremaju hranu u skrovišta koja povremeno mijenjaju. Ptice s oštećenjem hipokampalnog područja nisu u stanju zapamtiti gdje su im skrovišta i sasvim ih nasumično traže. Čini se da hipokampus općenito ima nezaobilaznu ulogu u spacijalnom pamćenju. Na primjer, štakori s oštećenjem hipokampusa imaju poteškoća s pamćenjem spacijalnog i vremenskog konteksta pri učenju labirinta. Naime, nisu u stanju naučiti u kojim su dijelovima labirinta već bili, nego ponavljano ulaze u one koje su već obilazili, za razliku od zdravih štakora koji snalaženje u labirintu uz adekvatnu motivaciju vrlo brzo nauče. Vidjeli smo i na primjeru Clivea Wearinga kao i H. M.-a da su imali teškoća u snalaženju u prostoru, konkretno u učenju novih spacijalnih informacija. Tako se Clive Wearing ne bi znao vratiti u sobu kad bi izašao iz nje, a H. M. nije mogao zapamtiti put do kuće nakon što se preselio. 
 
@@ -1552,13 +1463,11 @@ Zarevski, P. (2007). *Psihologija pamćenja i učenja*. Jastrebarsko: Naklada Sl
 
 Zola-Morgan S. M. i Squire, L. R. (1990). The primate hippocampal formation: Evidence for a time-limited role in memory storage. *Science, 250*, 288-290.
 
-[Slika 6.1. Područja mozga važna za pamćenje](#)
 
 
-
-# 7. JEZIK I MOZAK
-
-*Tanja Gulan*
+% 7. JEZIK I MOZAK
+% Tanja Gulan
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -1577,7 +1486,7 @@ Norman Geschwind i Walter Levitsky ustanovili su da je Wernickeovo područje ve�
 
 Kako znamo da su neki dijelovi mozga specijalizirani za specifične zadatke? Donedavno su se istraživanja na temu lateralizacije funkcija temeljila na proučavanju slučajeva lezija (ozljeda). Ta su istraživanja često bila kombinirana s autopsijama mozga jer su ozljede mozga bile toliko ozbiljne da su dovodile do smrti pojedinca. Na taj bi način istraživači ozlijeđene dijelove mozga povezivali s određenim ponašanjem, odnosno promjenama u ponašanju. Današnje moderne tehnike omogućavaju proučavanje aktivnosti mozga neinvazivnim tehnikama koje se provode i na zdravim pacijentima o kojima će biti riječi kasnije.
 
-(SLIKA 7.1. OVDJE)
+![Slika 7.1. Dijelovi velikog mozga važni za jezične funkcije i procesiranje jezika](images/7.1.jpg)
 
 ## Neuroanatomija jezičnih funkcija
 
@@ -1589,7 +1498,7 @@ Međutim, put prema lokalizaciji jezičnih funkcija nije bio lagan. Sam Broca pr
 
 Norman Geschwind predložio je model koji predstavlja kako mozak obrađuje jezik. Taj se model zove Wernicke-Geschwindov model, a prema njemu riječi koje čujemo putuju od unutarnjeg uha slušnim živcem do primarnog slušnog područja u mozgu (gdje nastaje osjet sluha) koje se nalazi u temporalnom režnju. Od tamo signal putuje do asocijativnog područja u mozgu (oko angularne vijuge) u regiju gdje se spajaju temporalni, okcipitalni i parijetalni režanj. Signal potom putuje u Wernickeovo područje u temporalnom režnju. Ako želimo ponoviti i izgovoriti riječ koju smo čuli, signal mora doći u Brocino područje, a potom u primarno motoričko područje (gdje se „izdaju“ naredbe mišićima). A što se događa kada želimo izgovoriti neku riječ ili misao? Da bismo izgovorili neku riječ, prvo je trebamo pronaći u „rječniku“ koji se nalazi u dugoročnom pamćenju, u tzv. **mentalnom leksikonu**. Proces pristupa našem mentalnom leksikonu aktivira Wernickeovo područje, koje zatim interpretira leksički ulaz (riječ), identificira značenje riječi, identificira kako se riječ izgovara itd. Informacije o tome kako se riječ izgovara šalju se preko snopa vlakana u Brocino područje. U Brocinu području određuje se kombinacija pokreta različitih mišića usta, jezika i glasnica, tzv. artikulatora, koji su potrebni da se izgovori pojedini zvuk. Dalje se uputa šalje primarnom motoričkom korteksu koji izdaje „naredbu“ mišićima artikulatora (jezik, grkljan, usne, glasnice itd.) koji položaj da zauzmu da bi nastao određeni glas.
 
-(SLIKA 7.2. OVDJE)
+![Slika 7.2. Moždane strukture i mehanizmi uključeni u izgovaranje slušane i napisane riječi](images/7.2.jpg)
 
 Što se događa kada čitamo riječ? Za razliku od slušane riječi gdje nam informacije dolaze slušnim putem, kad čitamo, informacije pristižu vidnim putem. To znači da informacije od mrežnice oka vidnim živcem stižu u primarno vidno područje u kori mozga (gdje nastaje osjet vida) koje se nalazi u okcipitalnom režnju. U tom području mozga obrađuju se percipirane informacije. Nakon toga angularna vijuga povezuje pisanu formu riječi s leksičkim oblikom u mentalnom leksikonu (rječniku) koji ima pohranjene informacije o značenju riječi u Wernickeovu području. Nakon aktivacije Wernickeova područja, dostupno postaje značenje riječi i način izgovora riječi. Ilustracija mehanizma čitanja/slušanja pa izgovaranja riječi nalazi se na Slici 7.2.
 
@@ -1852,11 +1761,12 @@ Yairi, E., & Ambrose, N. (2005). *Early childhood stuttering*. Austin, TX: Pro-E
  
 
 
-# 8. SVIJEST I MOZAK
-
- *Igor Bajšanski*
+% 8. SVIJEST I MOZAK
+% Igor Bajšanski
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
+
 - što su laki problemi svijesti i što je teški problem svijesti
 - o neuronskom korelatu svijesti
 - o glavnim karakteristikama svijesti
@@ -2041,9 +1951,9 @@ Seth, A. K., Baars, B. J., & Edelman, D. B. (2004). Criteria for consciousness i
 Watson, J. (1913). Psychology as the Behaviorist Views it. *Psychological Review, 20*, 158-177.
 
 
-# 9. MOZAK U LJUBAVI I SEKSU
-
-*Marina Nekić*
+% 9. MOZAK U LJUBAVI I SEKSU
+% Marina Nekić
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -2107,7 +2017,7 @@ Oksitocin djeluje i na ponašanje, odnosno presudan je za stvaranje bliskih odno
 
 Vazopresin, osim što pospješuje reapsorpciju vode u bubrezima, povezuje se još s asertivnošću, dominacijom i seksualnim ponašanjem. Za taj se hormon još navodi da predstavlja značajan kemijski faktor vjernosti u vezi. Inhibiranje receptora vazopresina može izazvati preljubničko ponašanje, barem kod voluharica, kako tvrde Fisher i Amen. Naime, djelovanje oba hormona, i oksitocina i vazopresina, ne može se promatrati izolirano. Pokazalo se da visoke razine oksitocina i vazopresina mogu umanjiti efekte dopamina i noradrenalina. Ako to prevedemo na dinamiku odnosa između dvoje ljudi, onda to znači da dok u odnosu blijedi zanos zaljubljenosti, istodobno raste privrženost. Ono što pomaže parovima da i dalje održe ljubav novom i strastvenom jest upuštanje u neke zajedničke aktivnosti koje do tada nisu radili. Primjerice, mogu se prijaviti na tečaj ronjenja ili otići na večeru s prijateljima u novi egzotični restoran. Iako su za uspjeh veze važni oksitocin i vazopresin jer stvaraju kemijske temelje za razvoj povjerenja, povezivanja i predanosti, čini se da visoke razine testosterona narušavaju spomenute efekte. Muškarci kojima je povišen testosteron manje su predani odnosu, tj. rjeđe ulaze u bračne vode, a ako se ipak odluče za brak, češće se razvode te su općenito agresivniji. Zanimljivo je da se razine testosterona snižavaju kad muškarac drži dijete, vjerojatno stoga što rastu razine oksitocina i vazopresina. Uz spomenute zanimljivosti o funkcioniranju mozga u različitim stadijima romantične ljubavi, dodatne informacije možete pronaći u knjigama Daniela Amena, Kayt Sukel, Gillian Einstein i naročito Helen Fisher. Istraživanja te biološke antropologinje o požudi, zaljubljenosti i privrženosti za svakoga će biti prava poslastica.
 
-# Mozak u seksu
+## Mozak u seksu
 
 U svim opisanim fazama razvoja ljubavnog odnosa najvjerojatnije će između dvoje zaljubljenih doći do seksualnog odnosa. Iako su u podlozi seksualnog uzbuđenja i seksualnog odgovora biološki mehanizmi koji su u osnovi univerzalni, specifični seksualni podražaji kao i ponašanje uvelike su i kulturološki određeni. U pokušaju da zahvatimo sve važne faktore koji utječu na ljudsku seksualnost, u ovom ćemo se poglavlju više orijentirati na neurokemijske procese koji se događaju kada dvoje ljudi (ili više njih) krene u „akciju“.
 
@@ -2117,7 +2027,7 @@ Ranije opisani neuroprijenosnici i hormoni koji djeluju na naše ponašanje tije
 
 S druge strane, serotonin ima sasvim drukčiji utjecaj na seksualno ponašanje u odnosu na dopamin. Visoke razine serotonina inhibiraju seksualnu aktivnost. Kod zdravih muškaraca uobičajeno je da nakon ejakulacije dolazi do pojačanog lučenja serotonina, što rezultira smanjenjem seksualnog nagona i ponašanja jer se blokira otpuštanje dopamina i oksitocina. Zbog većih količina serotonina, kojih ima u nekim antidepresivima, smanjuje se libido i seksualni odgovor, točnije smanjuje se genitalna senzitivnost i mogućnost dostizanja orgazma. Dakle, premale količine serotonina mogu biti odgovorne za depresivna raspoloženja, dok previše serotonina smanjuje seksualni nagon. Međutim, ako ga imamo dovoljno, veseli smo i puni nade.
 
-Nakon seksualnog čina hormon **prolaktin**, koji se luči u adenohipofizi [Slika 9.1.](#), djeluje slično serotoninu. Naime, zadatak je prolaktina da nakon orgazma ublaži seksualnu uzbuđenost i odvrati misli od seksa. Njegova se količina naglo povećava nakon orgazma, a da ga nema, vjerojatno ne bismo ni izlazili iz spavaće sobe. Oksitocin, koji se proizvodi u hipotalamusu, ima izniman značaj za seksualnost, senzualnost, erotiku i privlačnost. Neki ga još nazivaju i hormonom maženja jer je dodir snažan okidač za njegovo lučenje. Smanjuje osjećaj boli, a kod muškaraca je još odgovoran za stimulaciju prostate tijekom seksualnog odnosa. Odgovoran je također za osjetljivost kože. Najveće razine oksitocina, u odnosu na ostale faze seksualnog odgovora, zabilježene su tijekom orgazma. Upravo je lučenje oksitocina tijekom seksualnog uzbuđenja, odnosno orgazma, zaduženo za osjećaj povezanosti seksualnih partnera. Dakle, oksitocin je važan u stvaranju privrženosti i razvoju ljubavnih osjećaja, stoga nemojte ulaziti u spolne odnose s ljudima u koje se ne želite zaljubiti, jer bi vam se baš to moglo dogoditi, naglašava Helen Fisher. Zanimljivo je kako autističnim osobama, koje imaju smanjenu sposobnost formiranja privrženosti s drugima i iskazivanja emocija, često nedostaje oksitocina. Hormoni sreće ili **endorfini** također se značajno više luče kada se ljubimo i kad doživljavamo orgazam. Kao i dopamin, endorfini mogu smanjiti osjećaj boli, pa ih često zovemo prirodnim morfijem.
+Nakon seksualnog čina hormon **prolaktin**, koji se luči u adenohipofizi (Slika 9.1.), djeluje slično serotoninu. Naime, zadatak je prolaktina da nakon orgazma ublaži seksualnu uzbuđenost i odvrati misli od seksa. Njegova se količina naglo povećava nakon orgazma, a da ga nema, vjerojatno ne bismo ni izlazili iz spavaće sobe. Oksitocin, koji se proizvodi u hipotalamusu, ima izniman značaj za seksualnost, senzualnost, erotiku i privlačnost. Neki ga još nazivaju i hormonom maženja jer je dodir snažan okidač za njegovo lučenje. Smanjuje osjećaj boli, a kod muškaraca je još odgovoran za stimulaciju prostate tijekom seksualnog odnosa. Odgovoran je također za osjetljivost kože. Najveće razine oksitocina, u odnosu na ostale faze seksualnog odgovora, zabilježene su tijekom orgazma. Upravo je lučenje oksitocina tijekom seksualnog uzbuđenja, odnosno orgazma, zaduženo za osjećaj povezanosti seksualnih partnera. Dakle, oksitocin je važan u stvaranju privrženosti i razvoju ljubavnih osjećaja, stoga nemojte ulaziti u spolne odnose s ljudima u koje se ne želite zaljubiti, jer bi vam se baš to moglo dogoditi, naglašava Helen Fisher. Zanimljivo je kako autističnim osobama, koje imaju smanjenu sposobnost formiranja privrženosti s drugima i iskazivanja emocija, često nedostaje oksitocina. Hormoni sreće ili **endorfini** također se značajno više luče kada se ljubimo i kad doživljavamo orgazam. Kao i dopamin, endorfini mogu smanjiti osjećaj boli, pa ih često zovemo prirodnim morfijem.
 
 Osim limbičkog sustava, kora velikog mozga također je značajan element u razumijevanju ljudske seksualnosti. Seksualne fantazije, kao produkti kore velikog mozga, značajno doprinose seksualnom uzbuđenju i doživljaju orgazma. Posljednjih nekoliko godina istraživači su otkrili da seksualne fantazije mogu dovesti žene do orgazma i bez tjelesne stimulacije. U tim situacijama aktiviraju se ista područja u mozgu kao i kada se stimulacija realno događa. Pritom psihogene reakcije dovode do stimulacije genitalija preko leđne moždine od torakalnog (Th) 12 do lumbalnog (L) 2 kralješka. Neki od zanimljivih dokumentaraca s televizijske mreže TLC, koji prikazuju studije na ženama koje su se mislima dovele do orgazma, jesu *Strange Sex: Orgasming With Your Mind* i *Curiosity: Why Sex is Fun*. Iako su ta istraživanja relativno novijeg datuma, s obzirom na njihovu zastupljenost ipak mogu dati značajan doprinos u tretmanu seksualnih poremećaja kod žena. Naime, između 10% i 42% žena ne doživljava ili nije doživjelo orgazam, a njih 50% ima ili je imalo problema sa seksualnim uzbuđenjem.
 
@@ -2163,7 +2073,7 @@ zaljubljenosti i stadij privrženosti.
 
 7. Prekid ljubavnog odnosa aktivira regije mozga koje se povezuju s ovisničkom žudnjom. Pritom je osobito aktivna jezgra *nukleus akumbens*. Najvjerojatnije zbog manjka endorfina psihička bol nakon prekida odnosa postaje i fizička.
 
-### Testirajte se
+## Testirajte se
 
 1. Opišite uloge ventralnog striatuma i inzule u seksualnoj
 privlačnosti i dugoročnoj ljubavnoj vezi.
@@ -2181,9 +2091,9 @@ stranu i zašto?
 6. Koji su kemijski mehanizmi odgovorni za psihičku bol nakon prekida
 ljubavne veze?
 
-### Preporučena dodatna literatura
+## Preporučena dodatna literatura
 
-Amen, D. G. (2008). *Seks i mozak*. Zagreb: V.B.Z. Bartles, A., & Zeki, S. (2000). The neural basis of romantic love, *NeuroReport*, *11*(17), 3829- 3834\.
+Amen, D. G. (2008). *Seks i mozak*. Zagreb: V.B.Z. Bartles, A., & Zeki, S. (2000). The neural basis of romantic love, *NeuroReport*, *11*(17), 3829- 3834.
 
 Einstein, G. (2007). *Sex and the Brain*. Cambridge, MA: MIT Press.
 
@@ -2191,7 +2101,7 @@ Fisher, H. E. (2004). *Why we love: The nature and chemistry of romantic love*. 
 
 Komisaruk, B., Beyer-Flores, C., & Whipple, B. (2006). *The science of orgasm*. Baltimore, MD: Johns Hopkins University Press.
 
-### Važni pojmovi
+## Važni pojmovi
 
 **Adrenalin** Hormon srži nadbubrežne žlijezde. Djelovanje mu je slično djelovanju simpatikusa, a uključuje ubrzanje rada srca, širenje zjenica, povećanje razine glukoze u krvi te druge promjene kojima se organizam priprema za reakciju „bori se ili bježi“. Neki neuroni središnjeg živčanog sustava također oslobađaju adrenalin kao neuroprijenosnik.
 
@@ -2301,7 +2211,7 @@ Le Merrer, J., Becker, J. A. J., Befort, K., & Kieffer, B. L. (2009). Rewards Pr
 
 Magon, N., & Kalra, S. (2011). The orgasmic history of oxytocin: Love, just, and labor. *Indian Journal of Endocrinology and Metabolism, 15*(3), 156-161.
 
-Ortigue, S., Bianchi-Demicheli, F., Patel, N., Frum, C., & Lewis, J. W. (2010). **Neuroimaging of love: fMRI meta-analysis evidence toward new perspectives in sexual medicine**. *The Journal of Sexual Medicine, 7*(11), 3541-3552.
+Ortigue, S., Bianchi-Demicheli, F., Patel, N., Frum, C., & Lewis, J. W. (2010). Neuroimaging of love: fMRI meta-analysis evidence toward new perspectives in sexual medicine. *The Journal of Sexual Medicine, 7*(11), 3541-3552.
 
 Paredes, R., & Baum, M. (1997). Role of the medial preoptic area/anterior hypothalamus in the control of masculine sexual behavior. *Annual Review of Sex Research, 8*, 68-101.
 
@@ -2345,11 +2255,9 @@ Young, L. J. (2013). When too much of good thing is bad: chronic oxytocin, devel
 
 Zeki, S., The neurobiology of love. *FEBS Letter, 581*(14), 2575-2579.
 
-# 10. POGLAVLJE
-
-# POLITIČKA NEUROZNANOST: ŠTO NAM MOZAK MOŽE REĆI O POLITICI?
-
-*Benjamin Banai*
+% 10. POLITIČKA NEUROZNANOST: ŠTO NAM MOZAK MOŽE REĆI O POLITICI?
+% Benjamin Banai
+% Objavljeno: 27. prosinca 2019.
 
 U ovom poglavlju naučit ćemo:
 
@@ -2358,8 +2266,7 @@ U ovom poglavlju naučit ćemo:
 -   o istraživanjima preferencija prema nekim političkim kandidatima
 -   o ulozi amigdale u istraživanjima političkih pitanja
 
-> Za mene, vlada je zapravo roditelj za odrasle.
-Jerry Seinfeld
+> Za mene, vlada je zapravo roditelj za odrasle. (Jerry Seinfeld)
 
 Željeli mi to sebi priznati ili ne, **politika** je sastavni dio naših života. Ona određuje pravila društva po kojima živimo i po kojima se svakodnevno ponašamo. Ako se malo zamislimo, neka nas pravila prate od malih nogu. Svaka dječja igra ima neka određena pravila ponašanja i djelovanja. Ako su pravila nejasna ili ih nema za neku specifičnu situaciju, ona se dogovaraju na licu mjesta. Jednako tako, djeca imaju pravila kojih se moraju držati kod kuće i u školi. Odrastanjem upoznajemo nova pravila: na koji način voziti automobil da ne ugrožavamo sebe i druge, kako pravilno plaćati poreze ili kako osnovati svoju firmu. S obzirom na to da su ljudi društvena vrsta, a da svaki pripadnik tog društva ima neke svoje osobne interese, pravila su tu da nam pojednostavne život u zajednici. Na taj način na politiku možemo gledati kao na proces s pomoću kojeg određujemo prioritete koje ćemo kao društvo ostvariti, te pravila s pomoću kojih ćemo te prioritete ostvariti.
 
