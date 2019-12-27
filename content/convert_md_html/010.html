@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Benjamin Banai" />
+  <title>10. POLITIČKA NEUROZNANOST: ŠTO NAM MOZAK MOŽE REĆI O POLITICI?</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <style type="text/css">
+  /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+
+  /* ==========================================================================
+     HTML5 display definitions
+     ========================================================================== */
+
+  /**
+   * Correct `block` display not defined in IE 8/9.
+   */
+
+  article,
+  aside,
+  details,
+  figcaption,
+  figure,
+  footer,
+  header,
+  hgroup,
+  main,
+  nav,
+  section,
+  summary {
+      display: block;
+  }
+
+  /**
+   * Correct `inline-block` display not defined in IE 8/9.
+   */
+
+  audio,
+  canvas,
+  video {
+      display: inline-block;
+  }
+
+  /**
+   * Prevent modern browsers from displaying `audio` without controls.
+   * Remove excess height in iOS 5 devices.
+   */
+
+  audio:not([controls]) {
+      display: none;
+      height: 0;
+  }
+
+  /**
+   * Address `[hidden]` styling not present in IE 8/9.
+   * Hide the `template` element in IE, Safari, and Firefox < 22.
+   */
+
+  [hidden],
+  template {
+      display: none;
+  }
+
+  /* ==========================================================================
+     Base
+     ========================================================================== */
+
+  /**
+   * 1. Set default font family to sans-serif.
+   * 2. Prevent iOS text size adjust after orientation change, without disabling
+   *    user zoom.
+   */
+
+  html {
+      font-family: sans-serif; /* 1 */
+      -ms-text-size-adjust: 100%; /* 2 */
+      -webkit-text-size-adjust: 100%; /* 2 */
+  }
+
+  /**
+   * Remove default margin.
+   */
+
+  body {
+      margin: 0;
+  }
+
+  /* ==========================================================================
+     Links
+     ========================================================================== */
+
+  /**
+   * Remove the gray background color from active links in IE 10.
+   */
+
+  a {
+      background: transparent;
+  }
+
+  /**
+   * Address `outline` inconsistency between Chrome and other browsers.
+   */
+
+  a:focus {
+      outline: thin dotted;
+  }
+
+  /**
+   * Improve readability when focused and also mouse hovered in all browsers.
+   */
+
+  a:active,
+  a:hover {
+      outline: 0;
+  }
+
+  /* ==========================================================================
+     Typography
+     ========================================================================== */
+
+  /**
+   * Address variable `h1` font-size and margin within `section` and `article`
+   * contexts in Firefox 4+, Safari 5, and Chrome.
+   */
+
+  h1 {
+      font-size: 2em;
+      margin: 0.67em 0;
+  }
+
+  /**
+   * Address styling not present in IE 8/9, Safari 5, and Chrome.
+   */
+
+  abbr[title] {
+      border-bottom: 1px dotted;
+  }
+
+  /**
+   * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+   */
+
+  b,
+  strong {
+      font-weight: bold;
+  }
+
+  /**
+   * Address styling not present in Safari 5 and Chrome.
+   */
+
+  dfn {
+      font-style: italic;
+  }
+
+  /**
+   * Address differences between Firefox and other browsers.
+   */
+
+  hr {
+      -moz-box-sizing: content-box;
+      box-sizing: content-box;
+      height: 0;
+  }
+
+  /**
+   * Address styling not present in IE 8/9.
+   */
+
+  mark {
+      background: #ff0;
+      color: #000;
+  }
+
+  /**
+   * Correct font family set oddly in Safari 5 and Chrome.
+   */
+
+  code,
+  kbd,
+  pre,
+  samp {
+      font-family: monospace, serif;
+      font-size: 1em;
+  }
+
+  /**
+   * Improve readability of pre-formatted text in all browsers.
+   */
+
+  pre {
+      white-space: pre-wrap;
+  }
+
+  /**
+   * Set consistent quote types.
+   */
+
+  q {
+      quotes: "\201C" "\201D" "\2018" "\2019";
+  }
+
+  /**
+   * Address inconsistent and variable font size in all browsers.
+   */
+
+  small {
+      font-size: 80%;
+  }
+
+  /**
+   * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+   */
+
+  sub,
+  sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline;
+  }
+
+  sup {
+      top: -0.5em;
+  }
+
+  sub {
+      bottom: -0.25em;
+  }
+
+  /* ==========================================================================
+     Embedded content
+     ========================================================================== */
+
+  /**
+   * Remove border when inside `a` element in IE 8/9.
+   */
+
+  img {
+      border: 0;
+  }
+
+  /**
+   * Correct overflow displayed oddly in IE 9.
+   */
+
+  svg:not(:root) {
+      overflow: hidden;
+  }
+
+  /* ==========================================================================
+     Figures
+     ========================================================================== */
+
+  /**
+   * Address margin not present in IE 8/9 and Safari 5.
+   */
+
+  figure {
+      margin: 0;
+  }
+
+  /* ==========================================================================
+     Forms
+     ========================================================================== */
+
+  /**
+   * Define consistent border, margin, and padding.
+   */
+
+  fieldset {
+      border: 1px solid #c0c0c0;
+      margin: 0 2px;
+      padding: 0.35em 0.625em 0.75em;
+  }
+
+  /**
+   * 1. Correct `color` not being inherited in IE 8/9.
+   * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+   */
+
+  legend {
+      border: 0; /* 1 */
+      padding: 0; /* 2 */
+  }
+
+  /**
+   * 1. Correct font family not being inherited in all browsers.
+   * 2. Correct font size not being inherited in all browsers.
+   * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+   */
+
+  button,
+  input,
+  select,
+  textarea {
+      font-family: inherit; /* 1 */
+      font-size: 100%; /* 2 */
+      margin: 0; /* 3 */
+  }
+
+  /**
+   * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+   * the UA stylesheet.
+   */
+
+  button,
+  input {
+      line-height: normal;
+  }
+
+  /**
+   * Address inconsistent `text-transform` inheritance for `button` and `select`.
+   * All other form control elements do not inherit `text-transform` values.
+   * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
+   * Correct `select` style inheritance in Firefox 4+ and Opera.
+   */
+
+  button,
+  select {
+      text-transform: none;
+  }
+
+  /**
+   * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+   *    and `video` controls.
+   * 2. Correct inability to style clickable `input` types in iOS.
+   * 3. Improve usability and consistency of cursor style between image-type
+   *    `input` and others.
+   */
+
+  button,
+  html input[type="button"], /* 1 */
+  input[type="reset"],
+  input[type="submit"] {
+      -webkit-appearance: button; /* 2 */
+      cursor: pointer; /* 3 */
+  }
+
+  /**
+   * Re-set default cursor for disabled elements.
+   */
+
+  button[disabled],
+  html input[disabled] {
+      cursor: default;
+  }
+
+  /**
+   * 1. Address box sizing set to `content-box` in IE 8/9/10.
+   * 2. Remove excess padding in IE 8/9/10.
+   */
+
+  input[type="checkbox"],
+  input[type="radio"] {
+      box-sizing: border-box; /* 1 */
+      padding: 0; /* 2 */
+  }
+
+  /**
+   * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+   * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+   *    (include `-moz` to future-proof).
+   */
+
+  input[type="search"] {
+      -webkit-appearance: textfield; /* 1 */
+      -moz-box-sizing: content-box;
+      -webkit-box-sizing: content-box; /* 2 */
+      box-sizing: content-box;
+  }
+
+  /**
+   * Remove inner padding and search cancel button in Safari 5 and Chrome
+   * on OS X.
+   */
+
+  input[type="search"]::-webkit-search-cancel-button,
+  input[type="search"]::-webkit-search-decoration {
+      -webkit-appearance: none;
+  }
+
+  /**
+   * Remove inner padding and border in Firefox 4+.
+   */
+
+  button::-moz-focus-inner,
+  input::-moz-focus-inner {
+      border: 0;
+      padding: 0;
+  }
+
+  /**
+   * 1. Remove default vertical scrollbar in IE 8/9.
+   * 2. Improve readability and alignment in all browsers.
+   */
+
+  textarea {
+      overflow: auto; /* 1 */
+      vertical-align: top; /* 2 */
+  }
+
+  /* ==========================================================================
+     Tables
+     ========================================================================== */
+
+  /**
+   * Remove most spacing between table cells.
+   */
+
+  table {
+      border-collapse: collapse;
+      border-spacing: 0;
+  }
+
+  .go-top {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  text-decoration: none;
+  background-color: #E0E0E0;
+  font-size: 12px;
+  padding: 1em;
+  display: inline;
+  }
+
+  /* Github css */
+
+  html,body{        margin: auto;
+      padding-right: 1em;
+      padding-left: 1em;
+      max-width: 70em; color:black;}*:not('#mkdbuttons'){margin:0;padding:0}body{font:13.34px helvetica,arial,freesans,clean,sans-serif;-webkit-font-smoothing:subpixel-antialiased;line-height:1.4;padding:3px;background:#fff;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}p{margin:1em 0}a{color:#4183c4;text-decoration:none}body{background-color:#fff;padding:30px;margin:15px;font-size:16px;line-height:1.6}body>*:first-child{margin-top:0!important}body>*:last-child{margin-bottom:0!important}@media screen{body{box-shadow:0 0 0 1px #cacaca,0 0 0 4px #eee}}h1,h2,h3,h4,h5,h6{margin:20px 0 10px;padding:0;font-weight:bold;-webkit-font-smoothing:subpixel-antialiased;cursor:text}h1{font-size:28px;color:#000}h2{font-size:24px;border-bottom:1px solid #ccc;color:#000}h3{font-size:18px;color:#333}h4{font-size:16px;color:#333}h5{font-size:14px;color:#333}h6{color:#777;font-size:14px}p,blockquote,table,pre{margin:15px 0}ul{padding-left:30px}ol{padding-left:30px}ol li ul:first-of-type{margin-top:0}hr{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;border:0 none;color:#ccc;height:4px;padding:0}body>h2:first-child{margin-top:0;padding-top:0}body>h1:first-child{margin-top:0;padding-top:0}body>h1:first-child+h2{margin-top:0;padding-top:0}body>h3:first-child,body>h4:first-child,body>h5:first-child,body>h6:first-child{margin-top:0;padding-top:0}a:first-child h1,a:first-child h2,a:first-child h3,a:first-child h4,a:first-child h5,a:first-child h6{margin-top:0;padding-top:0}h1+p,h2+p,h3+p,h4+p,h5+p,h6+p,ul li>:first-child,ol li>:first-child{margin-top:0}dl{padding:0}dl dt{font-size:14px;font-weight:bold;font-style:italic;padding:0;margin:15px 0 5px}dl dt:first-child{padding:0}dl dt>:first-child{margin-top:0}dl dt>:last-child{margin-bottom:0}dl dd{margin:0 0 15px;padding:0 15px}dl dd>:first-child{margin-top:0}dl dd>:last-child{margin-bottom:0}blockquote{border-left:4px solid #DDD;padding:0 15px;color:#777}blockquote>:first-child{margin-top:0}blockquote>:last-child{margin-bottom:0}table{border-collapse:collapse;border-spacing:0;font-size:100%;font:inherit}table th{font-weight:bold;border:1px solid #ccc;padding:6px 13px}table td{border:1px solid #ccc;padding:6px 13px}table tr{border-top:1px solid #ccc;background-color:#fff}table tr:nth-child(2n){background-color:#f8f8f8}img{max-width:100%}code,tt{margin:0 2px;padding:0 5px;white-space:nowrap;border:1px solid #eaeaea;background-color:#f8f8f8;border-radius:3px;font-family:Consolas,'Liberation Mono',Courier,monospace;font-size:12px;color:#333}pre>code{margin:0;padding:0;white-space:pre;border:0;background:transparent}.highlight pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px}pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px}pre code,pre tt{background-color:transparent;border:0}.poetry pre{font-family:Georgia,Garamond,serif!important;font-style:italic;font-size:110%!important;line-height:1.6em;display:block;margin-left:1em}.poetry pre code{font-family:Georgia,Garamond,serif!important;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;white-space:pre-wrap}sup,sub,a.footnote{font-size:1.4ex;height:0;line-height:1;vertical-align:super;position:relative}sub{vertical-align:sub;top:-1px}@media print{body{background:#fff}img,pre,blockquote,table,figure{page-break-inside:avoid}body{background:#fff;border:0}code{background-color:#fff;color:#333!important;padding:0 .2em;border:1px solid #dedede}pre{background:#fff}pre code{background-color:white!important;overflow:visible}}@media screen{body.inverted{color:#eee!important;border-color:#555;box-shadow:none}.inverted body,.inverted hr .inverted p,.inverted td,.inverted li,.inverted h1,.inverted h2,.inverted h3,.inverted h4,.inverted h5,.inverted h6,.inverted th,.inverted .math,.inverted caption,.inverted dd,.inverted dt,.inverted blockquote{color:#eee!important;border-color:#555;box-shadow:none}.inverted td,.inverted th{background:#333}.inverted h2{border-color:#555}.inverted hr{border-color:#777;border-width:1px!important}::selection{background:rgba(157,193,200,0.5)}h1::selection{background-color:rgba(45,156,208,0.3)}h2::selection{background-color:rgba(90,182,224,0.3)}h3::selection,h4::selection,h5::selection,h6::selection,li::selection,ol::selection{background-color:rgba(133,201,232,0.3)}code::selection{background-color:rgba(0,0,0,0.7);color:#eee}code span::selection{background-color:rgba(0,0,0,0.7)!important;color:#eee!important}a::selection{background-color:rgba(255,230,102,0.2)}.inverted a::selection{background-color:rgba(255,230,102,0.6)}td::selection,th::selection,caption::selection{background-color:rgba(180,237,95,0.5)}.inverted{background:#0b2531;background:#252a2a}.inverted body{background:#252a2a}.inverted a{color:#acd1d5}}.highlight .c{color:#998;font-style:italic}.highlight .err{color:#a61717;background-color:#e3d2d2}.highlight .k,.highlight .o{font-weight:bold}.highlight .cm{color:#998;font-style:italic}.highlight .cp{color:#999;font-weight:bold}.highlight .c1{color:#998;font-style:italic}.highlight .cs{color:#999;font-weight:bold;font-style:italic}.highlight .gd{color:#000;background-color:#fdd}.highlight .gd .x{color:#000;background-color:#faa}.highlight .ge{font-style:italic}.highlight .gr{color:#a00}.highlight .gh{color:#999}.highlight .gi{color:#000;background-color:#dfd}.highlight .gi .x{color:#000;background-color:#afa}.highlight .go{color:#888}.highlight .gp{color:#555}.highlight .gs{font-weight:bold}.highlight .gu{color:#800080;font-weight:bold}.highlight .gt{color:#a00}.highlight .kc,.highlight .kd,.highlight .kn,.highlight .kp,.highlight .kr{font-weight:bold}.highlight .kt{color:#458;font-weight:bold}.highlight .m{color:#099}.highlight .s{color:#d14}.highlight .na{color:#008080}.highlight .nb{color:#0086b3}.highlight .nc{color:#458;font-weight:bold}.highlight .no{color:#008080}.highlight .ni{color:#800080}.highlight .ne,.highlight .nf{color:#900;font-weight:bold}.highlight .nn{color:#555}.highlight .nt{color:#000080}.highlight .nv{color:#008080}.highlight .ow{font-weight:bold}.highlight .w{color:#bbb}.highlight .mf,.highlight .mh,.highlight .mi,.highlight .mo{color:#099}.highlight .sb,.highlight .sc,.highlight .sd,.highlight .s2,.highlight .se,.highlight .sh,.highlight .si,.highlight .sx{color:#d14}.highlight .sr{color:#009926}.highlight .s1{color:#d14}.highlight .ss{color:#990073}.highlight .bp{color:#999}.highlight .vc,.highlight .vg,.highlight .vi{color:#008080}.highlight .il{color:#099}.highlight .gc{color:#999;background-color:#eaf2f5}.type-csharp .highlight .k,.type-csharp .highlight .kt{color:#00F}.type-csharp .highlight .nf{color:#000;font-weight:normal}.type-csharp .highlight .nc{color:#2b91af}.type-csharp .highlight .nn{color:#000}.type-csharp .highlight .s,.type-csharp .highlight .sc{color:#a31515}
+
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">10. POLITIČKA NEUROZNANOST: ŠTO NAM MOZAK MOŽE REĆI O POLITICI?</h1>
+<p class="author">Benjamin Banai</p>
+<p class="date">Objavljeno: 27. prosinca 2019.</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#kako-razmišljamo-o-političkim-informacijama">Kako razmišljamo o političkim informacijama?</a></li>
+<li><a href="#zašto-postoje-preferencije-prema-nekim-političkim-kandidatima">Zašto postoje preferencije prema nekim političkim kandidatima?</a></li>
+<li><a href="#zašto-u-politici-postoje-lijevi-i-desni">Zašto u politici postoje lijevi i desni?</a></li>
+<li><a href="#znamo-da-je-amigdala-bitna-ali-za-što-točno">Znamo da je amigdala bitna, ali za što točno?</a></li>
+<li><a href="#zaključci">Zaključci</a></li>
+<li><a href="#testirajte-se">Testirajte se</a></li>
+<li><a href="#preporučena-dodatna-literatura">Preporučena dodatna literatura</a></li>
+<li><a href="#važni-pojmovi">Važni pojmovi</a></li>
+<li><a href="#literatura">Literatura</a></li>
+</ul>
+</nav>
+<p>U ovom poglavlju naučit ćemo:</p>
+<ul>
+<li>o istraživanjima iz područja političke neuroznanosti</li>
+<li>o ispitivanjima političkih stavova</li>
+<li>o istraživanjima preferencija prema nekim političkim kandidatima</li>
+<li>o ulozi amigdale u istraživanjima političkih pitanja</li>
+</ul>
+<blockquote>
+<p>Za mene, vlada je zapravo roditelj za odrasle. (Jerry Seinfeld)</p>
+</blockquote>
+<p>Željeli mi to sebi priznati ili ne, <strong>politika</strong> je sastavni dio naših života. Ona određuje pravila društva po kojima živimo i po kojima se svakodnevno ponašamo. Ako se malo zamislimo, neka nas pravila prate od malih nogu. Svaka dječja igra ima neka određena pravila ponašanja i djelovanja. Ako su pravila nejasna ili ih nema za neku specifičnu situaciju, ona se dogovaraju na licu mjesta. Jednako tako, djeca imaju pravila kojih se moraju držati kod kuće i u školi. Odrastanjem upoznajemo nova pravila: na koji način voziti automobil da ne ugrožavamo sebe i druge, kako pravilno plaćati poreze ili kako osnovati svoju firmu. S obzirom na to da su ljudi društvena vrsta, a da svaki pripadnik tog društva ima neke svoje osobne interese, pravila su tu da nam pojednostavne život u zajednici. Na taj način na politiku možemo gledati kao na proces s pomoću kojeg određujemo prioritete koje ćemo kao društvo ostvariti, te pravila s pomoću kojih ćemo te prioritete ostvariti.</p>
+<p><strong>Politologija</strong> je znanost koja proučava politiku u najširem smislu. U fokusu interesa politologa istraživanje je donošenja odluka koje će se odraziti na sve pripadnike neke zajednice (grad, županiju, državu), sustava upravljanja (poput vlade ili međunarodnih organizacija) i kreiranja javnih politika (primjerice, odnos države prema obrazovanju, javnom zdravstvu ili poljoprivredi). Tradicionalno gledajući, politologija je uvijek imala dodirnih točaka s drugim disciplinama koje proučavaju velike društvene sustave poput povijesti i ekonomije. No u novije vrijeme postoji sve veći interes za proučavanje političkog ponašanja na razini pojedinca, pa se tako sve više uključuju teorije, metode i spoznaje iz psihologije, biologije i neuroznanosti. Za nastavak te priče o mozgu prvenstveno nam je interesantna politička psihologija čije najšire interese možemo formulirati u pitanju: zašto se ljudi ponašaju na određeni način kada je riječ o političkim pitanjima? Pri odgovoru na ovo generalno pitanje nude se teorijska objašnjenja iz raznih područja psihologije, poput psihologije ličnosti (Povezujemo li ljude s nekim izraženijim crtama ličnosti s njihovim glasačkim preferencijama?), psihologije emocija (Kako emocije utječu na donošenje političkih odluka?) ili socijalne psihologije (Kako surađujemo i kako se natječemo s drugim članovima svoje grupe?).</p>
+<p>U ovom poglavlju bit će riječi o <strong>političkoj neuroznanosti</strong>, području koje proučava kako funkcionira ljudski mozak tijekom ponašanja i razmišljanja o političkim pitanjima. S obzirom na to da je to mlado i novo područje, čiji su nalazi tek desetak godina stari, i spoznaje koje donosi ograničene su. Dosadašnja istraživanja uglavnom su bila usmjerena na mapiranje moždanih područja uključenih u psihičke procese vezane za političko ponašanje. To je nužan prvi korak u tom tipu istraživanja, a s daljnjim razumijevanjem funkcioniranja mozga bit će moguće postavljati složenija pitanja koja će dodatno razjasniti ponašanje ljudi i organizaciju njihovih grupa.</p>
+<h2 id="kako-razmišljamo-o-političkim-informacijama">Kako razmišljamo o političkim informacijama?</h2>
+<p>Istraživanje stavova jedno je od velikih područja kojima se bavi socijalna psihologija, a koje je direktno povezano s interesima politologije. <strong>Stav</strong> se može definirati kao stečena, relativno trajna i stabilna organizacija pozitivnih ili negativnih emocija, vrednovanja i reagiranja prema nekom objektu. Drugim riječima, kada psiholozi razmišljaju o stavovima, vide ih kao psihički proces kojim procjenjujemo pojave oko sebe. Te su procjene popraćene emocijama koje nam govore je li stav o nečemu pozitivan ili negativan, što na kraju dovodi do veće vjerojatnosti određenog budućeg ponašanja koje se temelji na procjenama svijeta oko nas. Kada govorimo o stavovima prema političkim pitanjima, možemo primijeniti istu ovu teorijsku osnovu: ljudi će evaluirati političke informacije, prema njima će imati pozitivne ili negativne emocije, što će rezultirati njihovim političkim ponašanjem – primjerice odlukom za koga će glasovati, hoće li se politički aktivirati ili možda ne izići na izbore.</p>
+<p>Kada bismo željeli izmjeriti izraženost stavova prema nekom pitanju, ispitanicima bismo predstavili jednu izjavu, a oni bi rekli koliko se s njom slažu. Svoju bi procjenu davali na skali od primjerice 1 do 5, gdje 1 označava potpuno neslaganje s izjavom, dok 5 označava potpuno slaganje. Ispitanik ima vremena razmisliti o svojem stavu, prisjetiti se kako se ponašao u određenim situacijama i na temelju toga procijeniti što misli o nekom pitanju. Takav način mjerenja stavova naziva se eksplicitnim, jer je ispitanicima jasno koji je objekt stava koji se mjeri. S druge strane, u novije vrijeme sve više raste interes za implicitnim mjerama stavova, a jedna je od najpoznatijih metoda <strong>test implicitnih asocijacija</strong> (IAT – <em>Implicit-Association Test</em>). Smatra se da su implicitni stavovi procjene koje se odvijaju automatski, a da osoba nije svjesna da se taj proces odvija. Uzmimo za primjer klasičan eksperiment koji ukazuje na postojanje takvih automatskih procjena. Ispitanicima se na ekranu računala pokazuju riječi koje trebaju upariti s kategorijama. Primjerice, u lijevom kutu monitora je riječ <em>cvijet</em>, a u desnom je riječ <em>kukac</em>. Ako se na ekranu pojavi ime cvijeta, potrebno je stisnuti strelicu lijevo na tipkovnici kako bi tu riječ uparili s kategorijom <em>cvijet</em>, a ako se pojavi ime kukca, potrebno je stisnuti strelicu desno kako bi riječ uparili s kategorijom <em>kukac</em>. U idućem zadatku na isti se način kategoriziraju atributi; na jednom dijelu ekrana prikazana je kategorija <em>ugodno,</em> a na drugom <em>neugodno</em>; a riječi se (primjerice <em>sloboda</em> ili <em>prljavština</em>) trebaju razvrstavati u jednu od te dvije kategorije. U idućim se koracima kategorije prezentiraju istovremeno. U prvom slučaju kategorije su kongruentne (sukladne), tako da se zajedno pojavljuju <em>cvijet</em> i <em>ugodno</em> s jedne strane te <em>kukac</em> i <em>neugodno</em> s druge strane. Posljednja je situacija najinteresantnija. U njoj su kategorije nekongruentne (nisu sukladne): s jedne strane su kategorije <em>cvijet</em> i <em>neugodno</em>, a s druge <em>kukac</em> i <em>ugodno</em>. Rezultati upućuju na to da ispitanici brže kategoriziraju riječi kada su kategorije kongruentne nego kada su nekongruentne. Ovdje lako možemo zamisliti da će većina ljudi povezivati cvijet s nečim ugodnim, dok će kukca povezivati s nečim neugodnim. To se odražava i u njihovu automatskom procesiranju. Lakše im je razumjeti kategorije kada su kongruentne, nego kada su nekongruentne. Taj dodatan mentalni napor koji trebaju uložiti pri kategoriziranju u nekongruentnoj situaciji očituje se u dužem vremenu koje je ispitanicima potrebno da uspješno obave zadatak (Ako želite saznati više o IAT-u ili sudjelovati u istraživanju, posjetite https://implicit.harvard.edu/implicit/). U jednom velikom istraživanju provedenom s pomoću te metode, autori testa demonstrirali su značajnu pozitivnu pristranost prema bijelcima na velikom uzorku u SAD-u. Ispitanici su brže kategorizirali pozitivne riječi kada su bile uparene s licima ljudi europskog podrijetla i negativne riječi kada su bile uparene s licima ljudi afričkog podrijetla. Pritom je bitno naglasiti da ne smijemo poistovjetiti tu implicitnu rasnu pristranost s rasizmom. Ljudi kod kojih su prisutni takvi implicitni stavovi često osuđuju rasizam, ali isto tako nisu ni svjesni tog oblika pristranosti. Navedeni rezultati imali su veliki odjek u američkoj javnosti te su pokrenuli velike rasprave o rasizmu. To nas dovodi do bitnog pitanja: mogu li procesi kojih nismo svjesni oblikovati naše ponašanje i koji je njihov utjecaj na funkcioniranje cijele zajednice?</p>
+<p>Treba naglasiti da u znanstvenoj zajednici IAT kao mjerna tehnika nije univerzalno prihvaćen kao valjana metoda ispitivanja stavova. Primjerice, neki autori navode da su zabilježeni slučajevi u kojima su ispitanici shvatili svrhu istraživanja, što samo po sebi narušava osnovni preduvjet tog pristupa. Osim toga, eksplicitne mjere stavova predviđaju stvarna ponašanja ljudi bolje ili podjednako dobro kao i IAT, te se stoga treba zapitati što se uistinu mjeri tim testom jer se očekuje da će stavovi biti povezani sa stvarnim ponašanjem. Dakle, postojanje dviju vrsta suprotstavljenih nalaza o stavovima izaziva velike rasprave među istraživačima. S jedne strane smatra se da su oni svjestan proces i da jasno razumijemo kakav stav imamo o pojedinim pitanjima, a s druge strane da su nesvjestan i automatski proces koji djeluje iz pozadine koja bi mogla biti bitno drugačija od onoga kakvima se želimo predstavljati. No, ako se taj problem sagleda iz neuroznanstvene perspektive, možemo se zapitati je li ovdje riječ o dva odvojena procesa koji rezultiraju dvjema različitim vrstama stavova ili je riječ o dva dijela istog procesa? Poznavanje neuronske osnove tih procesa moglo bi pomoći u njihovu razumijevanju, a to su istraživači pokušali napraviti s <strong>modelom iterativnog procesiranja</strong>. Prema tom modelu, informacije o stavovima pohranjene su u pamćenju, a njima se pristupa kada je potrebno procijeniti trenutne situacije ili kontekst. Taj je proces iterativan, što znači da se stavovi mogu nadopuniti novim informacijama, bilo da se do njih dolazi opažanjem vanjskog svijeta bilo pristupanjem nekim drugim informacijama koje su pohranjene u našem pamćenju. Prema tome, različite vrste stavova mogu nastati zbog načina na koji ih mjerimo: mjere implicitnih i eksplicitnih stavova zahvaćaju proces procjene informacija u različitim vremenskim točkama ili nakon različitih stupnjeva procesiranja informacija.</p>
+<p>Prema modelu iterativnog procesiranja nekoliko je područja mozga uključeno u procjenu informacija. Na supkortikalnoj razini amigdala i inzula obrađuju informacije na razini koja nije dostupna našoj svijesti. Amigdala je dio limbičkog sustava (pogledati Sliku 1.4. u prvom poglavlju) te ima ulogu u doživljavanju emocija, posebice straha. Inzula, koju neki smatraju zasebnim režnjem, skrivena je ispod temporalnog režnja (Slika 1.6. u prvom poglavlju), a ima brojne funkcije kao što je reguliranje emocije gađenja, ali i viših kognitivnih funkcija poput svijesti.</p>
+<p>U procjenu informacija uključeni su i cingularni korteks koji je dio limbičkog sustava i orbitofrontalni korteks, dio prednjeg režnja koji je ime dobio upravo po mjestu gdje se nalazi – odmah iznad očnih šupljina (<em>orbit of the eye</em>). Navedena područja omogućuju dodatno procesiranje informacija, dok su u završnu obradu informacija uključeni i drugi prednji dijelovi frontalnog režnja. Te regije omogućuju integraciju senzornih informacija s prethodnim znanjem i emocionalnom reakcijom te se smatra da njihovo zajedničko djelovanje omogućava stvaranje procjene bilo koje situacije. Početak te reakcije brz je i automatski i tada djeluju amigdala i inzula, a poslije se uključuju viša područja mozga koja omogućuju procesiranje informacija temeljenih na prijašnjem znanju i iskustvu. Prema tome, moguće je da ne postoje dvije vrste stavova, eksplicitni i implicitni, već je moguće da različite metode kojima ispitujemo stavove, poput IAT-a ili različith upitnika za eksplicitno mjerenja stavova, zapravo zahvaćaju različite dijelove tog složenog procesa koji se odvija u različitim područjima mozga.</p>
+<h2 id="zašto-postoje-preferencije-prema-nekim-političkim-kandidatima">Zašto postoje preferencije prema nekim političkim kandidatima?</h2>
+<p>Ljudi imaju sklonost pozitivnije vrednovati pripadnike svoje grupe i taj se nalaz stabilno potvrđuje u različitim istraživanjima (počevši od pionirskog rada istraživača Tajfela i njegovih suradnika iz 1971. godine). Tako smo kao djeca mislili da je A razred bio bolji od B razreda (ja sam, naravno, bio u A razredu), da su nogometaši iz našeg grada bolji od bilo kojih drugih nogometaša ili da je naša struka izazovnija ili zahtjevnija od bilo koje druge. Jednako načelo možemo primijeniti i u političkom svijetu. Ako se identificiramo s jednom strankom, veća je vjerojatnost da ćemo politike koje ta stranka zagovara procjenjivati privlačnijima. U nekim slučajevima slagat ćemo se s prijedlozima stranke koju podržavamo čak i ako su njihovi prijedlozi više u skladu s programom oponentske stranke (za koju, naravno, nećemo glasovati). Prema tome, čini se da je bitnije s kojom se strankom identificiramo na osobnoj razini, nego što ćemo pomno promisliti o programima i rješenjima koje nude sve stranke u političkoj areni.</p>
+<p>Istraživači su pokazali da čak i neke prilično beznačajne razlike među ljudima mogu poslužiti kao odrednica „naše“ grupe. Primjerice, psiholozi Ratner i Amodio sa Sveučilišta u New Yorku svojim su ispitanicima rekli da se ljudi razlikuju po sposobnosti da procjenjuju broj objekata s kojima se susreću svakodnevno, da je ta osobina normalno distribuirana među ljudima (što znači da postoje oni koji jako precizno procjenjuju, oni koji su umjereno točni u procjenjivanju, kao i oni koji su iznimno loši) i da nije povezana s drugim psihičkim osobinama. Ispitanici bi potom riješili test te bi doznali u koju skupinu spadaju: jesu li <em>podcjenjivači</em> ili <em>precjenjivači.</em> Zanimljivo je da su u jednu ili drugu skupinu bili svrstani slučajno, bez obzira na stvarni rezultat njihova testa. Nakon toga ispitanicima su prikazivali lica drugih ljudi, koja su pozadinskom bojom bila označena (ispitanici su, naravno, znali koja boja označava koju grupu) kao da su podcjenjivači ili precjenjivači, a zadatak je bio da prepoznaju u koju skupinu spadaju. Kako bi osigurali da su ispitanici uistinu prepoznavali lice osobe, a ne boju pozadine, istraživači su im mjerili potencijale povezane s događajem (ERP) u području između okcipitalnog i temporalnog režnja za koje se zna da sudjeluje u prepoznavanju lica. Tom se tehnikom bilježi aktivnost mozga koja je direktno povezana s nekom kognitivnom aktivnošću (u ovom slučaju prepoznavanje lica). Detaljniji opis te tehnike nalazi se u drugom poglavlju ove knjige. Pokazano je da su ispitanici brže prepoznavali lica osoba koja pripadaju njihovoj skupini. Bitno je naglasiti da je to brz proces (događa se u periodu od oko 450 ms) te da samo prepoznavanje unutargrupne pripadnosti može imati posljedice na stavove o drugim ljudima. U stvarnom svijetu na nas ne utječe previše činjenica koliko drugi ljudi mogu dobro ili loše procjenjivati broj stvari u svojoj okolini, no to je istraživanje pokazalo da drukčije percipiramo osobe iz druge skupine i da brže prepoznajemo lica pripadnika svoje skupine, čak i kad je skupina definirana s pomoću tako arbitrarnog kriterija.</p>
+<p>U političkoj areni političari se natječu za glasove birača, a u natjecanju s drugim kandidatima naglašavaju svoja postignuća, svoje stavove, politike koje zastupaju te nacionalnu i stranačku pripadnost. Takva politička borba može dovesti do još većeg favoriziranja „svoje“ grupe. Pojedine stavove i vrijednosti poistovjećujemo s jednom strankom i manje smo skloni ljudima s drukčijim idejama. Psihologinja Kristine Knutson probala je sa svojim suradnicima ispitati taj fenomen koristeći fMRI. Ispitanicima su prikazali fotografije poznatih američkih političara i zatražili da ih klasificiraju po stranačkoj pripadnosti kao demokrate ili republikance. Pritom su koristili Test implicitnih asocijacija, a fotografije koje su ispitanici trebali klasificirati bile su uparene s pozitivnim ili negativnim riječima. U jednoj je situaciji fotografija političara stranke koju podržavaju bila prikazana s pozitivnom riječi (kongruentna situacija), a u drugoj s negativnom riječi (nekongruentna situacija). Rezultati su pokazali da su ispitanici brže klasificirali političare po stranačkoj pripadnosti u kongruentnoj situaciji, što je u skladu s drugim nalazima ispitivanja implicitnih asocijacija. Lakše nam je kategorizirati pojave koje su u skladu s našim stavovima. Za cijelo to vrijeme istraživači su snimali rad mozga ispitanika koristeći fMRI. Nalazi su pokazali da se u kongruentim situacijama ispitanicima aktivira mreža neurona u frontalnim kortikalnim strukturama koje uključuju i ventromedijalnu mozgovnu koru, regiju mozga koja je uključena u procesiranje osobnih preferencija (poput toga da smo više skloni pripadnicima svoje grupe). S druge strane, ispitanicima se aktivirala amigdala prilikom procjenjivanja u nekongruentnoj situaciji. Amigdala je uključena u emocionalne reakcije vezane za strah i prijeteće situacije. Taj su nalaz istraživači interpretirali kao prepoznavanje stranačke pristranosti na neuronskoj razini. Možemo jednostavno razumjeti taj proces kao uspoređivanje osobina političara sa svojim osobnim stavovima. Ako je ono što političar nudi u skladu s našim osobnim stavovima, percipiramo ga kao pripadnika vlastite grupe i naklonjeniji smo mu.</p>
+<p>Slično istraživanje proveli su neuroznanstvenici sa Sveučilišta Južne Kalifornije. U tom su istraživanju američki ispitanici, koji su se izjasnili kao zagovornici Republikanske ili Demokratske stranke, gledali fotografije Johna Kerryja (demokrat) i Georgea Busha (republikanac) koji su na izborima 2004. godine bili predsjednički kandidati. Za to vrijeme istraživači su snimali rad njihova mozga koristeći fMRI. Nakon toga od ispitanika su tražili da se izjasne kako su se osjećali dok su gledali fotografije. Ispitanici su u pravilu izvještavali o pozitivnijim emocijama za vrijeme gledanja fotografija kandidata stranke koju preferiraju, dok su suprotni rezultati dobiveni za fotografije kandidata druge stranke. Najzanimljivije je što su njihove emocionalne procjene bile povezane s nalazima snimanja mozga. Kada su gledali fotografiju kandidata kojeg ne podržavaju, aktiviralo im se područje prednjeg cingularnog korteksa i više regija u dorzolateralnom prefrontalnom korteksu koje se povezuju s kontrolom pažnje i nadgledanjem vlastita ponašanja. Štoviše, ti rezultati bili su povezani s ispitanikovom procjenom emocija: što su ispitanici imali negativnije emocije usmjerene prema kandidatu, to je aktivnost u tom području bila izraženija. Na temelju toga istraživači su zaključili da prikazivanje fotografija izaziva mehanizme kognitivne kontrole koji se pojavljuju kada reguliramo svoja emocionalna stanja. Moguće je da spomenuta područja sudjeluju u tome da nam smanjuju doživljaj pozitivnih i naglašavaju doživljaj negativnih emocija koje imamo prema kandidatima stranke koju ne podržavamo.</p>
+<p>Psiholog Michael Spezio sa sveučilišta u Kaliforniji sa svojim je suradnicima proveo istraživanje koje je proširilo spoznaje o ulozi prednjeg cingularnog korteksa u odlučivanju. Oni su prvo u laboratoriju proveli <strong>lažne izbore</strong>. Ispitanicima su pokazali parove fotografija stvarnih, ali manje poznatih političara te su ih pitali za koga bi glasali da su sada izbori. Pritom su ispitanici o političarima znali samo kako izgledaju i nisu imali informacije o njihovim programima i stavovima. Nakon toga snimali su rad inzule i prednjeg cingularnog korteksa mozga s pomoću fMRI-a dok su im ponovno pokazivali fotografije istih političara. Kada bi im pokazali fotografije političara koji su izgubili na prethodno održanim lažnim izborima, opažana bi im se područja aktivirala, dok je ista aktivnost izostala prilikom gledanja fotografija pobjednika izbora. Kako bi to dodatno ispitali, u narednom istraživanju od ispitanika su tražili da procijene koji se od dva oponenta doima privlačnijim, kompetentnijim, krivim ili prijetećim, a za vrijeme donošenja tih procjena snimali su im rad istih područja mozga. Prikazani političari bili su stvarni političari koji su bili izabrani u američki Senat, a koji su bili nepoznati sudionicima istraživanja. Opet je pokazano da nije bilo aktivnosti u inzuli i prednjem cingularnom korteksu kada su bili prikazani pobjednici izbora, dok je postojala aktivnost tijekom prikazivanja fotografija gubitnika. Još zanimljivije, ispitanici su dobitnike izbora procjenjivali privlačnijima i kompetentnijima, dok su im se gubitnici činili više krivi i prijeteći. Ti nalazi autore su naveli na zaključak da inzula i prednji cingularni korteks sudjeluju u percepciji negativnih osobina, što se kasnije može nepovoljno odraziti na broj glasova koje kandidat s tim osobinama može dobiti na izborima. Slikovni prikaz inzule i cingularnog korteksa može se vidjeti na slikama u prvom poglavlju (Slika 1.4 i Slika 1.6).</p>
+<p>S druge strane, ti bi nalazi mogli biti važni samo za ljude kojima je politika bitan faktor u životu. Navedeno je potvrđeno u istraživanju u kojem su ispitanici procijenili koliko je izražen njihov interes za politiku i politička pitanja općenito. Nakon toga je snimana aktivnost njihova mozga dok su odgovarali koliko se slažu ili ne slažu s nekim političkim tvrdnjama. Kod ispitanika koji su odgovorili da im je politika bitnija u životu pronađena je veća aktivnost amigdale i striatuma (dio bazalnih ganglija) dok su procjenjivali tvrdnje koje su u skladu s njihovim političkim uvjerenjima. S obzirom na to da je amigdala uključena u emocionalne reakcije, a da je ventralni striatum uključen u doživljavanje nagrađivanja, može se zaključiti da ispitanici kojima je politika bitna u životu doživljavaju ideje koje su u skladu s njihovim svjetonazorom uzbudljivima i da ih ispunjavaju zadovoljstvom.</p>
+<h2 id="zašto-u-politici-postoje-lijevi-i-desni">Zašto u politici postoje lijevi i desni?</h2>
+<p>Sigurno ste svi čuli da u politici postoje neki koji su ljevičari i neki koji su desničari, a jednako tako i da postoje lijeve i desne politike, kao i birači koji se svrstavaju više lijevo ili desno. Povijest tih <strong>političkih orijentacija</strong> vežemo za 1789. godinu i Francusku revoluciju (iako se slična podjela političkih stavova može naći i ranije u povijesti). Francusku revoluciju pokretale su prosvjetiteljske ideje, a za cilj je imala popravljanje jako teških životnih uvjeta većine stanovništva. Na zasjedanju Narodne skupštine pojavile su se dvije struje mišljenja: jedna koja je podržavala postojeći sustav i koja se zalagala za zadržavanje kraljevih ovlasti te druga koja se tomu protivila. Pukom slučajnošću prvi su sjedili na desnoj strani dvorane, dok su drugi sjedili na lijevoj, te od tada dvije suprotstavljene ideje upravljanja društvom nazivamo ljevica i desnica. Postoje brojne značajke jedne i druge političke orijentacije, a neki istraživači naglašavaju razlike u dva velika područja: stavu prema društvenim promjenama i jednakosti u društvu. Desno orijentirani političari zalagat će se za politiku temeljenu na tradiciji i održavanju postojeće društvene hijerarhije, dok se suprotno očekuje od lijevo orijentiranih političara. U jednom pregledu istraživanja provedenih na temu političkih orijentacija u periodu 1958. – 2002. godine izneseno je mišljenje da se u pozadini različitih političkih orijentacija nalaze individualne razlike u suočavanju s neizvjesnošću i prijetnjom. Pritom se ljudi kod kojih je izraženiji strah od smrti, prijetnji ili gubitaka, ljudi kod kojih je izraženija mentalna rigidnost, netolerantnost prema neodređenostima te oni koji imaju veću potrebu za redom i strukturiranim životom češće određuju kao pripadnici desnih političkih struja. S druge strane, ljudi koji su otvoreniji prema novim iskustvima, koji imaju veću toleranciju prema neizvjesnosti te veće samopoštovanje češće se određuju kao pripadnici lijevih političkih struja.</p>
+<p>S obzirom na sveprisutnost ranije spomenutih političkih orijentacija, nije iznenađujuće da su politički psiholozi i neuroznanstvenici željeli istražiti odražava li rad mozga ljevičara i desničara te podjele. U jednom jednostavnom, ali domišljatom istraživanju psiholog Amodio i suradnici stavili su ljude pred lagan zadatak koji se naziva „Kreni/Nemoj krenuti“ (<em>Go-No Go</em>). Taj se zadatak često upotrebljava u istraživanju izvršnih funkcija. Kada bi se na ekranu pojavio podražaj koji signalizira „Kreni“ situaciju, ispitanici su trebali reagirati pritiskom na tipku što je brže moguće, a kad bi se pojavio podražaj koji signalizira „Nemoj krenuti“ situaciju, nisu trebali reagirati. Eksperimentalna manipulacija odnosila se na to da se „Kreni“ situacija pojavljivala mnogo češće, stoga su se ispitanici navikli na automatsko pritiskanje tipke čim bi se nešto pojavilo na ekranu i trebao im je mnogo veći kognitivni napor da evaluiraju suprotstavljenu informaciju na koju ne trebaju dati odgovor. Ranija istraživanja pokazala su da liberalnim biračima, koji spadaju u lijevi dio političkog spektra, odgovaraju manje strukturirane okoline u odnosu na konzervativne birače koji spadaju u desni dio političkog spektra. S obzirom na navedeno, istraživači su pretpostavili da će ispitanici te političke orijentacije imati više točnih odgovora (manje će puta stisnuti tipku u „Nemoj krenuti“ situaciji), a upravo su to pokazali i rezultati. Navedena pojava naziva se nadzor konflikta. Pritom se ne misli na konflikt kao na svađu, već na uspoređivanje informacija koje nisu sukladne. U ranijem primjeru dolazi do konfliktnih informacija u „Nemoj krenuti“ situaciji. Ispitanici su se navikli da se na ekranu pojavljuje podražaj za koji je primjerena reakcija stisak tipke. No kada se odjednom očekuje suprotna (konfliktna) reakcija, postavlja se pitanje koliko brzo i koliko točno njihov mozak može procesirati nove informacije. Predloženo je da centralnu ulogu u kognitivnom nadzoru konflikta među informacijama ima prednji cingularni korteks, za koji je do sada pokazano da sudjeluje u raznim kognitivnim funkcijama poput korištenja jezika, učenja i pamćenja, kontrole pokreta itd. Kako bi provjerili aktivira li se to područje drukčije pri „Kreni/Nemoj krenuti“ zadatku kod ljudi različitih političkih orijentacija, Amodio i suradnici snimali su također EEG-om mozgovnu aktivnost tijekom eksperimenta. Pokazalo se da je aktivnost u toj regiji bila veća kod liberala, a ti nalazi upućuju na to da bi osnovne razlike u političkoj orijentaciji mogle djelomično biti ukorijenjene u načinu na koji naš mozak funkcionira i kako obrađuje informacije.</p>
+<p>U drugom tipu istraživanja provjeravano je razlikuju li se mozgovi politički lijevo i desno orijentiranih ljudi u svojoj strukturi. Već su spomenute uloge amigdale i anteriornog cingularnog korteksa u obrađivanju informacija u političkom kontekstu. Polazeći od tih istraživanja, psiholog Ryota Kanai sa Sveučilišta u Sussexu sa svojim se suradnicima zapitao razlikuju li se navedene strukture kod ljudi različitih političkih orijentacija. Pritom su prvo svoje sudionike pitali za njihove političke stavove, a zatim su snimili strukturu njihova mozga koristeći fMRI. Snimke su pokazale da su liberalni ispitanici imali povećan volumen sive tvari u prednjem cingularnom korteksu, dok su konzervativni ispitanici imali povećan volumen sive tvari u desnoj amigdali. K tome, odnos volumena i izraženosti političke orijentacije (koliko se sudionici smatraju liberalnima ili konzervativnima) bio je pozitivno povezan, drugim riječima volumen je bio to veći što su sudionici imali izraženiju političku orijentaciju.</p>
+<h2 id="znamo-da-je-amigdala-bitna-ali-za-što-točno">Znamo da je amigdala bitna, ali za što točno?</h2>
+<p>Do sada smo se u ovom poglavlju nekoliko puta susretali s ulogom amigdale u procesiranju politički relevantnih informacija. Za kraj ćemo iskoristiti priliku da malo više kažemo o njezinu djelovanju, ali također ćemo na njezinu primjeru pokušati pojasniti koliko je teško zaključivati o radu mozga i svih njegovih struktura u svakodnevnim situacijama. Povijesno gledajući, smatralo se da amigdala prvenstveno sudjeluje u reakcijama na podražaje koji izazivaju strah i u procesiranju negativnih podražaja. No niz novijih istraživanja pokazao je njezinu ulogu i u drugim situacijama. Primjerice, u jednom su istraživanju ispitanicima prezentirane neutralne, pozitivne i negativne slike, a pritom je sniman rad mozga ispitanika pomoću fMRI-a. Pokazalo se da je amigdala bila aktivna pri reakcijama i na pozitivne i na negativne slike, u usporedbi s neutralnima. Pored toga, demonstrirano je da amigdala ima ulogu u nadziranju uvjeta iz okoline, što prethodi emocionalnoj reakciji. Provedeno je jednostavno istraživanje u kojem se miševima i ljudima puštao samo jedan ton. U nekim slučajevima moglo se predvidjeti kada će ton biti pušten (npr. u pravilnim razmacima od 200 ms), dok se u drugim slučajevima ton pojavljivao nepredvidivo. Na fMRI-u je pokazano da je i kod ljudi i kod miševa amigdala aktivna u situaciji pojavljivanja nepredvidivih tonova. Prema tome možemo smatrati da amigdala ima ulogu i u nadgledanju naše okoline, i to čak i u situacijama koje nisu osobite bitne za nas (pojavljivanje jednog tona u nepredvidivim razmacima ne možemo smatrati baš zastrašujućim, zar ne?).</p>
+<p>Sada smo se upoznali s još dvije funkcije amigdale (a ima ih još) koje se ne uklapaju u tradicionalnu pretpostavku da je uloga amigdale procesiranje informacija koje su prijeteće ili zastrašujuće. Prema tome, treba biti oprezan i pri interpretiranju uloge amigdale u nalazima vezanim za istraživanje političkih pitanja. Znamo da se ona aktivira kada vidimo fotografiju političara koji je suprotne političke orijentacije od naše. Ali možemo li sa sigurnošću reći da je to zbog toga što se na neki način plašimo njega ili pripadnika grupe koja ima suprotne stavove od naših? Vjerojatno ne, a amigdala vjerojatno reagira na mnogo širi spektar događaja koji su na neki način od osobne važnosti. Upravo u tom primjeru leži i glavna slabost upotrebe tehnika oslikavanja mozga prilikom ispitivanja političkog ponašanja. Dobiveni nalazi mogu biti privlačni, ali naše poznavanje rada mozga još uvijek nije dovoljno precizno da bismo sa sigurnošću mogli zaključivati o točnim uzročno-posljedičnim odnosima između određene regije mozga i specifičnog ponašanja. Kao što je ovdje opisano na primjeru amigdale, slični primjeri mogli bi se pronaći i za druge regije mozga koje su bile ranije spomenute. Zbog toga treba imati na umu da pri interpretaciji nalaza takvih istraživanja i izvođenju zaključaka treba biti iznimno oprezan. Istraživači Theodoridis i Nelson sa Sveučilišta u Kaliforniji u svom pregledu istraživanja političke neuroznanosti naglašavaju da su dosadašnji nalazi ključni za uspostavljanje nove discipline i za bolje razumijevanje političke kognicije. Međutim, istraživači također moraju biti oprezni kako ne bi pretjerano sigurno zaključivali na temelju svojih nalaza. Treba pustiti području da se razvije, da se nova znanja akumuliraju i ne treba očekivati da će uvođenje novih tehnika mjerenja trenutačno rasvijetliti sve nepoznanice.</p>
+<h2 id="zaključci">Zaključci</h2>
+<p>U ovom poglavlju dan je kratak pregled bitnih nalaza iz područja političke neuroznanosti. Dakako, ima ih još, ali nije bilo moguće uvrstiti sva istraživanja koja posljednjih 10 godina postupno učvršćuju poziciju te discipline u znanstvenom svijetu. Međutim, to nije ni bio cilj ovog poglavlja. Cilj je bio zainteresiranom čitatelju ponuditi uvid u ono što do sada znamo o funkcioniranju mozga kada je riječ o političkim pitanjima. Dosadašnje spoznaje prikazane u ovom poglavlju mogu se sažeti u nekoliko sljedećih zaključaka:</p>
+<ol type="1">
+<li><p>Sustavno smo skloniji prihvatiti članove grupe s kojom dijelimo zajednička obilježja, a da nismo toga ponekad ni svjesni. Također brže prepoznajemo lica pripadnika „naše“ skupine.</p></li>
+<li><p>Prepoznavanje stranačke pripadnosti moguće je identificirati na neuronskoj razini. Prema istraživanjima na američkim uzorcima, gledanje fotografije predsjedničkog kandidata kojeg podržavamo aktivira područja prednjeg cingularnog korteksa i više regija u dorsolateralnom prefrontalnom korteksu. Inzula i prednji cingularni korteks sudjeluju u percepciji negativnih osobina političara.</p></li>
+<li><p>Kada je riječ o ulozi amigdale u procesiranju politički relevantnih informacija, potvrđeno je njezino aktiviranje za vrijeme gledanja fotografije političara koji je suprotne političke orijentacije od naše. Budući da tehnike oslikavanja mozga ne pružaju uvid u uzročno-posljedične odnose između aktivacije određene regije mozga i specifičnog ponašanja, u ovom slučaju, uzimajući u obzir već istraženu ulogu amigdale, ne možemo sa sigurnošću odgovoriti na pitanje je li njezina aktivacija povezana s našim strahom od konkretnog političara ili je povezana sa strahom od pripadnika grupe koja ima stavove suprotne od naših. Takve nalaze ipak treba uzeti sa „zrncem soli“ i biti oprezan pri interpretaciji nalaza i donošenju čvrstih zaključaka. Ako vam se iznesene informacije u ovom poglavlju i ne čine uvjerljivima, prisjetite se na sekundu da su one samo djelić jednog ogromnog pothvata – razumijevanja funkcioniranja ljudskog mozga, najsloženije poznate strukture u svemiru. Svaki idući korak koji budemo poduzimali kako bismo proširili svoje spoznaje, dovest će do boljeg razumijevanja kako tisuće i tisuće pojedinačnih mozgova oblikuju složenu strukturu koju kroz povijest nazivamo ljudskom civilizacijom.</p></li>
+</ol>
+<h2 id="testirajte-se">Testirajte se</h2>
+<ol type="1">
+<li><p>Amigdala je uključena u velik broj moždanih procesa. Probajte se sjetiti kada se sve aktivira amigdala kada razmišljamo o političkim pitanjima.</p></li>
+<li><p>Koje se moždane regije aktiviraju kada gledamo fotografiju političara kojemu nismo nakloni?</p></li>
+<li><p>Kako birači percipiraju pobjednike, a kako gubitnike političkih izbora?</p></li>
+<li><p>Doživljavaju li politička pitanja na isti način oni kojima je politika bitna u životu i oni kojima nije?</p></li>
+<li><p>Koje se psihičke osobine nalaze u pozadini lijeve i desne političke orijentacije?</p></li>
+</ol>
+<h2 id="preporučena-dodatna-literatura">Preporučena dodatna literatura</h2>
+<p>Boehm, C. (2009). <em>Hierarchy in the forest: The evolution of egalitarian behavior</em>. Cambridge: Harvard University Press. – U ovoj knjizi dan je pregled društvene organizacije plemena lovaca sakupljača koji još žive u modernom vremenu te se pokušava dati odgovor na pitanje kako nastaje politička organizacija u jednom društvu.</p>
+<p>Cottam, M. L., Mastors, E., Preston, T., &amp; Dietz, B. (2015). <em>Introduction to political psychology</em>. New York: Routledge. – Politička psihologija veliko je područje u kojem se praktički sve velike psihologijske teorije primjenjuju na razumijevanje individualnih razlika u političkom ponašanju. Ovaj udžbenik daje kompletan prikaz i jako dobar uvod u područje.</p>
+<p>Noël, A., &amp; Thérien,, J. P. (2008). <em>Left and right in global politics</em>. New York: Cambridge University Press. – Knjiga donosi pregled lijeve i desne političke orijentacije tijekom povijesti. Iako se formalno kao začetak tih podjela uzimaju zbivanja koja su se odvijala tijekom Francuske revolucije, osnovne ideje različitih političkih orijentacija mogu se naći još i u antičkoj Grčkoj.</p>
+<p>Theodoridis A. G., &amp; Nelson, A. J. (2012). Of BOLD claims and excesive fears: A call for caution and patience regarding political neuroscience. <em>Political Psychology, 33</em>(1), 41-57. – U članku je prikazan pregled relevantnih istraživanja u području političke neuroznanosti. Autori također upozoravaju na nedostatke koje područje trenutno ima te daju preporuke kako bi se u budućnosti ti nedostatci mogli zaobići.</p>
+<h2 id="važni-pojmovi">Važni pojmovi</h2>
+<p><strong>Elektroencefalografija (EEG)</strong> Pogledati definiciju na popisu pojmova drugog poglavlja. Zbog bolje vremenske rezolucije u usporedbi s fMRI-em, pogodna je za proučavanje kako se za vrijeme određenog psihičkog procesa u mozgu odvijaju prateće aktivnosti tijekom određenog vremena.</p>
+<p><strong>Funkcionalna magnetska rezonancija (fMRI)</strong> Tehnika snimanja aktivnosti mozga u magnetskom polju koja se temelji na BOLD signalu koji ukazuje na stupanj oksigenizacije krvi koja protječe kroz mozak. S pomoću nje istraživač dobiva snimku rada mozga, a osobito je pogodna za mapiranje moždanih područja za koja se onda pretpostavlja da su uključena u specifične psihičke procese.</p>
+<p><strong>Lažni izbori</strong> (<em>engl. mock elections</em>) Metoda proučavanja političkog ponašanja koja se često upotrebljava. U laboratoriju se simulira izborna situacija. Pritom istraživači kontroliraju njezine bitne aspekte (poput političkih poruka ili izgleda kandidata) te proučavaju kako to djeluje na donošenje odluka birača.</p>
+<p><strong>Model iterativnog procesiranja</strong> Model kojim se pokušava objasniti način na koji ljudi pohranjuju stavove koje imaju o svijetu koji nas okružuje. Pretpostavlja se da su informacije o stavovima pohranjene u pamćenju, ali mogu se nadopuniti novim informacijama bilo iz vanjskog svijeta bilo iz drugih dijelova pamćenja. Zbog toga se taj proces naziva iterativnim, informacija o stavu postoji u memoriji, ali može biti nadopunjena ili promijenjena.</p>
+<p><strong>Politička neuroznanost</strong> Grana znanosti koja se bavi proučavanjem rada mozga prilikom političkog ponašanja i razmišljanja o političkim temama.</p>
+<p><strong>Politička orijentacija</strong> Stavovi pojedinaca i grupa o političkim pitanjima. Svrstava se na spektar između lijeve (zalaganje za nove ideje i podjednaku raspodjelu resursa unutar društva) i desne orijentacije (zalaganje za održavanje tradicije i postojeće društvene hijerarhije).</p>
+<p><strong>Politika</strong> Naziv za kolektivne djelatnosti s pomoću kojih društvo određuje prioritete koje će zajednički ostvariti te uspostavljanje pravila koja vrijede za sve pripadnike društva, a s pomoću kojih će se ti prioriteti ostvariti.</p>
+<p><strong>Politologija</strong> Društvena znanost koja se bavi proučavanjem sustava upravljanja, političkih misli i političkog ponašanja.</p>
+<p><strong>Stav</strong> Stečena, relativno trajna i stabilna organizacija pozitivnih ili negativnih emocija, vrednovanja i reagiranja prema nekom objektu.</p>
+<p><strong>Test implicitnih asocijacija</strong> Istraživačka metoda u socijalnoj psihologiji s pomoću koje se provjerava snaga automatskih asocijacija između mentalnih reprezentacija svijeta koje neka osoba ima pohranjene u svojem pamćenju.</p>
+<h2 id="literatura">Literatura</h2>
+<p>Amodio, D. M., Jost, J. T., Master, S. L., &amp; Yee, C. M. (2007). Neurocognitive correlates of liberalism and conservatism. <em>Nature Neuroscience, 10</em>(10), 1246-1247.</p>
+<p>Botvinick, M. M., Braver, T. S., Barch, D. M., Carter, C. S., &amp; Cohen, J. D. (2001). Conflict monitoring and cognitive control. <em>Psychological Review, 108</em>(3), 624.</p>
+<p>Cottam, M. L., Mastors, E., Preston, T., &amp; Dietz, B. (2015). <em>Introduction to political psychology</em>. New York: Routledge.</p>
+<p>Cunningham, W. A., Zelazo, P. D., Packer, D. J., &amp; Van Bavel, J. J. (2007). The iterative reprocessing model: A multilevel framework for attitudes and evaluation. <em>Social Cognition, 25</em>(5), 736-760.</p>
+<p>Garavan, H., Pendergrass, J. C., Ross, T. J., Stein, E. A., &amp; Risinger, R. C. (2001). Amygdala response to both positively and negatively valenced stimuli. <em>Neuroreport, 12</em>(12), 2779-2783.</p>
+<p>Greenwald, A. G., McGhee, D. E., &amp; Schwartz, J. L. (1998). Measuring individual differences in implicit cognition: the implicit association test. <em>Journal of Personality and Social Psychology, 74</em>(6), 1464-1480.</p>
+<p>Gozzi, M., Zamboni, G., Krueger, F., &amp; Grafman, J. (2010). Interest in politics modulates neural activity in the amygdala and ventral striatum. <em>Human brain mapping</em>, <em>31</em>(11), 1763-1771.</p>
+<p>Herry, C., Bach, D. R., Esposito, F., Di Salle, F., Perrig, W. J., Scheffler, K., … &amp; Seifritz, E. (2007). Processing of temporal unpredictability in human and animal amygdala. <em>The Journal of Neuroscience, 27</em>(22), 5958-5966.</p>
+<p>Jost, J. T., Glaser, J., Kruglanski, A. W., &amp; Sulloway, F. J. (2003). Political conservatism as motivated social cognition. <em>Psychological bulletin, 129</em>(3), 339.</p>
+<p>Jost, J. T., Federico, C. M., &amp; Napier, J. L. (2009). Political ideology: Its structure, functions, and elective affinities. <em>Annual review of psychology</em>, <em>60</em>, 307-337.</p>
+<p>Kanai, R., Feilden, T., Firth, C., &amp; Rees, G. (2011). Political orientations are correlated with brain structure in young adults. <em>Current biology, 21</em>(8), 677-680.</p>
+<p>Kaplan, J. T., Freedman, J., &amp; Iacoboni, M. (2007). Us versus them: Political attitudes and party affiliation influence neural response to faces of presidential candidates. <em>Neuropsychologia, 45</em>(1), 55-64.</p>
+<p>Knutson, K. M., Wood, J. N., Spampinato, M. V., &amp; Grafman, J. (2006). Politics on the brain: An fMRI investigation. <em>Social Neuroscience,</em> <em>1</em>(1), 25-40.</p>
+<p>Noël, A., &amp; Thérien,, J.P. (2008). <em>Left and right in global politics</em>. New York: Cambridge University Press.</p>
+<p>Petz, B. (Ed.). (2005). <em>Psihologijski rječnik.</em> Jastrebarsko: Naklada Slap.</p>
+<p>Ratner, K. G., &amp; Amodio, D. M. (2013). Seeing “us vs. them”: Minimal group effects on the neural encoding of faces. <em>Journal of Experimental Social Psychology</em>, <em>49</em>(2), 298-301.</p>
+<p>Spezio, M. L., Rangel, A., Alvarez, R. M., O’Doherty, J. P., Mattes, K., Todorov, A., … &amp; Adolphs, R. (2008). A neural basis for the effect of candidate appearance on election outcomes. <em>Social Cognitive and Affective Neuroscience, 3</em>(4), 344-352.</p>
+<p>Tajfel, H., Billig, M. G., Bundy, R. P., &amp; Flament, C. (1971). Social categorization and intergroup behaviour. <em>European Journal of Social Psychology</em>, <em>1</em>(2), 149-178.</p>
+<p>Theodoridis A. G., &amp; Nelson, A. J. (2012). Of BOLD claims and excesive fears: A call for caution and patience regarding political neuroscience. <em>Political Psychology, 33</em>(1), 41-57.</p>
+<p>Westen, D., Blagov, P. S., Harenski, K., Kilts, C., &amp; Hamann, S. (2006). Neural bases of motivated reasoning: An fMRI study of emotional constraints on partisan political judgment in the 2004 US presidential election. <em>Journal of Cognitive Neuroscience</em>, <em>18</em>(11), 1947-1958.</p>
+</body>
+</html>
