@@ -3,7 +3,7 @@ author-meta:
 - John Doe
 - Jane Roe
 date-meta: '2019-12-27'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-27\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-27\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/335a648ad2c902f55c60ce9235aad84fe265b169/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/335a648ad2c902f55c60ce9235aad84fe265b169/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/335a648ad2c902f55c60ce9235aad84fe265b169/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-27\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-27\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -20,9 +20,9 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/335a648ad2c902f55c60ce9235aad84fe265b169/))
+([permalink](https://fpehar.github.io/manupsy/v/0e1cca43c90432962c616eae81e0ddad924adbad/))
 was automatically generated
-from [fpehar/manupsy@335a648](https://github.com/fpehar/manupsy/tree/335a648ad2c902f55c60ce9235aad84fe265b169)
+from [fpehar/manupsy@0e1cca4](https://github.com/fpehar/manupsy/tree/0e1cca43c90432962c616eae81e0ddad924adbad)
 on December 27, 2019.
 </em></small>
 
@@ -86,6 +86,18 @@ Nataša Šimić, Pavle Valerjev i Matilda Nikolić Ivanišević
 
 Zadar, veljača 2019.
 
+
+## Recenzije {.page_break_before}
+
+
+„Mozak i um: od električnih potencijala do svjesnog bića“ se bavi pitanjem odnosa mozga i uma, odnosno, pitanjem kako moždana aktivnost stvara mentalna stanja. Ovo pitanje predstavlja jednu od najvećih neriješenih misterija i izazova za znanost u 21. stoljeću. U zadnjih četrdesetak godina, razvojem različitih tehnika za oslikavanje moždane aktivnosti, akumulirano je mnogo novih spoznaja o ovom fascinantnom pitanju. Stoga je od izuzetne važnosti napraviti pregled najvažnijih dostignuća i usmjeriti čitaoce ka proučavanju relevantne literature.
+- Prof. dr. sc. Dražen Domijan
+
+Knjiga donosi pregled odabranih relevantnih i suvremenih tema iz neuroznanosti i znanstvene psihologije. Na taj način čitatelju omogućuje vrlo dubok uvid u mozak i um, od osnovnih spoznaja o anatomiji i fiziologiji živčanog sustava i pregleda suvremenih istraživačkih tehnika u njegovu proučavanju, preko raskrinkavanja ukorijenjenih mitova o mozgu i prikaza evolucije mozga, do vrlo zanimljivih recentnih znanstvenih spoznaja o neurofiziološkoj pozadini jezika, prostornog vida, deklarativnog pamćenja, svijesti, ljubavi i seksa, te političkog djelovanja. … Pri tome je uredništvo uspjelo u nakani da ovu, vrlo kompleksnu materiju, predstavi na jasan i razumljiv način, prilagođen visokoškolskom udžbeniku.
+- Izv. prof. dr. sc. Ana Slišković
+
+Riječ je o moderno koncipiranom udžbeniku u kojem su odabrane teme iz područja neuroznanosti opisane na razumljiv način. S obzirom na rastuću važnost nalaza u različitim granama neuroznanosti i njihovoj sve većoj primjeni u raznim sferama ljudskog djelovanja (medicini, obrazovanju, upravljanju ljudskim potencijalima itd.) ovakve su teme itekako relevantne, a dodano je znanje iz tih područja sve traženije u raznim studijskim programima.
+- Doc. dr. sc. Ivana Hromatko
 
 ## O urednicima i autorima
 
@@ -370,18 +382,6 @@ Svab, D. (2014). *Naš mozak-to smo mi. Od materice do Alchajmera*. Beograd: Pla
 Preuzeto 20. travnja 2018.
 
 Walker, R. (2003). *Mozak. Kako funkcionira siva tvar?* Zagreb: Profil International.
-
-## Recenzije {.page_break_before}
-
-
-„Mozak i um: od električnih potencijala do svjesnog bića“ se bavi pitanjem odnosa mozga i uma, odnosno, pitanjem kako moždana aktivnost stvara mentalna stanja. Ovo pitanje predstavlja jednu od najvećih neriješenih misterija i izazova za znanost u 21. stoljeću. U zadnjih četrdesetak godina, razvojem različitih tehnika za oslikavanje moždane aktivnosti, akumulirano je mnogo novih spoznaja o ovom fascinantnom pitanju. Stoga je od izuzetne važnosti napraviti pregled najvažnijih dostignuća i usmjeriti čitaoce ka proučavanju relevantne literature.
-- Prof. dr. sc. Dražen Domijan
-
-Knjiga donosi pregled odabranih relevantnih i suvremenih tema iz neuroznanosti i znanstvene psihologije. Na taj način čitatelju omogućuje vrlo dubok uvid u mozak i um, od osnovnih spoznaja o anatomiji i fiziologiji živčanog sustava i pregleda suvremenih istraživačkih tehnika u njegovu proučavanju, preko raskrinkavanja ukorijenjenih mitova o mozgu i prikaza evolucije mozga, do vrlo zanimljivih recentnih znanstvenih spoznaja o neurofiziološkoj pozadini jezika, prostornog vida, deklarativnog pamćenja, svijesti, ljubavi i seksa, te političkog djelovanja. … Pri tome je uredništvo uspjelo u nakani da ovu, vrlo kompleksnu materiju, predstavi na jasan i razumljiv način, prilagođen visokoškolskom udžbeniku.
-- Izv. prof. dr. sc. Ana Slišković
-
-Riječ je o moderno koncipiranom udžbeniku u kojem su odabrane teme iz područja neuroznanosti opisane na razumljiv način. S obzirom na rastuću važnost nalaza u različitim granama neuroznanosti i njihovoj sve većoj primjeni u raznim sferama ljudskog djelovanja (medicini, obrazovanju, upravljanju ljudskim potencijalima itd.) ovakve su teme itekako relevantne, a dodano je znanje iz tih područja sve traženije u raznim studijskim programima.
-- Doc. dr. sc. Ivana Hromatko
 
 # 2. SNIMANJE ELEKTRIČNE AKTIVNOSTI MOZGA: ELEKTROENCEFALOGRAFIJA (EEG) I POTENCIJALI VEZANI UZ DOGAĐAJ (ERP)
 
