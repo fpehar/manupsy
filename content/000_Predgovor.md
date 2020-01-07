@@ -6,15 +6,17 @@ Knjiga je zamišljena kao dodatni udžbenik za veći broj kolegija na studiju ps
 
 Zahvaljujemo našim kolegama, autorima poglavlja na odabiru relevantnih tema i vrlo uspješnoj suradnji u svakoj fazi našeg zajedničkog rada. Također zahvaljujemo i našim kolegama recenzentima dr. sc. Draženu Domijanu, dr. sc. Ani Slišković i dr. sc. Ivani Hromatko na vrlo korisnim sugestijama i prijedlozima koji su utkani u sadržaj knjige. Toplo zahvaljujemo Tomislavu Grzunovu, diplomiranom restauratoru – konzervatoru na ilustracijama živčanog sustava i izradi naslovne stranice. Značajnu zahvalu dugujemo i lektorici Editi Medić, prof.
 
+Knjiga je vrlo pažljivo i suvremeno didaktički opremljena. Svako poglavlje započinje popisom glavnih tema koje će biti objašnjene te sadrži originalne ilustracije koje olakšavaju praćenje teksta. Završetak svakog poglavlja donosi numerirani popis najvažnijih zaključaka, popis pitanja za vježbu i ponavljanje i preporučenu literaturu za proširivanje znanja. Potom slijedi popis definicija važnih pojmova iz poglavlja i popis korištene literature. Poglavlja su povezana i integrirana međusobno tako da knjiga čini jednu cjelinu, ali dopušta čitatelju i vrlo fleksibilan pristup. Može se čitati kao cjelovita knjiga, od korica do korica, a s druge je strane moguće čitati samo odabrana poglavlja prema potrebama kolegija ili prema želji samog čitatelja. U sljedećim redcima donosimo prijedloge naših poglavlja za pojedine kolegije na studiju psihologije te na drugim studijima uključujući studij sociologije, pedagogije, lingvistike, filozofije i informacijskih znanosti.
+
 * Studij psihologije (prema kolegijima):
 
   * Biološka psihologija: cijela knjiga
   * Osnove kognitivne neuroznanosti: cijela knjiga
-  *  Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
-  *  Osjeti i percepcija: poglavlja 2 i 5
-  *  Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
-  *  Edukacijska psihologija: poglavlja 4, 6, 7, 8
-  *  Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
+  * Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
+  * Osjeti i percepcija: poglavlja 2 i 5
+  * Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
+  * Edukacijska psihologija: poglavlja 4, 6, 7, 8
+  * Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
 
 * Studij sociologije: poglavlja 1, 3, 7, 8, 9, 10
 * Studij pedagogije: poglavlja 1, 2, 4, 6, 7, 8
