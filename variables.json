@@ -8,32 +8,32 @@
       "svjesno biće"
     ],
     "lang": "hr-HR",
-    "date-meta": "2019-12-27",
+    "date-meta": "2020-01-07",
     "author-meta": [],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta name=\"dc.date\" content=\"2019-12-27\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-27\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRIČNIH POTENCIJALA DO SVJESNOG BIĆA\" />\n<meta name=\"dc.date\" content=\"2020-01-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-01-07\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
   },
   "manubot": {
-    "date": "December 27, 2019",
+    "date": "January 7, 2020",
     "authors": [],
     "ci_source": {
       "provider": "travis",
       "repo_slug": "fpehar/manupsy",
       "repo_owner": "fpehar",
       "repo_name": "manupsy",
-      "commit": "94dc20c365ca68b6cf2e878f02352e51fc6294ca",
-      "triggering_commit": "94dc20c365ca68b6cf2e878f02352e51fc6294ca",
-      "build_url": "https://travis-ci.com/fpehar/manupsy/builds/142498701",
-      "job_url": "https://travis-ci.com/fpehar/manupsy/jobs/270764050"
+      "commit": "cb0712c5b8c2dff0edf81fe6695248181ac25084",
+      "triggering_commit": "cb0712c5b8c2dff0edf81fe6695248181ac25084",
+      "build_url": "https://travis-ci.com/fpehar/manupsy/builds/143392589",
+      "job_url": "https://travis-ci.com/fpehar/manupsy/jobs/273067623"
     },
     "html_url": "https://fpehar.github.io/manupsy/",
     "pdf_url": "https://fpehar.github.io/manupsy/manuscript.pdf",
-    "html_url_versioned": "https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/",
-    "pdf_url_versioned": "https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/manuscript.pdf",
+    "html_url_versioned": "https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/",
+    "pdf_url_versioned": "https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/manuscript.pdf",
     "manuscript_stats": {
       "reference_counts": {
         "total": 0
       },
-      "word_count": 87089
+      "word_count": 87220
     }
   }
 }

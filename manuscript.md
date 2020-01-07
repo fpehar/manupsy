@@ -1,7 +1,7 @@
 ---
 author-meta: []
-date-meta: '2019-12-27'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2019-12-27\" />\n<meta name=\"citation_publication_date\" content=\"2019-12-27\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-01-07'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"citation_title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"og:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta property=\"twitter:title\" content=\"MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A\" />\n<meta name=\"dc.date\" content=\"2020-01-07\" />\n<meta name=\"citation_publication_date\" content=\"2020-01-07\" />\n<meta name=\"dc.language\" content=\"hr-HR\" />\n<meta name=\"citation_language\" content=\"hr-HR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<link rel=\"canonical\" href=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"og:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta property=\"twitter:url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://fpehar.github.io/manupsy/\" />\n<meta name=\"citation_pdf_url\" content=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://fpehar.github.io/manupsy/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - mozak
 - umg
@@ -18,10 +18,10 @@ title: "MOZAK I UM: OD ELEKTRI\u010CNIH POTENCIJALA DO SVJESNOG BI\u0106A"
 
 <small><em>
 This manuscript
-([permalink](https://fpehar.github.io/manupsy/v/94dc20c365ca68b6cf2e878f02352e51fc6294ca/))
+([permalink](https://fpehar.github.io/manupsy/v/cb0712c5b8c2dff0edf81fe6695248181ac25084/))
 was automatically generated
-from [fpehar/manupsy@94dc20c](https://github.com/fpehar/manupsy/tree/94dc20c365ca68b6cf2e878f02352e51fc6294ca)
-on December 27, 2019.
+from [fpehar/manupsy@cb0712c](https://github.com/fpehar/manupsy/tree/cb0712c5b8c2dff0edf81fe6695248181ac25084)
+on January 7, 2020.
 </em></small>
 
 ## Authors
@@ -38,15 +38,17 @@ Knjiga je zamišljena kao dodatni udžbenik za veći broj kolegija na studiju ps
 
 Zahvaljujemo našim kolegama, autorima poglavlja na odabiru relevantnih tema i vrlo uspješnoj suradnji u svakoj fazi našeg zajedničkog rada. Također zahvaljujemo i našim kolegama recenzentima dr. sc. Draženu Domijanu, dr. sc. Ani Slišković i dr. sc. Ivani Hromatko na vrlo korisnim sugestijama i prijedlozima koji su utkani u sadržaj knjige. Toplo zahvaljujemo Tomislavu Grzunovu, diplomiranom restauratoru – konzervatoru na ilustracijama živčanog sustava i izradi naslovne stranice. Značajnu zahvalu dugujemo i lektorici Editi Medić, prof.
 
+Knjiga je vrlo pažljivo i suvremeno didaktički opremljena. Svako poglavlje započinje popisom glavnih tema koje će biti objašnjene te sadrži originalne ilustracije koje olakšavaju praćenje teksta. Završetak svakog poglavlja donosi numerirani popis najvažnijih zaključaka, popis pitanja za vježbu i ponavljanje i preporučenu literaturu za proširivanje znanja. Potom slijedi popis definicija važnih pojmova iz poglavlja i popis korištene literature. Poglavlja su povezana i integrirana međusobno tako da knjiga čini jednu cjelinu, ali dopušta čitatelju i vrlo fleksibilan pristup. Može se čitati kao cjelovita knjiga, od korica do korica, a s druge je strane moguće čitati samo odabrana poglavlja prema potrebama kolegija ili prema želji samog čitatelja. U sljedećim redcima donosimo prijedloge naših poglavlja za pojedine kolegije na studiju psihologije te na drugim studijima uključujući studij sociologije, pedagogije, lingvistike, filozofije i informacijskih znanosti.
+
 * Studij psihologije (prema kolegijima):
 
   * Biološka psihologija: cijela knjiga
   * Osnove kognitivne neuroznanosti: cijela knjiga
-  *  Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
-  *  Osjeti i percepcija: poglavlja 2 i 5
-  *  Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
-  *  Edukacijska psihologija: poglavlja 4, 6, 7, 8
-  *  Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
+  * Kognitivna psihologija: poglavlja 2, 4, 5, 6, 7, 8
+  * Osjeti i percepcija: poglavlja 2 i 5
+  * Socijalna psihologija: poglavlja 3, 7, 8, 9, 10
+  * Edukacijska psihologija: poglavlja 4, 6, 7, 8
+  * Psihologijska metodologija: poglavlja 2, 4, 5, 7, 8
 
 * Studij sociologije: poglavlja 1, 3, 7, 8, 9, 10
 * Studij pedagogije: poglavlja 1, 2, 4, 6, 7, 8
